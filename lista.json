@@ -1784,6 +1784,18 @@
     ]
   },
   {
+    "name": "BRASIL",
+    "lista": [
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZ8M5ui__Tq98b0zSeGG5q3iNdq4h3okbPPAs7GjKCBOWhD1dVVT739fWHRdLr-mAIs&usqp=CAU",
+        "name": "BAND INTERNATIONAL",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OO7wH88Hjyht64V/srSwoG0gjiZQ0atUDJFI7MMHper3o5Uw/0v7CCSpG9rKL7B3M1AM2WoA4/Vw04uLOrZruA+Wz3UsuYMurF4JSG6wJeIG",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OOGJOXh1GeCyA+tPq2Bimdat4w/oGA2YeJMP+1jMrhfq"
+      }
+    ]
+  },
+  {
     "name": "BOLIVIA",
     "lista": [
       {
