@@ -339,6 +339,13 @@
   {
     "name": "DEPORTIVOS",
     "lista": [
+      {
+        "icon": "https://yt3.ggpht.com/NPkklF8BmJZaeYp7ewf-mutoi2SkNjcLI4uvHs-z6-VRh7yWvFL7JkauVsTVyZlQdhqoDdl89Q=s900-c-k-c0x00ffffff-no-rj",
+        "name": "DAZN F1",
+        "uri": "vLE4d82lBTj6E1YxdSC5+v0poVPKZabLoEPIIVJLJVMd/7Mp8hgivgXqwIMvpCndw5cGLqca+8DLZXFbWwS39/jU7ZlQCwbrjuCnOPmxAAWsUr2KoRm/wRgKtKgZSpCwFX9BQzqnYQjylWXfWCzdenWJ2vSMqSGPvivTQMiY/XI=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCWTqKAERv42zb4qybMbU2jwEeppl9MjhXrlxlPOc9lO"
+      },
      {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
         "name": "FOX SPORTS PREMIUM",
