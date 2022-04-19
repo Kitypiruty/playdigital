@@ -814,6 +814,13 @@
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
       },
       {
+        "icon": "https://static.flow.com.ar/images/282/CH_LOGO/60/40/0/0/36574640074098.png",
+        "name": "FXM",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zryIh2qM+3un9G5SCKR3BEFuO0uXAx50fkPn1MAfNUAlgP/y6ebkzHXNdOggI4fIpfGUwQeNHpD5d4CuHRfIsj",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+      },
+      {
         "icon": "https://static.flow.com.ar/images/732/CH_LOGO/350/500/0/0/952123260745.png",
         "name": "VOLVER",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yWbcelSA0xL/bK9rw0ou9XM0QLIwJzh7zV6WHSgeaIx1yCm0nJQNXCt0BkFllkUhw=",
@@ -1280,7 +1287,7 @@
       }
     ]
   },
-   {
+  {
     "name": "ADULTOS XXX 18+",
     "samples": [
           {
@@ -2398,7 +2405,7 @@
         "name": "Pasion de Gavilanes capitulo 24 temporada 2",
         "uri": "eRu46h8kxVLWNzlfht/1OHtB3/5+Oc2l78D4vM3eYGrM0J/EFWw0AomwUdhDwRCDCfGOELlfaJLxef1bdFCgxg=="
       },
-      {
+          {
         "icon": "https://m1.paperblog.com/i/694/6948728/pasion-gavilanes-2-capitulo-10-L-AIpoRO.jpeg",
         "name": "Pasion de Gavilanes capitulo 25 temporada 2",
         "uri": "eRu46h8kxVLWNzlfht/1OFiaKej/M4SkgAxcQLsDrZYOJO24VY4ba/NK1NwYTBbDFxyIPKxlkyY3f0Bu6Bgbgo4AaG4GGoPWR7KCgpvvo/w="
@@ -2488,7 +2495,7 @@
         "name": "Pasion de Gavilanes capitulo 42 temporada 2",
         "uri": "eRu46h8kxVLWNzlfht/1OHtB3/5+Oc2l78D4vM3eYGrM0J/EFWw0AomwUdhDwRCDyPYkTqGjVs8wSS7DrKNmEQ=="
      },
-          {
+     {
         "icon": "https://i.blogs.es/dfef03/the_batman-301109776-large/450_1000.jpg",
         "name": "The Batman",
         "uri": "eRu46h8kxVLWNzlfht/1OFEgcJUG52ypZuGMAtgyW0oPdbem3r+xdjFPiIOcI9FJ"
@@ -2512,7 +2519,7 @@
         "icon": "https://pics.filmaffinity.com/Granizo-289420713-large.jpg",
         "name": "GRANIZO (2022)",
         "uri": "eRu46h8kxVLWNzlfht/1OFEgcJUG52ypZuGMAtgyW0p45qujDlKiBlpzJEri325X"
-     }
+      }
     ]
   }
 ]
