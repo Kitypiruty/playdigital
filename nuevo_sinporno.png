@@ -1290,11 +1290,6 @@
   {
     "name": "MUSICA",
     "samples": [
-    {
-        "icon": "https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg",
-        "name": "CONCERT CHANNEL",
-        "uri": "8lFtzaIN+0uZIJU8NAjdyCodmy3O+RnvD2qg+lTtiNV0WMOgxsDtrSbYf50eQkCrnZQOmhP4OlY2KOiub3803qvhn/YBiphHbrnXOARTgG/SDCM+3vkANzUI1aaJTmVfQsfhaJYK7Ddc2uUy6Ji+1w=="
-      },
      {
         "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
         "name": "QUIERO TV",
