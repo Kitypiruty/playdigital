@@ -2123,7 +2123,7 @@
   {
     "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
     "samples": [
-{
+  {
         "icon": "http://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/la-pantera-rosa.png?itok=DYyKopHS",
         "name": "La Pantera Rosa 24/7",
         "uri": "lvkHsW5Xi9iaP+PsZnvqaAlNdRUpC04+A79yTlXEmduAVCyyb8SLzLwvPDNlxvxEcf44CPvqKZOdIuydui76/g=="
@@ -2515,26 +2515,6 @@
         "name": "JurasccIsland",
         "uri": "eRu46h8kxVLWNzlfht/1OFEgcJUG52ypZuGMAtgyW0qw8bryjbIRXyIsSnnO7wVH5W0x87i0hUUOwuNXFqN5Dw=="
      },
-     {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV - opcion 2",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfPbpIguaXLQNSa74BU8QBaB1290TnEp4qykZo6NL5kOFwCgDlUo3J4uTYCxGCe2SNS"
-     },
-     {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV - opcion 3",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfP8JmQIp9wEwfF+73LH3OH4o7MjrnV9Kz6AQYOyXG5S4PlO7uTSlFjGH0p9K1O5lV5",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "eRu46h8kxVLWNzlfht/1OPOZMLPjDQGG2yiCVzBZ54WY0ZXtSQ2SmDzdGkQwcRjq",
-        "drm_session_for_clear_content": true
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV - opcion 4",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfP8JmQIp9wEwfF+73LH3OH4o7MjrnV9Kz6AQYOyXG5S4PlO7uTSlFjGH0p9K1O5lV5A",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
-      },
      {
         "icon": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bI1ZDRkerXrcaFa5kWjEMw80aqE.jpg",
         "name": "Alien Sniperess",
