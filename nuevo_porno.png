@@ -2516,13 +2516,10 @@
         "uri": "eRu46h8kxVLWNzlfht/1OFEgcJUG52ypZuGMAtgyW0qw8bryjbIRXyIsSnnO7wVH5W0x87i0hUUOwuNXFqN5Dw=="
      },
      {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
-        "name": "TEST",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXs6DLKl+3yOpVGK5YNofkZSf3/HrmZ9t01Mm6h0N3yOg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "eRu46h8kxVLWNzlfht/1OPOZMLPjDQGG2yiCVzBZ54WY0ZXtSQ2SmDzdGkQwcRjq",
-        "drm_session_for_clear_content": true
-      },
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+        "name": "AMERICA TV",
+        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfPbpIguaXLQNSa74BU8QBaB1290TnEp4qykZo6NL5kOFwCgDlUo3J4uTYCxGCe2SNS"
+     },
      {
         "icon": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bI1ZDRkerXrcaFa5kWjEMw80aqE.jpg",
         "name": "Alien Sniperess",
