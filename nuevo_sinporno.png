@@ -2092,7 +2092,7 @@
         "name": "PAX TV2",
         "uri": "cbZBhF30U8I0CNhOCey5GkAFA2CSqdmTSij3dOKdwhy+c+9HLvIkg0uinkrvt0je9EuBCLRU0OB7\n7eWUt9cO2XnP+ne53vSrtOGhTDV8R4c=\n"
       }
-      ]
+     ]
   },
   {
     "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
@@ -2475,26 +2475,6 @@
         "uri": "eRu46h8kxVLWNzlfht/1OHtB3/5+Oc2l78D4vM3eYGrM0J/EFWw0AomwUdhDwRCDg6mBpho29im52RdnqAZwQA=="
      },
      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV - opcion 2",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfPbpIguaXLQNSa74BU8QBaB1290TnEp4qykZo6NL5kOFwCgDlUo3J4uTYCxGCe2SNS"
-     },
-     {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV - opcion 3",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfP8JmQIp9wEwfF+73LH3OH4o7MjrnV9Kz6AQYOyXG5S4PlO7uTSlFjGH0p9K1O5lV5",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "eRu46h8kxVLWNzlfht/1OPOZMLPjDQGG2yiCVzBZ54WY0ZXtSQ2SmDzdGkQwcRjq",
-        "drm_session_for_clear_content": true
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV - opcion 4",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfP8JmQIp9wEwfF+73LH3OH4o7MjrnV9Kz6AQYOyXG5S4PlO7uTSlFjGH0p9K1O5lV5A",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
-      },
-      {
         "icon": "https://i.blogs.es/dfef03/the_batman-301109776-large/450_1000.jpg",
         "name": "The Batman",
         "uri": "eRu46h8kxVLWNzlfht/1OFEgcJUG52ypZuGMAtgyW0oPdbem3r+xdjFPiIOcI9FJ"
