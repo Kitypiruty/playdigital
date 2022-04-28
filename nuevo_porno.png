@@ -2537,6 +2537,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "eRu46h8kxVLWNzlfht/1OPOZMLPjDQGG2yiCVzBZ54WY0ZXtSQ2SmDzdGkQwcRjq",
         "drm_session_for_clear_content": true
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+        "name": "AMERICA TV",
+        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfP8JmQIp9wEwfF+73LH3OH4o7MjrnV9Kz6AQYOyXG5S4PlO7uTSlFjGH0p9K1O5lV5",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrn+zGQ2T4s7i2pulucov1Wu+NwJa9wqsqc0cWZal5gaPHvJ4PFxFwNmGJazBwewuD0ciO6Bn/ngBsZfxjf+lOZ"
       }
     ]
   }
