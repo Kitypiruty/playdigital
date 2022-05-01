@@ -2,6 +2,11 @@
   {
     "name": "PELICULAS",
     "lista": [
+      {
+        "icon": "https://pics.filmaffinity.com/v_c_andrews_ruby-422316117-mmed.jpg",
+        "name": "CV.C. Andrews' Ruby",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy+fJHAJUA5FeiVExCDUL6Uubv7dBOB3fWC5LJkL13/NsQ=="
+      }
     ]
   },
   {
