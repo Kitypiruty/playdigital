@@ -3,9 +3,19 @@
     "name": "PELICULAS",
     "lista": [
       {
-        "icon": "p3w4YOr2vcNcc+A/yk81qzyhur+p7PSDaW8PikSc5JZPSa7h144TOZbm1Ofz9U9AFqfMWRYKlz3FMag0N8eaKbpRmdcSujhqtp6R/T4t0V8=",
+        "icon": "https://api.argentinatv.live/logos/v_c_andrews_ruby-422316117-mmed.jpg",
         "name": "CV.C. Andrews' Ruby",
         "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy+fJHAJUA5FeiVExCDUL6Uubv7dBOB3fWC5LJkL13/NsQ=="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/leccionesmortales.jpg",
+        "name": "Lecciones mortales (2004)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy/EuITE2bKCmXnGeBBiFKfpL7nktLjTvpCkgBWBaUc1ey/ZeYEltKlqse7oF051/bc="
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/25501.jpg",
+        "name": "Acosada Por Mi Alumno (2019)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy9nxUkB4W1uNq4M/95gmrtqKuxX5PtiuK3QVAeZPjMEAEoy0YcCEer8V02O6W+xZZg="
       }
     ]
   },
