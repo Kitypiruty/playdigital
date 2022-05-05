@@ -3,6 +3,21 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/24323.jpg",
+        "name": "Sepultando El Pasado (2021)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy/8c5dbCj3iexORE1RGO+dU1B3hTlJZbbNdosXamJXyebVHM6G98EaBxgwHBoT3UE4="
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/28203.jpg",
+        "name": "Madrastra Peligrosa (2021)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy8x6ifiBtuNXJ3V4TkrkBq17SjjxLlYCzLkYRJ0nZszSxXdFI1DVSp4rbfX4EJaGeY="
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/29219.jpg",
+        "name": "El Código Da Vinci (2006)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy9Zv29/mSlhvWBQsqlawX1y+AxPcQGQ6xPa9R9jD4ChFwSLhZtQqGtoCwiHRrkKjBg="
+      },
+      {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/30396.jpg",
         "name": "Jobs (2013)",
         "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy8VlTYhvKydYMhSfjuwQU6VlZZhtc8eij7C04AdOV2X+g=="
