@@ -3,6 +3,21 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/7641.jpg",
+        "name": "El Código Del Miedo (2012)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy8YzUY1tGAA3JdXCI3F/V0HGTgsfz2L0RL0sIpn237FaDuyfu8BaEFPA8Uk/g31iXQ6U1hAd5pTvM6eYBelHHCX"
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/28465.jpg",
+        "name": "Un Asesinato Para Recordar (2020)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy8YzUY1tGAA3JdXCI3F/V0HGTgsfz2L0RL0sIpn237FaDuyfu8BaEFPA8Uk/g31iXQ6U1hAd5pTvM6eYBelHHCX"
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/28475.jpg",
+        "name": "Fulgor Oculto (2020)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy8ziWHd3XSLqsUfGaYVcr5bBwBCp3dox/VlvzFM806wgyN7n3vqRT8tCZDsiPv62cg="
+      },
+      {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/27252.jpg",
         "name": "13 Pecados (2014)",
         "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy/scYman9LExhh5Icyy87O/G/K7JG5VUHyWLCJIru4n9xJJNMuwzkYntigS3yA1TW0="
