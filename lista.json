@@ -3,6 +3,21 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/30396.jpg",
+        "name": "Jobs (2013)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy8VlTYhvKydYMhSfjuwQU6VlZZhtc8eij7C04AdOV2X+g=="
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/29946.jpg",
+        "name": "El Valiente (2016)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy+16fAUZjFe7sriKLYpgyAsM5e3bWDqNcX1cj5HczO/cL9PKBD+eWw3z4ddrC4/zKQ="
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/23169.jpg",
+        "name": "Corrupción En El Poder (2010)",
+        "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy+16fAUZjFe7sriKLYpgyAsM5e3bWDqNcX1cj5HczO/cL9PKBD+eWw3z4ddrC4/zKQ="
+      },
+      {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/28466.jpg",
         "name": "La Casa En Llamas (2021)",
         "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy+fdYz2/Kjw7SJMWxM9iLuLkUGEnnsXwWN8slud2O2wHPCjRd2iB8w/pvC1WemmQz0="
