@@ -1,5 +1,4 @@
 [
-  
   {
     "name": "PELICULAS",
     "lista": [
@@ -192,6 +191,43 @@
         "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/29961.jpg",
         "name": "Venta Mortal (2021)",
         "uri": "zPjN/mC4e9usT7mbOj5yg1bFCL4x3Mq356sUDGfVUy9ONyqUtOSWu0KA5nMiXWbuOyHUQAjfd1LFsy02fvgMlZwZ9xzf1ATd53bx7HdjwH8="
+      }
+    ]
+  },
+  {
+    "name": "SERIES",
+    "lista": [
+      {
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
+        "name": "NOMBRE SERIES 1",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "LINK",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "LINK",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
+        "name": "NOMBRE SERIES 2",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "LINK",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "LINK",
+            "drm_license_url": ""
+          }
+        ]
       }
     ]
   },
@@ -613,7 +649,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
-            {
+      {
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
         "name": "DIRECTV SPORTS 1",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
@@ -633,8 +669,8 @@
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/68150d12d02ab2a071327a29049a63b4",
         "name": "DIRECTV SPORTS PLUS",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
-       "drm_scheme": "clearkey",
-       "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNuvOzBipUZUh8a3Wf4DCVr",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNuvOzBipUZUh8a3Wf4DCVr",
         "drm_session_for_clear_content": true
       },
       {
@@ -699,7 +735,7 @@
         "name": "TYC SPORTS (PLAY) 11",
         "uri": "uxY15lQHplqNf/4ok2223zFwXrCQtsRlIuB608ElUKaZSVqvx8zXN3r5XEcbEMGk1k+vhjuLjqKi\ndkhetXsXiWrqEcQj0MqvEoEA/3h1umDn6Eo4H5n7XfkoEtplD6+Z\n"
       },
-     {
+      {
         "icon": "https://static.flow.com.ar/images/685/CH_LOGO/350/500/0/0/3464211407358.png",
         "name": "GARAGE TV",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x6UmCjF9811leOWkZgdVDucvOVdrEkhv5BJXVVDGSulM8JgFEq6sL7EZinoYqyAF/EnCumzH3ZkXyzAPDhrfV8",
@@ -1256,7 +1292,7 @@
   {
     "name": "NOVELAS y VARIEDADES",
     "lista": [
-        {
+      {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/31648f06949b256611b42ed4cbefdbf1",
         "name": "Smithsonian Channel",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
@@ -1526,27 +1562,27 @@
   {
     "name": "ADULTOS XXX 18+",
     "lista": [
-          {
-            "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
-            "name": "PLAY BOY",
-            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wBz8NK1X5vYrLFV67JSbh2LolF6AumA7Yi2nnl+gRvBYWFKQKw3cLLjbauuAEiBtQ=",
-            "drm_scheme": "widevine",
-            "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
-          },
-          {
-            "icon": "https://static.flow.com.ar/images/862/CH_LOGO/350/500/0/0/966764300744.png",
-            "name": "VENUS",
-            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zT5ggpU/ChgZYLkNY/v4fbDvmYxkSyEvhyErKlO7tTil0e3HMoZR29q60JO37PjII=",
-            "drm_scheme": "widevine",
-            "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
-          },
-          {
-            "icon": "https://static.flow.com.ar/images/863/CH_LOGO/350/500/0/0/2043466907628.png",
-            "name": "SEX EXTREME",
-            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zsi6Nihb+FqedyFBUaxM2KGqRyEIdFUABC/4WPPCs5zMJyc8x538GATnFftIytcseo2B7OEid2gil34P+ARDWn",
-            "drm_scheme": "widevine",
-            "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
-          }
+      {
+        "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
+        "name": "PLAY BOY",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wBz8NK1X5vYrLFV67JSbh2LolF6AumA7Yi2nnl+gRvBYWFKQKw3cLLjbauuAEiBtQ=",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/862/CH_LOGO/350/500/0/0/966764300744.png",
+        "name": "VENUS",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zT5ggpU/ChgZYLkNY/v4fbDvmYxkSyEvhyErKlO7tTil0e3HMoZR29q60JO37PjII=",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/863/CH_LOGO/350/500/0/0/2043466907628.png",
+        "name": "SEX EXTREME",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zsi6Nihb+FqedyFBUaxM2KGqRyEIdFUABC/4WPPCs5zMJyc8x538GATnFftIytcseo2B7OEid2gil34P+ARDWn",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+      }
     ]
   },
   {
