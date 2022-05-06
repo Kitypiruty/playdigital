@@ -1,5 +1,19 @@
 [
   {
+        "name": "NOMBRE 2",
+        "icon": "URL.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "LINK"
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "LINK"
+          }
+]
+},
+  {
     "name": "PELICULAS",
     "lista": [
       {
