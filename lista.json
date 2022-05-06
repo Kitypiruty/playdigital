@@ -195,43 +195,6 @@
     ]
   },
   {
-    "name": "SERIES",
-    "lista": [
-      {
-        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
-        "name": "NOMBRE SERIES 1",
-        "temporada": [
-          {
-            "name": "Capitulo. 1",
-            "uri": "LINK",
-            "drm_license_url": ""
-          },
-          {
-            "name": "Capitulo. 2",
-            "uri": "LINK",
-            "drm_license_url": ""
-          }
-        ]
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
-        "name": "NOMBRE SERIES 2",
-        "temporada": [
-          {
-            "name": "Capitulo. 1",
-            "uri": "LINK",
-            "drm_license_url": ""
-          },
-          {
-            "name": "Capitulo. 2",
-            "uri": "LINK",
-            "drm_license_url": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "ARGENTINA",
     "lista": [
       {
@@ -2176,6 +2139,43 @@
         "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg",
         "name": "Genios TV",
         "uri": "CcVOGL/vthCTEyYOk6OA405UGf3/i9zT4C7xEUuZhIWj61wzRjYGgWxKZrH9aiPpaRAhaBOCDWKSYhkR/WzA5A=="
+      }
+    ]
+  },
+  {
+    "name": "SERIES",
+    "lista": [
+      {
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
+        "name": "NOMBRE SERIES 1",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "LINK",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "LINK",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
+        "name": "NOMBRE SERIES 2",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "LINK",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "LINK",
+            "drm_license_url": ""
+          }
+        ]
       }
     ]
   }
