@@ -1,37 +1,5 @@
 [
-  {
-  "name": "SERIES",
-  "lista": [
-    {
-      "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
-      "name": "NOMBRE SERIES 1",
-      "temporada": [
-        {
-          "name": "Capitulo. 1",
-          "uri": "LINK"
-        },
-        {
-          "name": "Capitulo. 2",
-          "uri": "LINK"
-        }
-      ]
-    },
-    {
-      "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
-      "name": "NOMBRE SERIES 1",
-      "temporada": [
-        {
-          "name": "Capitulo. 1",
-          "uri": "LINK"
-        },
-        {
-          "name": "Capitulo. 2",
-          "uri": "LINK"
-        }
-      ]
-    }
-  ]
-},
+  
   {
     "name": "PELICULAS",
     "lista": [
