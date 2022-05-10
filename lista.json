@@ -2182,17 +2182,47 @@
         ]
       },
       {
-        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",
-        "name": "NOMBRE SERIES 2",
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/10004160864/DETAILS/223/323/0/0/10004160864.jpg",
+        "name": "El Increible Mundo De Gumball",
         "temporada": [
           {
-            "name": "Capitulo. 1",
-            "uri": "LINK",
+            "name": "Los Himitadores",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNJDqym4+sJtIYNZJ19Ow2e8=",
             "drm_license_url": ""
           },
           {
-            "name": "Capitulo. 2",
-            "uri": "LINK",
+            "name": "El Farsante",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZND/6cshawQVfB255msocNj8=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El Ciclo",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNEwgusoFucbnGadifXOkCw4=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Las Estrellas",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNH8bfOv/a8IzzaBVwn+LgWQ=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El Casamentero",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNLOWDphdPeju5IvCXmLqNdI=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Las Calificaciones",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNPab8cbeA/xp95ARGl+Q17g=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La Dieta",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNEn/BzpSMENDqPOgB7/J5jY=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El ex",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNCcBtS78XXJWx6uMOdjf4ZE=",
             "drm_license_url": ""
           }
         ]
