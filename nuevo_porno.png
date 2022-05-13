@@ -204,8 +204,8 @@
         "icon": "https://www.foromedios.com/uploads/monthly_2019_12/large.335318779_TelefeRosario.png.6b8f75bafef6b7224e6d238714be28c2.png",
         "name": "TELEFE ROSARIO",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yYPo+h+orowmtVsbmSjZzUYzXpXOtB9gHLUjymszpX3rW0kgI0kWQNIrQtEq+G6QCelwb5SwHCLLhPGJ9iZC2B",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLr/6ziz36kc7cEmlDNW9OjTY64NL5o++WMu4123kZG302qThv0dKGGgTQLPx36TA9g4kjmUWudRC8/KiTW6lIlC"
+        "drm_scheme": "clearkey",
+        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OI9uSOwsUxanY5c0Y9o9Qv3fxS3NHCbqiLs13Nphr4Wv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png",
