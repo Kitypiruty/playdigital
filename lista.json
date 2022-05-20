@@ -3,6 +3,11 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "https://api.argentinatv.live/logos/muertenelnilo.jpg",
+        "name": "Muerte en el Nilo (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuFBDhRnT66xDi2UFz+YHRo1B+h7qYHZcCREbCw91y2TA=="
+      },
+      {
         "icon": "https://api.argentinatv.live/logos/furioza.jpg",
         "name": "Furia (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxunlHPp0pbz4IcwmEsLBUR0WymLnJezmFVHG0eIce529g=="
