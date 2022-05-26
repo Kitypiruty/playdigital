@@ -3,6 +3,116 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR79BlL6p935_1U0cAk3FNtlS5EX-wVNivKZpgm2-kLMlVOo3HL",
+        "name": "Frente al tornado (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtTYIgZrxofdSVDmai5NDFA5FSysKXzbqTT6OThDv7WeoTdEs0ob8a+260VzElBnvg="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmApCZg2C25UgklpQa_IMTxncm25XeMSXJ-DFoMPjl0EIxbj83",
+        "name": "Ambulance: Plan de huida (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt01GIWAun00aoKOF8rIwVf5626JNSSJjPfJJdEJpDL3w=="
+      },
+      {
+        "icon": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41Z_arSi-B8N_ASiOSfs8IDO0blIthNQe27JhJFwxX9B0LqSI",
+        "name": "Asesino Sin Memoria (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv8XNrIHViXVr0W+bDtnNYke+ZjSij/eO2eb85OyOCucA=="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/quetengasunbuenviaje2022.jpg",
+        "name": "Que Tengas un Buen Viaje (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt2Uq3RoVAEwFdssWIoThZuTXdFHzwbA8DMt88PWa65sQ=="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/elvalet2022.jpg",
+        "name": "El Valet (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs+mhUnhnYU162hlMSqvJvo+IOJdbCq6uiJBJ9A7R0Mow=="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ZMUdPyw4-_2DV7Z6vgAShSXwoncLGoV33Lo8YWWNJEra9cIu",
+        "name": "Jersey (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuVZxLjGlGVzANamDaR8v038tikPWZ8Chv/JowgK61XFiCWxFoYmapofMS0b+a9kWw="
+      },
+      {
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMwLT11su0zrRu87s4ue0eW4SmI6ADD5YzUTme9q4tFB0KrlvQ",
+        "name": "Chip y Dale: Al Rescate (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvZu+Czm2feolLxBQSVN6sm0VPB+isyEPwLA88LFiD8MDHcKSF0qObFVI2sJVz+KaI="
+      },
+      {
+        "icon": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3ksk9K-b2pT6OOczS4ucB5aH_l7hOGuIO7RUXMubkxOfbhmQX",
+        "name": "Spider-Man: Sin camino a casa (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuZbo6ZgvEXGpnQrjzV/b690uRKFv1t3OMvRCpTNCAToA=="
+      },
+      {
+        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_Ei0hlvWh9U2AUteLhz40FAGS3NSB0dCSGldGU72ELpiM0qbr",
+        "name": "Maldito, el (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuMiyQLXVbvK/sgvmdLNP9AJc0k41fx4EI7dMgq8l6ift2YCIR3aOE1eU8fhWX02aQ="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/bull2021.jpg",
+        "name": "Bull (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuMAdUk4V8kIFXKIvWo60VURsCn2mvm0VE1fN4rM3DQoA=="
+      },
+      {
+        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLK82W7j9Xk7igNMmW2DhVQXfP4wbaSPg59y_O9oOtpugXwQxr",
+        "name": "Dog. Un Viaje Salvaje (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtwkC4hu164ZBaGaIWFtpHrvWnhnh+TBg5dtObFD7TfFP5LjEMM/RVNfumsIx60ZeE="
+      },
+      {
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX6TFM0GRN5pfrHC962kAJtNAKqzLJzK1Mef6Kul8nsKBc6KjS",
+        "name": "El hombre del norte (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtrTgGcT/CNWBuirjbCSJ+cblQIbZxxGdbWCd4v5T/G/eC/5sDu6qmE7KTw3jjePNM="
+      },
+      {
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKSHO-GYFv94VuQyW6B4usXKwArC7NqWUjy856V2ouFrgjLMyo",
+        "name": "Morbius (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtSeT7/Aw65i+52EdjvY6f8HDdQh8yLVL/tSBimOHbSIQ=="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/lapuertadeallado.jpg",
+        "name": "La puerta de al lado (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsQlSYG11B1Df4bc/Vvpuln8g3ZwLHWC5Wg3bkJwyKKztr6oURh+PkuIxipM1M2ijM="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/entrelavidaylamuerte2022.jpg",
+        "name": "Entre la vida y la muerte (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt5FOHuKtDycA0g73/tuCfxivYV9vbLHBy0GzkkOFf7AnBb5h9eRplgt530GzTWNCo="
+      },
+      {
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTdrxHGnzSr82ZwuJSqR4YqB3T47cwbwfOtVQzKj0foOzpr7rQ",
+        "name": "La guerra del mañana (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtmQH3VjkwgXySamUG0c8Kk7lCipwiaQyjzXrvH6i/Uy1EUVTY0635GpW6D4nxcE+A="
+      },
+      {
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrZFVLLSCb5iaF9Qz0wJ87tw9l9oIfZXc-LmYfQkQlySm_XBh7",
+        "name": "Hombre de Dios (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtfqKwqFci6Dq0zSBEhutrIQHdJE0BD9q7F0WycK19v4Q=="
+      },
+      {
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMap3-bIeCbSS0we9_tiUBoSmiOUKSupdE8P3IQ3vcDgXXFdB9",
+        "name": "Traición en el aire (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxurYjpgSn7jq3NSdR/WsYdWAl1HVQteSM1YZJBdcuB92ukNuj1nMsyMcZNYJLhrxgA="
+      },
+      {
+        "icon": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFR-fnEEIeA-1AYwIXRkfWa9bLUJyXBPDbvlCQi_dulsr41NXv",
+        "name": "Uncharted: Fuera del mapa (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtK/nnpAdTflRoKJ2+7xq+tSf+sTx6p+tMXr6S8lkkTfg=="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYG02EYrYVTd4eQsx0-lhcaBXsKW8vplMyjv-eDKxberbl7n0",
+        "name": "365 días (2020)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuoVYnzYW0Crn3pdjdi33pTxxHmVyOhdg7GkcRofkp4cA=="
+      },
+      {
+        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcUdT-6m0TSMqEL2XwwjZG4fX2Y5Eiug60h0jzCgiHxG90JEuX",
+        "name": "Granizo (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv+St2RpFQr+GUTcNh8gOT/GOX09oDxO88m6ZefN5Wa4A=="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xR7pwbZLmg1dx5G9Kq210I8pmxaWUNDB_eNfQ3c97Ja7crPV",
+        "name": "La ciudad perdida (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvb1US4wGfM6LoDrzlOpSz6ZszdXoDOCdEBnH4yNS2Acu7URQrHWpwyK8a/+aeX/Lw="
+      },
+      {
         "icon": "https://api.argentinatv.live/logos/muertenelnilo.jpg",
         "name": "Muerte en el Nilo (2022)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuFBDhRnT66xDi2UFz+YHRo1B+h7qYHZcCREbCw91y2TA=="
@@ -163,7 +273,7 @@
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuyY+RdpGO8Ec0oCl8ffkw+hFpMjqHoeD5YDCL+UIlgAw=="
       },
       {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/27771.jpg",
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiZmdcQP7Jf97M74EGj5utMcbjaHZVziMnotZHB5U7LAcpexLx",
         "name": "El Justiciero 2 (2018)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsqDZ8YHNS5bv/28uNj35YS6kiEYHsSKz4QS+exxwg33gFtxM4+C+LN58D+U/sIuK8="
       },
@@ -544,7 +654,7 @@
       {
         "icon": "https://yt3.ggpht.com/NPkklF8BmJZaeYp7ewf-mutoi2SkNjcLI4uvHs-z6-VRh7yWvFL7JkauVsTVyZlQdhqoDdl89Q=s900-c-k-c0x00ffffff-no-rj",
         "name": "DAZN F1",
-        "uri": "eKkf7cHEof6GVwWmFbZAxofkXvc38FMWUF9PF15vG+80nct2vAcDXeQYAqZ1ii7yfLYnj0bOXHfG+58tLD5Ta7uU6NZbPMEwEBUkaKJ7GIRRSAjFPbBAM59n9IlTG+VdiOZELBq3FdzT350DUC3iV0hBZ0cZra/dT03NDZ2QUNg=",
+        "uri": "0NpdYkal8DMJqPufs+3nZTYhV021a8GFsWUZUSRCw6KTLzwdcuFUgEG0dHXQh/b78Jjl4f/Eme4/pTePhRN6aMlDlnVihKviystWBejekivsXjOc+inmHUWRTb2PVgV9trphpqCrSTjRxc/YVIzrQ1u45VT1vw4JQIUftfNnMYA=",
         "drm_scheme": "clearkey",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCWTqKAERv42zb4qybMbU2jwEeppl9MjhXrlxlPOc9lO"
       },
@@ -560,7 +670,7 @@
         "name": "TNT SPORTS",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zv2CKQjXsDhUQfJMJMecEe1veXOGN2g2ogG51i7ACMEY8c0YiKS5DMWZ9lXOl329z+S60BJgX9qAx6rLvn/jv0",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXMBAcNYT34J0DySt0zwr27/tZfqVJQsFCV/e9ooMxvQX"
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q1jEhufk9PVqtlMvVFfdiS30fsPyyYmGfrt//USFpshz"
       },
       {
         "icon": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
@@ -1180,7 +1290,7 @@
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
-        "icon": "https://static.flow.com.ar/images/272/CH_LOGO/350/500/0/0/95901550072218.png",
+        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1653526651744",
         "name": "DISCOVERY H&H",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4ykfn75mMwY7yr9wYTbbJsJT2MVpoeVitkSsMIGK0yyliCcnSrJa9n6JOTyTB56PoM00apLHPMszjIo4xuh1Xlh7GeMObDFPr4f3lnewuQvDw==",
         "drm_scheme": "widevine",
@@ -1722,7 +1832,7 @@
       {
         "icon": "https://pbs.twimg.com/profile_images/1414723264572760068/6Fa0wPGk_400x400.jpg",
         "name": "TIGO SPORT EVENTO",
-        "uri": "fKZDeeMII4hzzOisytLJXJemNi7ZUcwkQyxcrNcj2o0noae5MGDtYba22eRctWDx"
+        "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXvgvRtpiw5QUAmNXwzHszIv"
       },
       {
         "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
@@ -1847,11 +1957,6 @@
     "name": "BOLIVIA",
     "lista": [
       {
-        "icon": "https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365",
-        "name": "RED UNO",
-        "uri": "6ZLpavMq5F7futjIQOCVAaVZM6xpPIVr8hTUEFo87QmX/CUDs8NYKwsi9O97SswIOd8wCRP7C0skJIyN5YGdsA=="
-      },
-      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/e/ec/ATBBo2020Logo.png",
         "name": "ATB SANTA CRUZ",
         "uri": "snJBfCwjCnBKge524PYrd0e6r/2da66SM7rwAMKq4PrffQmEuTmDGziHPlqt/U/T"
@@ -1865,21 +1970,6 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png",
         "name": "RTP Bolivia",
         "uri": "OZ8FMrF5bJ7RpMPETimoGQieCobkpXAGvabP2Zr9MkPWCRYO+cjQWFtctN9YGjTDAkSisgs97RpfdysykeaasA=="
-      },
-      {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/69388454_953101461698129_182976966998097920_n.jpg",
-        "name": "TV LATINA MONTERO",
-        "uri": "7hkvwwVPKoZkPcBEnWm/6xIWphRbx+xbvBK0IPnBI8cP4ME0ZqVRuDe+wX8EtCWW/Gg6n5EllDoh9PrzOAXP1SlQubCc+tQS4hhKEOheJqw="
-      },
-      {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/aestrenar.png",
-        "name": "A ESTRENAR",
-        "uri": "6ZLpavMq5F7futjIQOCVAaVZM6xpPIVr8hTUEFo87QkT2hdjIqvvUVCDHQxe7cXr+sQtq5ibOc7DIlyfNSsjlA=="
-      },
-      {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/animencomics.png",
-        "name": "ANIME COMIC",
-        "uri": "6ZLpavMq5F7futjIQOCVAaVZM6xpPIVr8hTUEFo87QnRqRQTPNs7pMdSIXVF+cc1ZLsgKyNS5lHgnIxOQAv4qg=="
       },
       {
         "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/descarga.png",
@@ -1907,11 +1997,6 @@
         "uri": "vl1qiB4h76a4RPmfoEOSlpWclMYcC6xQYaC1sHX3R/uHL5BWAIp56rQMVm908vDT2sZlK0jA2DohA07GYg1fIbp1vXlZ84SrhQsRV/NXtn4="
       },
       {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/20210430_141649.jpg",
-        "name": "VPAC TV",
-        "uri": "CyKta6e6mSZr+Y5BMN96aj3XcfW2ORlr7ThI1SD/BXuyKllH0nRzO4TTlwpyBLj1ZimWuGeFzLJcrPB8iPTw1w=="
-      },
-      {
         "icon": "https://play-lh.googleusercontent.com/Qvk0SeTkLOZ13mFPqC3sCYIDZdPgrQt2JCPZ8rr0wp-rZwu0UQ_MJ3HJ2-ZwPDyaOrGY=s200",
         "name": "Tele Estrella",
         "uri": "FTQ/MvipeuhcV54itVIK30KnH8/km74S+x8/VpwPhhUop0oIckvcZvoOBH33bqpkmi+l3Wcd4YeUcol3YD0w/GSPWyoQgOh7BwndL0bOVPo="
@@ -1937,19 +2022,9 @@
         "uri": "cbZBhF30U8I0CNhOCey5GkAFA2CSqdmTSij3dOKdwhy+c+9HLvIkg0uinkrvt0je9EuBCLRU0OB77eWUt9cO2XnP+ne53vSrtOGhTDV8R4c="
       },
       {
-        "icon": "https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png",
-        "name": "Vision TV música",
-        "uri": "3e7k0CUcoWivPFfPKSDvhqv8GtThzACyXzrcy8HoFbUEjGNI7LtNW7s/WoRWGf2QgC/o8/8zHLEU/djHlNo/Q7mmbaW9G0NAr29Bl3fv4Dw="
-      },
-      {
         "icon": "https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg",
         "name": "BH TV",
         "uri": "yKU7mKLG58CyewwIxfVakQTzcTHp2kddN0xta+fXB8ZG02OqvbjqYIQzT08Ce6UhCt+RLez5uwo0AiVPZk2n1g=="
-      },
-      {
-        "icon": "https://www.ondadigital.pe/imgs/ondadigital.png",
-        "name": "Onda Digital",
-        "uri": "KvAOL4SnwIZJmSMEzA4foFzscu1PeuLE5hH4QHou/j9MBPtbLB7hZZBV1rc4/OvpWv/BlXO+bKul2wfwWwd51g=="
       },
       {
         "icon": "https://ondadigital.pe/portal/wp-content/uploads/2017/11/LOGO-OGM-CON-FONDO-300x212.png",
@@ -1965,11 +2040,6 @@
         "icon": "https://appnew.megainfoapp.com/files/1/centraltv.png",
         "name": "Central TV",
         "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbGtr7/meydwZZ3tOmAQM13LvDnahIt5YOObFqsRPdykYkTnud0TH+5MPQKHcT0DVlw="
-      },
-      {
-        "icon": "https://yt3.ggpht.com/ytc/AKedOLSPbPu8XNeOUO99izIjquRlF3PE7LduSD4vEhDQ=s900-c-k-c0x00ffffff-no-rj",
-        "name": "Intuitiva TV",
-        "uri": "APdyGVbueEHsTCmM2A6ZKTx0C2qhtPP7YbAJ1A6GEfL6+YMVVL907We/Il5V6l65jd6Ck+Xc/3brjedY8hRH3Q=="
       },
       {
         "icon": "https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg",
@@ -2032,34 +2102,9 @@
         "uri": "kauYPVOnRFmrRlYNiq+LL+7nDzjlWhoSRbZqG1BqRHSoG48ow1ISaipT1ADMsP7Z"
       },
       {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga-1.jpeg",
-        "name": "Mas Cumbia TV",
-        "uri": "iQ1uEu14yadCpfjWdwP6I1di38t9atp3DuPsQg5Yk57Nrk/TFKoRO9UvPn26JQvg9jInOK+0JZ9FNx8YILyEbQqk0ts14Y5eBuSEWNkVV1o="
-      },
-      {
-        "icon": "https://bestcableperu.com.pe/img/canales/97.jpg",
-        "name": "Best Cable Music",
-        "uri": "iQ1uEu14yadCpfjWdwP6Ixg3t32NJ0VSwNTtTIhAOCGNbsVSVpYG2e4+5bYpAZmGN0UCwh7rH5sGbYcoSl4gkA=="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
-        "name": "Best Cable TV",
-        "uri": "iQ1uEu14yadCpfjWdwP6I9AhMVjjHfuMsnP3K54yauJn7z/yEQ9fe2a29z/rgmCBPJHFE5guwZQYC0+etDe78w=="
-      },
-      {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/bestcable.jpg",
-        "name": "Best Cable Sport",
-        "uri": "iQ1uEu14yadCpfjWdwP6I+wQ4+FNLC2Go3Pq28heqsl9urU5cgBAJA0nfmgvuR58rq7ZUhhlwi6dPWh2WFEpNQ=="
-      },
-      {
         "icon": "https://www.coolstreaming.us/img/ch/image87580671255.jpg",
         "name": "Canal 8 Catacaos",
         "uri": "CDTDa1wj7pAITKbpAU/TgXhVTLgNUfqAwsrzpMsOptX2nQvP/4DSbNPdQypzo2cIHEOJrum6QCPiU4e9y1yjjQ=="
-      },
-      {
-        "icon": "https://evelynsac.com/img/logo_01.png",
-        "name": "Canal Evelyn TV",
-        "uri": "FYOTQlS4rKagjhCsKqvTNlgyUhrzmxE5mCcXHHSh2vhUpdgO477GtR6JCloC2nXTu4vxv7QAGuq+vWosRo1bwg=="
       },
       {
         "icon": "https://tv.wurtlitzer.info/imagenes/canales/internacional/centraltvperu.png",
@@ -2072,11 +2117,6 @@
         "uri": "N3NxMvfcEj2atuyg6Q2JSo0bHEous22DEExkQfdNM+47tNJmtfIuQ74i2h424VBVehw0dHE/l8E1z9H3VUDcag=="
       },
       {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga-2.jpeg",
-        "name": "CNC TV Perú",
-        "uri": "vaYuAGqCDYYGrIREWrpEOvxUrhxeHJtOG2fZ4/ECMShdMmbqG/gipj3BNIEGBv8o3moVpG8oYR70JB8kuyqTog=="
-      },
-      {
         "icon": "https://televisatvdepaga.com/wp-content/uploads/2017/10/contacto-deportivo.png",
         "name": "Contacto Deportivo",
         "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaQ7ZKDGhDiBr5sIOo/HdLb09Vnh2fnBK/FnrDZWOMO/3w=="
@@ -2087,29 +2127,9 @@
         "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaTZ2A/YJN6kkr6MSMzmAFme3IGJO9wvBLWPFVLOX3RS+g=="
       },
       {
-        "icon": "https://cdn6.f-cdn.com/contestentries/14901/3095158/513c4ed721832_thumb900.jpg",
-        "name": "Creo TV",
-        "uri": "FYOTQlS4rKagjhCsKqvTNlgyUhrzmxE5mCcXHHSh2viZhP3y6ZThDUMZ4TTDDodNacWUh0ctbox0FBrJPZjqKQ=="
-      },
-      {
-        "icon": "https://videos.cvmtv.com/images/logo/logo.png",
-        "name": "CVM TV",
-        "uri": "TaI80y5e+5LWYG4EdcJ8sCXkHmy0BL4hsEfA3ilbWR43CJdeGjFXV2qk/AXL9ofeLjKBV2zWE2m6VlN19BvkIg=="
-      },
-      {
-        "icon": "https://images-na.ssl-images-amazon.com/images/I/81QcZEH5m-L.png",
-        "name": "Delta TV",
-        "uri": "NXADbfOSDp3c49R2q+bZFL6eE3OlcPqX6P2wlUykO9BSgYuK97X1/DVR860ytfKSAarRbRr3t9Ss5rzYuyGL5w=="
-      },
-      {
         "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/unnamed.png",
         "name": "CMJ TV",
         "uri": "kauYPVOnRFmrRlYNiq+LLweDKmy0ryn1sCI6QM7NZPa03jT5a1HMTSsLush/dLvt"
-      },
-      {
-        "icon": "https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png",
-        "name": "Exitosa TV",
-        "uri": "JtywYKRm4hmlK3J3XFFSWOTk4M3kz5najFBwtZgcdC/sAZvWRYeMaVhkQNL1XDwm"
       },
       {
         "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg",
