@@ -1070,7 +1070,10 @@
        {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/80/80/0/0/41895840072352.png",
         "name": "DHE",
-        "uri": "5YdyVi+PL8QZpLM9X5Sumh361psU21ZGXAlC6UAGLpxVQ7xPaowADGsVm3qL2B1O"
+        "uri": "dX/xn76bO2qtw+qwN9cDSAVPxGQclvm5U3I0cowtZ5/j7J1zvWrt3vIvacxLyPVVeodOldE2XFxLcNVmwymgF3tuVxncUhxOoFrZ5wPRayf9qBW2LMFYi901NoW08/8Gtlkj0UsC+yMHz+2Vqhv7JaErPlHi63EU9GJ/G+Q/1PJc1TkJr/axn5ozxM+EUlv/Gmh933lAr/EqIZH0EIPmK4ZALCC3RkvDNjSDAbxwEafxDlit83JMEeWGyCLJyijiFt/pl948RNCNm7UihTs2lWMax93Lc5dzDr4tlK46Ois=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81qzKFBuXUurqCCjKQgqSMdWpcmmmwCXnRqQoHnenIe7HS",
+        "drm_session_for_clear_content": true
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/58c185c8d4f157f2b544c45472a5a2f8",
