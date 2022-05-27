@@ -1083,13 +1083,6 @@
     "name": "CINE",
     "lista": [
       {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/80/80/0/0/41895840072352.png",
-        "name": "DHE HD",
-        "uri": "5YdyVi+PL8QZpLM9X5SumkVQbPTqLGWM4NKz7jmntDwycMaw6/VMK2Tqz9Hl7bVk",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81qzKFBuXUurqCCjKQgqSMdWpcmmmwCXnRqQoHnenIe7HS"
-      },
-      {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/58c185c8d4f157f2b544c45472a5a2f8",
         "name": "TV CORTOS",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
