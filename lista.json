@@ -3,6 +3,41 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmRKlWoPIs9SVlKAYoQ8rne0ENOdcXBl8i6JaFVMgr9gcsvPmw",
+        "name": "Red Notice (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuNoiovlXb0r3WS9LTMRwaoXcYlw7AMRYDgNNOJoQkw0woeuJLwH0GGV43YX/+bAzE="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/cato2021.jpg",
+        "name": "Cato (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuxW4axwkgwRJEossizx3eNWfzKc53/aRQwuBc3972MIg=="
+      },
+      {
+        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe3eX_n8gKfSnXZwd4fZpH-O1m1gZG1H7ovNyFojb-twBGVKB_",
+        "name": "Eternals (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsOAJuCiP7eY/X+GvPP/CXPgrfva9wb+xOC7VzhuwqQ0Q=="
+      },
+      {
+        "icon": "https://dtjx2qn6bx8kh.cloudfront.net/fabrication/poster/615c2d4e1f589.jpg",
+        "name": "The cleaner (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsa+RgZ3q8CJ2rdL7hf1kN1MkspSLYEw4UHjI/s9HLwJDigIg3PLIMj+md3201kJ2w="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/UuZH7PUfj3RBW17q0BTCuRTGrvNMNQzL61jsl10FbGJvL4freAvgNbs8gqwHc48NzZHy5BC84-RzhjohKzo",
+        "name": "El ojo del francotirador (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsuZm0HY2IA6PRnvSw4Vw2r7KyMHSFds/CM97bDk1NHFm0WLvyAo6K66gAc5ecTUVs="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR79BlL6p935_1U0cAk3FNtlS5EX-wVNivKZpgm2-kLMlVOo3HL",
+        "name": "A la mierda con el amor (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs8vdLc85yNX62CTaBXBXidFf2Qku+GXSKYWnE/0C8Hb9K0C34t+qSBdwJmQOz8qy4="
+      },
+      {
+        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1TWGNcLoyxF51JIQUk9-_ub69rTAVZsQF4YrDpdykAdnyIeU3",
+        "name": "Venom (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtykgqbDI7CtVXb1IaykGHIe4vibd18cWZmB7P57T04tg=="
+      },
+      {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR79BlL6p935_1U0cAk3FNtlS5EX-wVNivKZpgm2-kLMlVOo3HL",
         "name": "Frente al tornado (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtTYIgZrxofdSVDmai5NDFA5FSysKXzbqTT6OThDv7WeoTdEs0ob8a+260VzElBnvg="
