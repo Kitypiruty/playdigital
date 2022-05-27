@@ -681,6 +681,7 @@
   {
     "name": "DEPORTIVOS",
     "lista": [
+    
       {
         "icon": "https://yt3.ggpht.com/NPkklF8BmJZaeYp7ewf-mutoi2SkNjcLI4uvHs-z6-VRh7yWvFL7JkauVsTVyZlQdhqoDdl89Q=s900-c-k-c0x00ffffff-no-rj",
         "name": "DAZN F1",
@@ -885,6 +886,20 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zE4EaiDK/FCkoiOPmEHZ2xXebjHze/O8xLm+BkFd8Bh66bJXmgceIejd+oeBB8N7+rRLR2TgXY6pbmKW+gAUYH",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+      },
+      {
+        "icon": "https://img.sport-tv-guide.live/images/stations/a85.png",
+        "name": "BEIN SPORT Ñ",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OPxDO+9leGRc+xA0hKbggTKfNLAvJd+9LAZbLbuXmIxp",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q1ZLbF/xC1h0E6+rEUEY9Go65nb7U7FJxgAsFUsLga3d"
+      },
+      {
+        "icon": "hSttps://img.sport-tv-guide.live/images/stations/a85.png",
+        "name": "TESTSS",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OFAmyDQzTxIN6qHCBbwHCVIXdNMIJea8QhVbqycy5s5n",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OPyHc+4cD6Oe4u/xnqeTVXoXZMCCnnjZctrUpylkZCIO"
       }
     ]
   },
@@ -1067,13 +1082,12 @@
   {
     "name": "CINE",
     "lista": [
-       {
+      {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/80/80/0/0/41895840072352.png",
-        "name": "DHE",
-        "uri": "dX/xn76bO2qtw+qwN9cDSAVPxGQclvm5U3I0cowtZ5/j7J1zvWrt3vIvacxLyPVVeodOldE2XFxLcNVmwymgF3tuVxncUhxOoFrZ5wPRayf9qBW2LMFYi901NoW08/8Gtlkj0UsC+yMHz+2Vqhv7JaErPlHi63EU9GJ/G+Q/1PJc1TkJr/axn5ozxM+EUlv/Gmh933lAr/EqIZH0EIPmK4ZALCC3RkvDNjSDAbxwEafxDlit83JMEeWGyCLJyijiFt/pl948RNCNm7UihTs2lWMax93Lc5dzDr4tlK46Ois=",
+        "name": "DHE HD",
+        "uri": "5YdyVi+PL8QZpLM9X5SumkVQbPTqLGWM4NKz7jmntDwycMaw6/VMK2Tqz9Hl7bVk",
         "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81qzKFBuXUurqCCjKQgqSMdWpcmmmwCXnRqQoHnenIe7HS",
-        "drm_session_for_clear_content": true
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81qzKFBuXUurqCCjKQgqSMdWpcmmmwCXnRqQoHnenIe7HS"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/58c185c8d4f157f2b544c45472a5a2f8",
