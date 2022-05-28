@@ -2391,6 +2391,42 @@
             "drm_license_url": ""
           }
         ]
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/coyoteserie2021.jpg",
+        "name": "La ciudad es nuestra",
+        "temporada": [
+          {
+            "name": "EP. 1",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfzHKh6b8ndtkilubvsLEppOkdl2wUSVxgEU0B7B3NJcA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 2",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukce9iPwTD5lG8fKw2hcM5aRZm5y15zMGW5yR8wY4HOlQw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 3",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukd1FPSJazGTV9ezfN+Ykk6+gDKDGjNIeStRNq7JkQ7nVA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 4",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf+Fs3FQe62J/nkoecDc29s4mCvJkfUcgCy9q85ZGyKnw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 5",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcCFiyA1GTj9LKa95WJ3WGndZYTmYw1QQwMxuQ+Joo9zA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 6",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdZWJqgjaGwOOemtRdH9/ZmKNh/nCM+kUJ3ZB1dMki9ow==",
+            "drm_license_url": ""
+          }
+        ]
       }
     ]
   }
