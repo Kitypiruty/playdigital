@@ -3,6 +3,11 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "https://api.argentinatv.live/logos/infinite2021.jpg",
+        "name": "Infinite (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuqkNYsFRmdBqHpiWaLcG8yFvcDpCm/O1g1m8dLZaJnCg=="
+      },
+      {
         "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmRKlWoPIs9SVlKAYoQ8rne0ENOdcXBl8i6JaFVMgr9gcsvPmw",
         "name": "Red Notice (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuNoiovlXb0r3WS9LTMRwaoXcYlw7AMRYDgNNOJoQkw0woeuJLwH0GGV43YX/+bAzE="
