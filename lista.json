@@ -2267,7 +2267,7 @@
         ]
       },
       {
-        "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_1dOJIoM8nelMF87HWd8NCnAV2zrBPD32EBfXr2n_k2O7fZpg",
+        "icon": "http://static.dplay.tech:8080/imagenes/laluzdelanocheserie.jpeg",
         "name": "La luz de la noche",
         "temporada": [
           {
@@ -2393,7 +2393,7 @@
         ]
       },
       {
-        "icon": "https://api.argentinatv.live/logos/coyoteserie2021.jpg",
+        "icon": "http://static.dplay.tech:8080/imagenes/laciudadesnuestra.jpg",
         "name": "La ciudad es nuestra",
         "temporada": [
           {
