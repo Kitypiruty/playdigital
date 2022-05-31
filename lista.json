@@ -3,6 +3,11 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/despertandoalpeligro2021.jpg",
+        "name": "Despertando Al Peligro (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvLjTzpygmjRzP8464PO/AIeSGZ6+780cwHaWs8QPvAWUNZ8ZAoOzXoFg0TlRYfDRU="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/pesadillaenlapiscina2021.jpg",
         "name": "Pesadilla En La Piscina (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtkZJqhiTqX+RzNVUZtsCDE+CTpG0lXtTS5359dxFaqh3CmdPafQEtIPVeszs/MM3E="
