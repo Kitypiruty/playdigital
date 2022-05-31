@@ -3,6 +3,11 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/arrancadesusbrazos2021.jpg",
+        "name": "Arrancada De Sus Brazos (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuO16//dvsA0W7UXRMGgDpyAs3YRsmUnxc6xdq4TKuU9WXgqDAQAA8ZbeQScT9jc18="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/despertandoalpeligro2021.jpg",
         "name": "Despertando Al Peligro (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvLjTzpygmjRzP8464PO/AIeSGZ6+780cwHaWs8QPvAWUNZ8ZAoOzXoFg0TlRYfDRU="
