@@ -3,6 +3,11 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/pesadillaenlapiscina2021.jpg",
+        "name": "Pesadilla En La Piscina (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtkZJqhiTqX+RzNVUZtsCDE+CTpG0lXtTS5359dxFaqh3CmdPafQEtIPVeszs/MM3E="
+      },
+      {
         "icon": "https://api.argentinatv.live/logos/infinite2021.jpg",
         "name": "Infinite (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuqkNYsFRmdBqHpiWaLcG8yFvcDpCm/O1g1m8dLZaJnCg=="
