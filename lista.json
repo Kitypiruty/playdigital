@@ -3,6 +3,36 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/sonic2.jpeg",
+        "name": "Sonic 2, la película (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtFnj11DAqsyBIqWJboJwphAVKT6o8EFdA9GGR9qQ3YUw=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/instintopeligroso2021.jpeg",
+        "name": "Instinto peligroso (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxukU5286Pg6silnWc4cbijDPxjqgMc7W9CAyEDKFwB/PtBjHNBzSWqU52s1dn/ITXw="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/emergency2022.jpeg",
+        "name": "Emergency (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt76J857NnCt5qCx3AhX++WiIeOhrCY43EcvkTA3Clpdw=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/corazon-de-fuego.jpeg",
+        "name": "Corazon de fuego (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsDzYwegVlSnmZPXQfLkMgjTxvKbzJhpquydkJBT8a4qWHi94+ciYwagrie8m88I+I="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/alimentandoalmundo2022.jpg",
+        "name": "Cocinas de emergencia (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvoMTc0l3HhrSwYmFyYimh8+c/J42WG9X0pfUIntHkGhwkoEoTr6ZQGERdGItCCC3g="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/conspiracion2022.png",
+        "name": "Conspiración explosiva (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv602VqwyOcaZU1wMBosKHwAxuNHfhz4aJVxjgZyekvjTbec1SVA+H7Id++h3Rt3Qc="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/arrancadesusbrazos2021.jpg",
         "name": "Arrancada De Sus Brazos (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuO16//dvsA0W7UXRMGgDpyAs3YRsmUnxc6xdq4TKuU9WXgqDAQAA8ZbeQScT9jc18="
