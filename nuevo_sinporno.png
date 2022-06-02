@@ -138,7 +138,7 @@
         "name": "CANAL DOCE MISIONES",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wPqx+qgisclRyP9TaG3crRJpsND4zcqjYuNb7l61EgjSaAgR2GE9E/AdB4+w1PdpwTWdc8iG/nrQM8TalkTQm8",
         "drm_scheme": "clearkey",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLpYPUwioGeypXSW9bFFUztXWOgX6RtLjnhodAvb62bpzp8xc2cxca1aIuhumnHEtd09hZcQYlxP5LtZ8b/8h8Yy"
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiE5EbOj/UdgZ7cJ9ohsqj+ezQo97sTF9UeeF52sWXWtHQ=="
       },
       {
         "icon": "https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",
@@ -401,7 +401,7 @@
         "name": "ESPN 2 HD",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x7wzPlOxEH4MsaTD/QgSatI0p/a/N6/NPHqE5Ie08BjvOkryiO/+m1AEL7p5g/5sVSZ/9qBeYMugM4KY4944nX",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiHQxUHlHh2kQRblmhklYmI4"
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJdz8Rsn78dkCsglNSNDaUiMu94xvH3IGWaQDvz8JldnTQ=="
       },
       {
         "icon": "https://static.flow.com.ar/images/72/CH_LOGO/350/500/0/0/29145259072020.png",
@@ -685,7 +685,7 @@
         "name": "HBO 2",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4w9u0C+2++MJW0ezWMtcZ1FOPFqTxe9Aw6KEzBJc+6skHab1ALUMrGHaHx+dMI0bek=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiF0z88Yolx8elLgDCWA5INL"
       },
       {
         "icon": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
@@ -1289,6 +1289,32 @@
     ]
   },
   {
+    "name": "ADULTOS XXX 18+",
+    "samples": [
+          {
+            "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
+            "name": "PLAY BOY",
+            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wBz8NK1X5vYrLFV67JSbh2LolF6AumA7Yi2nnl+gRvBYWFKQKw3cLLjbauuAEiBtQ=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeI0YNJWF4QrredrhvsgPe5FQF2wt0bCzM5T1/ywSe/Cw=="
+          },
+          {
+            "icon": "https://static.flow.com.ar/images/862/CH_LOGO/350/500/0/0/966764300744.png",
+            "name": "VENUS",
+            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zT5ggpU/ChgZYLkNY/v4fbDvmYxkSyEvhyErKlO7tTil0e3HMoZR29q60JO37PjII=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeMBe5S2glmLO/Nma2nriaQ6ETzS9Ga3SMl7Yd/iTgusQ=="
+          },
+          {
+            "icon": "https://static.flow.com.ar/images/863/CH_LOGO/350/500/0/0/2043466907628.png",
+            "name": "SEX EXTREME",
+            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zsi6Nihb+FqedyFBUaxM2KGqRyEIdFUABC/4WPPCs5zMJyc8x538GATnFftIytcseo2B7OEid2gil34P+ARDWn",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeg0v41sWyS/P3+Cixlj2DxLqcMv9HxodsaNUMQaL2TlQ=="
+          }
+    ]
+  },
+  {
     "name": "MUSICA",
     "samples": [
      {
@@ -1428,14 +1454,14 @@
         "name": "EURO NEWS",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yqj9AFjtme0wYIe1j8cmRUrtnoDfnHdLEpTS0T3lNPfMRssNSfphtnxziWmgalt5FeXKwSaPLp4JM9X3/2hwJE",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeWEt1TFwoWLH4SrkxN/JkLbzmyhXPpQb4flJyNqWsvDw=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiFutG5l6hYB3/GGwIZ2zbMzd7779j0tI/HRY2e2ZCHqcA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/683/CH_LOGO/350/500/0/0/37933898072067.png",
         "name": "DW",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zNfyh4dmKUmLYCe1+ld+0KJPQhzGEbihJt9nf2gfBeMIH3iWYF9c9SK9taEGTHPlA=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfxdPn1b4oNaWknydPrKWYd9NvxXRahE/SoDuQUeMAICg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiG2ym3EntDl7VaKIS+1yCK7"
       },
       {
         "icon": "https://static.flow.com.ar/images/728/CH_LOGO/350/500/0/0/834899000759.png",
@@ -1471,16 +1497,6 @@
         "uri": "wBSA6kDTej1G72N4d0yBwd5SWk5kfyIHFUWCsY7YwlxiYyheN+8vaFYqG/qmSabo2Br3I/1s1xi9l+Lg/0ckZg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06axQt07omDjlGEnSgGaXmpKv"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
-        "name": "TELEMUNDO USA",
-        "uri": "F/JGVDkC/kHGyYtyu9QFCxvtr6gTH+BX8cGkXA7ZEzKIestyHEAh2pMGzbiJ93lFfAKDSg0o+T00OP0+wSpbEw=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
-        "name": "TELEMUNDO USA",
-        "uri": "F/JGVDkC/kHGyYtyu9QFCxvtr6gTH+BX8cGkXA7ZEzKIestyHEAh2pMGzbiJ93lFrhk7ut8BuLtVcdrqc9niAA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
