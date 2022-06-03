@@ -2705,6 +2705,72 @@
             "drm_license_url": ""
           }
         ]
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/treintaynueveserie.png",
+        "name": "Treinta y nueve (2022)",
+        "temporada": [
+          {
+            "name": "EP. 1",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9v9UTsF2QnecPda7vj2EGAw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 2",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9wE/OVQ+KV6LfIoBDyp9Bjg==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 3",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9/5bE6vQIzWJz1X5FIut2qQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 4",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9CLpfdz89DSBGQqbwighOpQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 5",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9JSuRZ2p29tMy2OUhIFc6/Q==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 6",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9MgA1nJTJi0qRyUPIwadCLQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 7",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY95PH7k7Dx6qi1Lz982NWrCw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 8",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9uddisS4MIRTueu4VSYKLuA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 9",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9MkYGCEFz4Q3bWcVJCoFoUw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 10",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9oaC7qZ2jLJ2JHBAoOe3+X2/yzNqYQn/mshjrWN7xpHY=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 11",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY90yxWIZgzOAZc2zQS1YaiY+fG308gkFmBEXsAnqxk5mw=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 12",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdMLvTcZY9URxgOwRsuaBY9F9pvpZ2mp6bnXN201s3YOUK1hfObWiJTQ46+7G113+o=",
+            "drm_license_url": ""
+          }
+        ]
       }
     ]
   }
