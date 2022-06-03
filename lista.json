@@ -2684,6 +2684,27 @@
             "drm_license_url": ""
           }
         ]
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/thegameserie.png",
+        "name": "The game (2021)",
+        "temporada": [
+          {
+            "name": "EP. 1",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjuke9Q7AYcDD0R09euJnMgYefsNf9hS1gYXONkPDwO2l5LA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 2",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukehu2uJgUOfU8Izr0Km7VahFZnCpta8mLInrFTnLVrjUA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 3",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukca0Fx2OgeKY/ILLn8bJHvQzcbGxdrvEHKA5W/GNbkzrA==",
+            "drm_license_url": ""
+          }
+        ]
       }
     ]
   }
