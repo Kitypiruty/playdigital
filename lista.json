@@ -2516,6 +2516,63 @@
             "drm_license_url": ""
           }
         ]
+      },
+      ,
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/dexternewblood.png",
+        "name": "Dexter: New Blood (2021)",
+        "temporada": [
+          {
+            "name": "EP. 1",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GBXS6osq78BySF41FOmym40fjwjtkUHpigeCwJpx57Cxk=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 2",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GB0XqnNRs3JwoUGvcMPLxuCWqnPcEfFbCF9Q/N8INa4HU=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 3",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GBi1TIft3exgyl9q9UcU6yJJmTWQYjhcM8zvQjm1OGGFo=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 4",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GBqWjfo5a/d2TGXK91djq4y7fM8U5YVXKBwyVdNW/boUI=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 5",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GBjrKe4d7Bx/8IaMKUlXSHXcmq2SJ1pBHOBJk04+z9lJU=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 6",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GB7pglLZ8bMPyR9zfg8Z9B4tIz1vf5RLhDxXP+ajm9SrU=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 7",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GBY4ORJXAAETiCm27ErCjRH/nyw6/Ule1Xj5KlFlHqBcU=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 8",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GB+udWxbAH6l3aBtr97do0oPXXiJItYhjcsVl0FymS5n8=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 9",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GByeOXYSwycuYkv+hkghZxBmMM+/bbhai+hjmJol75TqU=",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 10",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GBwyN5Qzdru3tp8W8fkug1ziqvWTY1hwGGZx3/y7bLHsI=",
+            "drm_license_url": ""
+          }
+        ]
       }
     ]
   }
