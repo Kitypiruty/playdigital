@@ -2628,6 +2628,62 @@
             "drm_license_url": ""
           }
         ]
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/soldadozombiserie.png",
+        "name": "Narcos vs Zombies (2021)",
+        "temporada": [
+          {
+            "name": "EP. 1",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjcEtLY4ujMbrL6cYPHFoAZdA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 2",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjcRquAQtOmFtPeq4kAfKMNVg==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 3",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjchs9YiB9dKa/pw8TJglgc0A==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 4",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjcLRC67BBuIaPDNqiNzTUlmw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 5",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjcW40oJGrhRB/9BN9B07j6cQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 6",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjcbLFcy0CQW9AJnxEvlQEsHQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 7",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjcABwUStMgttxSXsm1vXmc5w==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 8",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcgrM6RiEAg5A7WvxRaoqjc37fClYLsHmpcX01+t10Tag==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 9",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc84BbW1M2JVSigpQsvd2E6PNlVreOMD1XHteA6yz7Vaw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 10",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf+XS5l0rQRdSAYpgGn7Hj6MXP8wAuBKvbTkuwDmu8bww==",
+            "drm_license_url": ""
+          }
+        ]
       }
     ]
   }
