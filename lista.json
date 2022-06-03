@@ -2279,7 +2279,7 @@
     "name": "SERIES",
     "lista": [
       {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/10012610707/DETAILS/223/323/0/0/10012610707.jpg",
+        "icon": "http://static.dplay.tech:8080/imagenes/peppapigserie.png",
         "name": "Peppa Pig (2021)",
         "temporada": [
           {
@@ -2569,6 +2569,62 @@
           {
             "name": "EP. 10",
             "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcYV/1BAuSVwrX1vwvkU/GBwyN5Qzdru3tp8W8fkug1ziqvWTY1hwGGZx3/y7bLHsI=",
+            "drm_license_url": ""
+          }
+        ]
+      },
+       {
+        "icon": "http://static.dplay.tech:8080/imagenes/maradona.png",
+        "name": "Maradona: Sueño bendito (2021)",
+        "temporada": [
+          {
+            "name": "EP. 1",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfQfqxG5x7WLNDREchSB3v01WTdgIxSS8vPKLd/Z38XHA==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 2",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdBMF/a3sDCUiZCRL4FGIJy511Cas/g+WvfRgRoO8Pz6g==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 3",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfDVh6XfKTMnMqDCO2AUcRNMDp7KqNhz1p9ef9zTganBQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 4",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc2zsKzX+MGCFzOvv1nvxu2dkQfSzcPBVTS2S1uxpiQVQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 5",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc4Azfbg/LvuAe9CqwYnKgWn1Tk+ZX/jNr/GDKW2qfU/A==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 6",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukctAgGh+00ytVOKXJZzLtvmsya2feCi2NWTAZFYmdfClQ==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 7",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukd6s1wreaQFLxRJkqg8pJamlXuKi+0xs5EWrRuKeG8QTg==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 8",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcVWMdWc5xl0o9lD7FUd7SCVayjNQeblf51nh19vbebqw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 9",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc84BbW1M2JVSigpQsvd2E6PNlVreOMD1XHteA6yz7Vaw==",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EP. 10",
+            "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf+XS5l0rQRdSAYpgGn7Hj6MXP8wAuBKvbTkuwDmu8bww==",
             "drm_license_url": ""
           }
         ]
