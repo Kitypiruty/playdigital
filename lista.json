@@ -3,6 +3,41 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/elultimozombi.jpg",
+        "name": "El último zombi (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvwU6PEr7G5yKjWrEXKfZkHS1KlOqdceUD1tGBucKDQ8u3V5pCIwigGp8aDjQcDafg="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/lossecuestrosdecleverland.jpg",
+        "name": "Secuestro En Cleveland (2015)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvhdBSTwNVJamH8rNCJ7NqUnxiMhORzF9TwW5ulp+igbYNgD2uPa8MeV5zzhNIXwM8="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/elrenacido.jpg",
+        "name": "Revenant: el renacido (2015)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvt/1S8NcW6ho56QfXgFMu5X0vUpZwo+efBR8lHDoBwUFDo4cU9Jkyu7DmzRDn2fEI="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/cabezas.jpg",
+        "name": "El fotógrafo y el cartero: El crimen de Cabezas (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuWFVdQbdEkPPfCyZnSdN18vQIi687f/60K02ofVAVm/FkGUe3j8tnh+HdL/sVCQlY="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/dakota2022.jpeg",
+        "name": "Dakota (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxugbwNG+R7qY1CW/Lt7x1X121WdEIKpto1NeZlX1OcB6w=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/crush2022.jpg",
+        "name": "Crush (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxugbwNG+R7qY1CW/Lt7x1X121WdEIKpto1NeZlX1OcB6w=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/ciberinfierno2022.jpg",
+        "name": "Ciberinfierno: La investigación que destapó el horror (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsoHweuB32s0ohrZx9GQMtNpnD1BSO2yXuhL92Ls1Xk3YA/jKrZ0Q1t/upqwH3UXhk="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/sonic2.jpeg",
         "name": "Sonic 2, la película (2022)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtFnj11DAqsyBIqWJboJwphAVKT6o8EFdA9GGR9qQ3YUw=="
