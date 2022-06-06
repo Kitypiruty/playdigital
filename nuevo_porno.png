@@ -1701,13 +1701,6 @@
   {
     "name": "GUATEMALA",
     "samples": [
-        {
-        "icon": "https://yt3.ggpht.com/NPkklF8BmJZaeYp7ewf-mutoi2SkNjcLI4uvHs-z6-VRh7yWvFL7JkauVsTVyZlQdhqoDdl89Q=s900-c-k-c0x00ffffff-no-rj",
-        "name": "TEST",
-        "uri": "zPjN/mC4e9usT7mbOj5yg8+iJDhiHRn0i5giUL2cBWVgwHIE3cKH7nsSJYC2AA9Q",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q7V9enJS1lEqwJBkJ+dRKBNYGR7Df5RV66Yy7Gb0gJ7T"
-      },
        {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png",
         "name": "Canal 3 Guatemala",
