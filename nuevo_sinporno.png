@@ -1711,7 +1711,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiGBDbP3VLlOTfbCeHXPUQPLutnnrAMj+wVYZkDSM0cf3A=="
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/tvciudad.png",
         "name": "TV Ciudad",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xBMvIrxPdxlukDRQOqWeylx7SQnSEZNnnwf3CYA7c9j3v3vbM+pNzcPfxvFNra7DCLmN8WFVcO2daytMoqNE97",
         "drm_scheme": "clearkey",
