@@ -12,7 +12,7 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
         "name": "TV PUBLICA",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z5XEVwEY6Airy3DLZuCph4SvDvpF6gyWAWPPO/youv8luaREPes9fLkZvIYNkBZpI=",
+        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFW2i2Qujdxl4QfgR6UHqITW3LDc+UtocznccYQ5fLPjYA7IDcPVxVaDTh4Z+3EjlndAVH1Cq/npk5mT17AsKdjG",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiEmYXJQ9DCa6uHG8ntQHnGp"
       },
@@ -552,6 +552,20 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png",
         "name": "VTV URUGUAY",
         "uri": "G3OYAsvwtSv059sQiz6Fh+dsIksaDCyMA9SiDHxJTY7hNQiK+ah6/8k4Kvefhibft3IUE35SwYV3QJLceu30C9LtPiVpA+ElvdmE/P5NaLw="
+      },
+       {
+        "icon": "gf",
+        "name": "VTV 2",
+        "uri": "zPjN/mC4e9usT7mbOj5yg7CYB6NUTC5HYXewxfdhJ2WJJDYTYxKmCjHfOCvMKZbE",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiEzGD8FXmsnkzWW8h6CAHhnLf2yCTKDRX2dorDLIM0Crg=="
+      },
+      {
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "VTV PLUS",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wisA/+CYv5SF53bCP+heI8WoL1H+wBbv4qiYwve2eGm2zSAIvs71TrL6C8j6rnisgulrDMtheDAgI4wc5A/RM1",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiH9f4SoHTmB0Q3eKIUk/XBHvQXekHjI9ImpImg5ghys8A=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png",
@@ -1669,6 +1683,46 @@
         "uri": "jwjdtN1vPAWPglxaqI7tf5Snz7Awf8zjQWjBTrmoJzq96wP7NlTojJ4AXdQb7x10cdY0OBePlt79+u1EP+mAIFcZUCnGn2NX4naJP2JfjnWTLyYfktLgXO65DYOJYshM",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfVF8TNR7tsT/TvXOWhn5nvxBD8a6RW5WEQg83SvQxZeA=="
+      }
+    ]
+  },
+  {
+    "name": "URUGUAY",
+    "samples": [
+      {
+        "icon": "https://i.ibb.co/mhjv8H6/m2-Olr7dp-400x400.png",
+        "name": "CANAL 4",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yHMgE5E0ZeRW2V6qgKgH4GXtmKpTbB1ufB9+0B+mXQRGmXLtQtOVXcQJiIHIJK9xl2k9G+QmMuNusyj7ENUaqO",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiGBDbP3VLlOTfbCeHXPUQPL3hojB140aN8I3eEUb51w2w=="
+      },
+      {
+        "icon": "https://i.ibb.co/BcrhzSq/teledoce.png",
+        "name": "TELEDOCE",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zAzbIx5jGBgev7P/+stvxOyt6mIRCdh+UN/nZvwNlVZGuooMDofplcbvXGWDPCvtDgdC1w7lSqtMJ6/ZwzG4ud",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiGBDbP3VLlOTfbCeHXPUQPLxNrQgUb2iab00lCP7+zK1w=="
+      },
+      {
+        "icon": "https://i.ibb.co/QK6CbsM/canal10.png",
+        "name": "CANAL 10",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zW89M1r11eSNMiodKMeMXtkkALGmHIRwzpYl6jYxyrxmDNuYPMMl7PCcrQyOxeQE+TbgI7sVh70ReaxO4DF1/W",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiGBDbP3VLlOTfbCeHXPUQPLutnnrAMj+wVYZkDSM0cf3A=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png",
+        "name": "TV Ciudad",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xBMvIrxPdxlukDRQOqWeylx7SQnSEZNnnwf3CYA7c9j3v3vbM+pNzcPfxvFNra7DCLmN8WFVcO2daytMoqNE97",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiHA1KSEwpq2yxf+hT9Laj9Df24//45Y6aAbNxawkVRsnQ=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Canal_5_Uruguay.png/250px-Canal_5_Uruguay.png",
+        "name": "Television Nacional Uruguay",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xY8aPeVeS6BMjA6wHwY5r+GSPotHzm8H6cZSKoEvWhpymC9F+cLp++88PHb0b5Ln1LmLJM9SyQREDzg4ttEIuX",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiEPmoOI/RADN3wgK3IIHHQ6VZl00MpYkOckHp2y/xPszA=="
       }
     ]
   },
