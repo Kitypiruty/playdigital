@@ -1702,6 +1702,13 @@
     "name": "GUATEMALA",
     "samples": [
        {
+        "icon": "B",
+        "name": "TEST",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8GkDdNOXK6mMRJJGpP0ixcJ8Sa4SzzhgGSEoQV6OiZ5",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiGkrJSsgUpkEbl51GwdTqU+wjj7bDPxKfBohEnI0Vxh4g=="
+       },
+       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png",
         "name": "Canal 3 Guatemala",
         "uri": "iicgLd6bIwcaG9MREltcK9zDIpV/ggt8UL+6Ff37BX1IJwqvgj7eiduYcr+xYCjvGsaj+bSMNUmwk2VS6RRyqLboh1LPEacOxq6RQX4tAZw="
