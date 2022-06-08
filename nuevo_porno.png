@@ -742,6 +742,13 @@
     "name": "CINE",
     "samples": [
      {
+        "icon": "h",
+        "name": "TEST",
+        "uri": "dX/xn76bO2qtw+qwN9cDSAVPxGQclvm5U3I0cowtZ5/j7J1zvWrt3vIvacxLyPVVeodOldE2XFxLcNVmwymgF3tuVxncUhxOoFrZ5wPRayf9qBW2LMFYi901NoW08/8Gtlkj0UsC+yMHz+2Vqhv7JaErPlHi63EU9GJ/G+Q/1PJc1TkJr/axn5ozxM+EUlv/Gmh933lAr/EqIZH0EIPmK4ZALCC3RkvDNjSDAbxwEafxDlit83JMEeWGyCLJyijiFt/pl948RNCNm7UihTs2lWMax93Lc5dzDr4tlK46Ois=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiFSLjCMmjtp1Xcy/0t59ePf"
+      },
+     {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
         "name": "UNIVERSAL CINEMA",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
