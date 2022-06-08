@@ -599,6 +599,13 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zE4EaiDK/FCkoiOPmEHZ2xXebjHze/O8xLm+BkFd8Bh66bJXmgceIejd+oeBB8N7+rRLR2TgXY6pbmKW+gAUYH",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJdGmziXSvxozXzU4rYJWcOKvY/gFZclvNDle6bQ1m8/6w=="
+      },
+      {
+        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
+        "name": "DIRECTV SPORT URUGUAY",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvYh/EGFelZ+CW1MVbSJyNmDms4FHJ0fALQmI4aB5+Vg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiE8DOAqOFNtAAVi6DQ9DOdv"
       }
     ]
   },
