@@ -3,6 +3,46 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/todoalavezentodaspartes2022.jpg",
+        "name": "Todo en todas partes a la vez (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxunvLdxliwofT25HC8imoqNxO03codUkbtlSGNrsfgpWFP61FBrwadUNz3x05c9anZ2XSEwO9xqBwl3iA8SI6Fx"
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/sin_ti_no_puedo_2022.jpeg",
+        "name": "Sin ti no puedo (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt8pL3oYEV1IOpYm7eROb0BhfIQM0ebj/kMKn6zoS89ltQaSqVl1u6yFvpNnxDlBAY="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/Last-Seen-Alive-2022.jpg",
+        "name": "Visto por última vez con vida (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxucbVp0xFbpHfuDBRS9gbMIqzr/4+0xs/yuUOuDWvFsuISG6k97otRX0dJ0DnQi3Cs="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/jinete_de_la_justicia_2020.jpg",
+        "name": "Jinetes de la justicia (2020)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsNgzyCMX93VqFh7uS7Qtih3oCAC4b8t3MOQXTrt5A5PnqBsWEC1AH6JyIBy8hgPg8="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/garra_2022.jpg",
+        "name": "Garra (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuLgS/xR/3B47SnDnqgnuRUt1x3e/fFLX8PUVckCxextQ=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/elpesodeltalento2022.jpg",
+        "name": "El peso insoportable del talento masivo (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtFDDYxSJSJRvWr4WOudD72lQ1wfJRwVpp5pOQxfxW6d0t3ZsscyhLOo0zlsIz+IPg="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/Dark-Cloud-2022-1.jpg",
+        "name": "Nube oscura (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvO+/zcylBNKtwO6HBX9Tq6nNthxNkx2p2XM36k3OUdSYtK7FHO8s5t+0TSi3ZSzGM="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/animalesfantasticos2022.jpg",
+        "name": "Animales fantásticos: los secretos de Dumbledore (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtKblasiggeANf9gYlo4o6DwQ3QwqDTr0rL2AMNI84wOi9XpkfpiVhAoVVF9hXaTsY="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/elultimozombi.jpg",
         "name": "El último zombi (2022)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvwU6PEr7G5yKjWrEXKfZkHS1KlOqdceUD1tGBucKDQ8u3V5pCIwigGp8aDjQcDafg="
