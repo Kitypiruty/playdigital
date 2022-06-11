@@ -731,8 +731,8 @@
         "icon": "http://2.bp.blogspot.com/-UpBYoW6ADcs/U97C2BWoceI/AAAAAAAAnG4/-jDiJh10lJE/s1600/canal10-tucuman.png",
         "name": "CANAL 10 TUCUMAN",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtr0ONEVAcya6+Pp5fsmarY19Io8z5mIjN165kDy0mBC+2XJRSBPHY+2mvre88NwNsBj/71JmKKaA1IWsu64xuz",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrn+zGQ2T4s7i2pulucov1Wu+NwJa9wqsqc0cWZal5gaPHvJ4PFxFwNmGJazBwewuD0ciO6Bn/ngBsZfxjf+lOZ"
+        "drm_scheme": "clearkey",
+        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OGXsoToLdvwzFtWemB0M91Nco55sZtVV0XoSHiqV6QqMXkUV0Fd8KV92+k3NjFbKag=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
