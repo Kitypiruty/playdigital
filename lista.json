@@ -622,8 +622,8 @@
         "icon": "https://canal12misiones.com/nuevo/wp-content/uploads/2021/01/Doce-Misiones-03.png",
         "name": "CANAL DOCE MISIONES",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsW/IaMTNUU9EYWaPuE/U9LOP3+4PrzifYWbvV0xE+dGH98jaAuEdMi+t7GWyGr0tBF/XQNqRaV5L3i3TxbEr48",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLpYPUwioGeypXSW9bFFUztXWOgX6RtLjnhodAvb62bpzp8xc2cxca1aIuhumnHEtd09hZcQYlxP5LtZ8b/8h8Yy"
+        "drm_scheme": "clearkey",
+        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OGXsoToLdvwzFtWemB0M91NIfl3+fHb7VKDK/dsfu13FjYTXxjVrSNNwYpK/7kBKpA=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo-teleocho-C%C3%B3rdoba-Canal-8.png",
