@@ -489,10 +489,10 @@
     "lista": [
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV FS",
+        "name": "AMERICA TV",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x0LQw9LpYkyQYAjKVsVvjVxE2xhNr2o5wv2zbG7vEY8tGBFB3b1RHWRCOjyWVvuPiYMjCVG2QM8dPG8X4ttSLA",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DkIvgt3fCDiG8olIIKBu/8EvdzgliCuv1MIunCTx0M/Zj1DjgYQ/WE3RyJq9tSHT+oLF+9hg37MNMGAMIwOWrQ=="
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
