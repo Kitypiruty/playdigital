@@ -4,17 +4,17 @@
     "samples": [
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV",
+        "name": "AMERICA TV TS",
         "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFU5ke8SSHYXeuJH5QLGpaJya0CP9drzu6RJuZA2cXJ9tkPT+FwYyHmXZ3kuIsaRI/yNPfmW2dagOKPStzaj+F62",
         "drm_scheme": "clearkey",
-        "drm_license_url": "eRu46h8kxVLWNzlfht/1OHi39qDSkSUYK1Locs/JOQggcLmfoGbX8RS1vACkpTsG"
+        "drm_license_url": "DkIvgt3fCDiG8olIIKBu/8EvdzgliCuv1MIunCTx0M/Zj1DjgYQ/WE3RyJq9tSHT+oLF+9hg37MNMGAMIwOWrQ=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
-        "name": "TV PUBLICA",
+        "name": "TV PUBLICA TS",
         "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFW2i2Qujdxl4QfgR6UHqITW3LDc+UtocznccYQ5fLPjYA7IDcPVxVaDTh4Z+3EjlndAVH1Cq/npk5mT17AsKdjG",
         "drm_scheme": "clearkey",
-        "drm_license_url": "eRu46h8kxVLWNzlfht/1OJQ34AFeu8tpgSMesc2pX7EgpPq3lxMt4zOuW9qe2lAU"
+        "drm_license_url": "DkIvgt3fCDiG8olIIKBu/8EvdzgliCuv1MIunCTx0M+4jG+MnQtUKfIr/rh5WiDCw0WGCOVb64Bm0YKRg1DuPQ=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
