@@ -488,13 +488,6 @@
     "name": "ARGENTINA",
     "lista": [
       {
-        "icon": "https://upload",
-        "name": "TV",
-        "uri": "5YdyVi+PL8QZpLM9X5SumgfPbIIDIAzkb00rZFtJSNv+k5xibH6DNhcuuR4fchoOc0XUa+nQI3sIF5Z3exYTQVkEV4fkEn+ydzKaz+AIBJJu7x+S8ortb2xOtOHz0a00",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABqJDJQlq3ekzh7V14+UXcWg"
-      },
-      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
         "name": "AMERICA TV",
         "uri": "5YdyVi+PL8QZpLM9X5SumgfPbIIDIAzkb00rZFtJSNv+k5xibH6DNhcuuR4fchoOc0XUa+nQI3sIF5Z3exYTQVkEV4fkEn+ydzKaz+AIBJJu7x+S8ortb2xOtOHz0a00",
