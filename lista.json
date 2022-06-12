@@ -3,6 +3,41 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/tedbunnymenteasesina2021.jpg",
+        "name": "Ted Bundy: Mente asesina (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvYCsfuugQcdvsei4zMqDbCqkHcAow55uzqjORuv4+sJg=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/Spree-159613444-large.jpg",
+        "name": "Spree (2020)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvYCsfuugQcdvsei4zMqDbCqkHcAow55uzqjORuv4+sJg=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/nuestro_padre_2022.jpg",
+        "name": "Nuestro padre (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvrN6YeFm5haCc0OIQEEcQiaP+0kE/UN5b6ZKQQcxSwO4CJNJdPP09T7AEgoDbmn9s="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/Los_rboles_de_la_paz-126101234-large.jpg",
+        "name": "Los árboles de la paz (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt3LPukif8funZt9VZ2hHvsEfGxjkAj5CcLsfyDMvksuL31VXMsAfEkBJMYqRiPrS4="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/Two_Deaths_of_Henry_Baker-175001361-large.jpg",
+        "name": "Las dos muertes de Henry Baker (2020)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuAcO2f+9i//ELRh0G604ph9U+mJ/f3yi5m7ORT/aoYZnD0SlupfDtKRQIaVJQuNLS+hiBFcVN3R/rwZQSpRxZ0"
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/gladbeck-el-drama-de-los-rehenes_AVfU4As.png",
+        "name": "Gladebeck el drama de los rehenes (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtWyc0u9zYdm286mAUSbzaFxjEqYvHC7lf4kZ4UBpPcd5C5H5TE+zvfL9R7LrPwQmM="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/downtonlanuevaera2022.jpg",
+        "name": "Downton Abbey: A New Era (2022)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs6hy9G4VRZ6d0n2lBcJMejPaG+xk+MK2Oyt/07nrmeRUuKcSeoZc4o0qwnF1qh4vo="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/todoalavezentodaspartes2022.jpg",
         "name": "Todo en todas partes a la vez (2022)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxunvLdxliwofT25HC8imoqNxO03codUkbtlSGNrsfgpWFP61FBrwadUNz3x05c9anZ2XSEwO9xqBwl3iA8SI6Fx"
@@ -491,15 +526,15 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
         "name": "AMERICA TV",
         "uri": "5YdyVi+PL8QZpLM9X5SumgfPbIIDIAzkb00rZFtJSNv+k5xibH6DNhcuuR4fchoOc0XUa+nQI3sIF5Z3exYTQVkEV4fkEn+ydzKaz+AIBJJu7x+S8ortb2xOtOHz0a00",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABqJDJQlq3ekzh7V14+UXcWg"
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
         "name": "TV PUBLICA",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWva3lP0JLuNCG+qSMSghAzXlRI4t3xNycI/KMkAZmD6xNGs5wvRCrDmMSP24Pg0+sM=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OBhnBu/2OVhRppi2mry7P+5TLmmOcD+j2XNAFMUtZ7oA"
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
