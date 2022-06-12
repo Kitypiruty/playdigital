@@ -3,6 +3,11 @@
     "name": "PELICULAS",
     "lista": [
       {
+        "icon": "http://static.dplay.tech:8080/imagenes/encanto2021.jpeg",
+        "name": "Encanto (2021)",
+        "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtD1/HvCYQP6zWZj+8Zzzc8GC5gjLKnZ0bkJea16Y34Fg=="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/tedbunnymenteasesina2021.jpg",
         "name": "Ted Bundy: Mente asesina (2021)",
         "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs6gUsZoG0o+D49ZagC8wubs6j+OKFUMh3NTJtxvtdkCqjFJcstx37wyQNci5/wosY="
