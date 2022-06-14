@@ -529,10 +529,10 @@
       "lista": [
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-          "name": "AMERICA TV 1",
+          "name": "AMERICA TV CLEAR",
           "uri": "5YdyVi+PL8QZpLM9X5SumgfPbIIDIAzkb00rZFtJSNv+k5xibH6DNhcuuR4fchoOc0XUa+nQI3sIF5Z3exYTQVkEV4fkEn+ydzKaz+AIBJJu7x+S8ortb2xOtOHz0a00",
-          "drm_scheme": "widevine",
-          "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+          "drm_scheme": "clearkey",
+          "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yzuOuRVx+KPhg0xzU8nMmbWvmmXT8YzX76rd0qZDJGpKmFFBKcx9s1oDQCrwi/aWufooCE3dGdb18qlrDRjV4L6"
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
