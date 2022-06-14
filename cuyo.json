@@ -4,7 +4,7 @@
     "lista": [
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-        "name": "AMERICA TV1",
+        "name": "AMERICA TV",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x0LQw9LpYkyQYAjKVsVvjVxE2xhNr2o5wv2zbG7vEY8tGBFB3b1RHWRCOjyWVvuPiYMjCVG2QM8dPG8X4ttSLA",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
@@ -1026,13 +1026,6 @@
         "icon": "https://scontent.fcnq2-2.fna.fbchromecast.net/v/t1.18169-9/27459876_2278968105462397_7759928134736230235_n.png?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=WbyJIzV_CgQAX9OpTnS&_nc_ht=scontent.fcnq2-2.fna&oh=129faf67dc0493311ddc90327426dfc6&oe=60B8D089",
         "name": "METROPOLITANA TV",
         "uri": "Za/5wKdQkORsX6QkR632EwxP+fh9NCuRUeINAkCAL0dm68XHyyZPOX7t7pzJidPMSoCyScqDKITtu7ToHY/CMsB2YEWcx4R1c4S5tuilQzyABCgmJv0xEF3MNfVULzbr7eI+XNc0BY6TsDsQl+5OXHgd/5R4K6ybkUy/LVBwkGm2429K8Cxa6VBb4phRtKbyP0cR7KToAlyMMe0ke7pRJytPQnHXQ8Zsg0ggt1rf5Wcbom9GH4r7MW1F0jSe1vf2"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/712/CH_LOGO/350/500/0/0/6514958607308.png",
-        "name": "NUEVA IMAGEN TV",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z7cSxe+dhke5lkFEc8Wu03nKe3iHMLMbS5bmjKUKecJZLyZPf2760UKlWd94Y1LBqGtFhBGqDIFDspTFZZeF0b",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
         "icon": "https://static.flow.com.ar/images/668/CH_LOGO/350/500/0/0/49041028073437.png",
