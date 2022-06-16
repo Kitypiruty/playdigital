@@ -2870,6 +2870,103 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elreinoserie2021.png",
+          "name": "El reino (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf/kxvCfSl+rcki56gz7xz+qDPOtBbAivdjTmB6HOS+bg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukckFGSzReixCRx4Y0okgCQDtKDkPliXfUcw/K4d1p/pWw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfH7IFTp//6l2UOffK1ew+Daorw7itihUohyE83NYW4LA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfqZfMPEIDYFg4dFXnbfTRolLxM9+Ihj+Cl8NpnoZOveQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdN3rtKaJ0rP83DcYDHhROcQmqq/FqM7dEV18xZ8O6SNg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeDnTd3GbO0Ch3QtDV1/6Q8AiSZU4SFux1HhiFY+Ampkw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukejfCkmxIDcwV4shTyMKLpIXtr9bXwDWXLB/qvxYvrpUQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeJpO1bfkNz74QtIgczcQKLDG6sI4IJASexeQ6o72hMaA==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/HALO.png",
+          "name": "Halo (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfylda4wlO39WjC8+o9SwyM2TjHGFGxYON93Vvv0n+l7w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeIvry720y4sueIguzZTkdTVdfwpN8z4D0Ase7dWeWp+w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc1xxx3PE9zpvoDVT1kOUpDaaSxQFcZ2shFylx40qPsXw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeHi4YmFSSB6UmDHNmeQeToULASuYGvJNA5TNqpTzRFHw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf+ubD/KFWoba6wiwIJhe7tAQV3zu/HWZrhy2JXUYOnZA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukd1Eg8k8hDBk1C7lJMLS/kJqgsAQ4VMEEKIWiZRELXmYw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc85o35vNhG9GkX1/aHXfiP7rUh4WkdB1wP9vO6/jEkFA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfMCiHFWbiLq++qwn130f137fwcFF0iSZ8qteIbtfwXAQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukem5CFRdVlx9lbcjVpQOxDTxqwwHDokojHio0pm2q/Lvw==",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
