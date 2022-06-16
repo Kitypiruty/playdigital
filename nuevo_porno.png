@@ -743,11 +743,6 @@
   {
     "name": "CINE",
     "samples": [
-    {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/80/80/0/0/41895840072352.png",
-        "name": "DHE",
-        "uri": "W9p2NUpj8tvrBp+fKr5LTF1W0Z7/Imql6Kn5/An5KwJDCVe5r4xBCqaAM5yzADfnmBk2AheDm3Ie9nnGrSNzHV7u7JU5nsJF0/EdJ1qdLA5J0bGxOb8wJpffx/uUs8TA"
-      },
      {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
         "name": "UNIVERSAL CINEMA",
