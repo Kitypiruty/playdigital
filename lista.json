@@ -3,6 +3,66 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/the_medium2021.jpg",
+          "name": "La médium (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuhnOpIuztQzSLETyLhI5rwPacn0cacyCAuB9GuJ3EiWw=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/the_medium2021.jpg",
+          "name": "La médium (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuhnOpIuztQzSLETyLhI5rwPacn0cacyCAuB9GuJ3EiWw=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/the_jaes_2022.jpeg",
+          "name": "Janes: Mujeres Anónimas (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs1SmUBZw3FlJ5j/zeiJwloiQdLmW3b1Z/n6EPWMY68TIoAquHclyaAVaLCmlt2qSE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/stargirls_en_hollywood.jpeg",
+          "name": "Stargirl en Hollywood (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsfFlNONavLFX2jxE88jQ6mt5vttw7G999bTou1TDLAKSE1K80yMG9TgI3ZRvCLBUI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elijeomuere2022.jpg",
+          "name": "Elige o muere (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtkvX2HibvIHmNfQWj+5RLkn+++dLX2rOSsmX05sUS5h5EUfwhq9SO98zHv6kOZhHA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mi-novio-falso_2022.png",
+          "name": "Mi novio falso (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtG+zTiyJGi6nd5kYHSWpaGgDWNM0tNhZJ1Ur/e4E7D2hON5R5gAduJRK0QUGUOO3s="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/hopper_el_pollo_libre.jpeg",
+          "name": "Hopper, el polloliebre (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuiR08va2JZsv1Ja8hAyQnwwUV0CtqeRV6xBFq1vZoUtVRuo8DPxTIq7ReOOl+Bq+8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/heroesdeguerra2019.jpg",
+          "name": "Héroes de Guerra (2019)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs+K4ekefqEeMj9sR6JjAj1CDu/0WWMs3N2ErSfPjkn5JaWYrOyl4+xp2fZ7/dpHHc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Fresh-544874087-large.jpg",
+          "name": "Fresh (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsG478UTvs8X3DLMUibB4AjSA7Ev1Lk1ctLH2D/z1bAcg=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_sastre_de_la_mafia.jpg",
+          "name": "El Sastre de la Mafia (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvCcCw9xigg7W8NLUEBEJGaGjTvniC8g7GwlnU3ZNiiRRfwpk9BH3y/3nxqq3HPu4A="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/interceptor_2022.jpeg",
+          "name": "Interceptor (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt/fgfah/kt1hJuv1e6YJ/nIrR5cEoAkrAVPVcZIZMLX1Tv09u+Q622QGd6uvBEHFM="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Desfile_de_corazones-955783433-mmed.jpg",
+          "name": "Desfile de corazones (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtI95VrJR5bl0BRdekbODdDCEhFF7PWkw3PmB/n42J8ds78OHGqCD0U+hfsytztarg="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/encanto2021.jpeg",
           "name": "Encanto (2021)",
           "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtD1/HvCYQP6zWZj+8Zzzc8GC5gjLKnZ0bkJea16Y34Fg=="
