@@ -3,6 +3,86 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/no_mires-arriba.jpg",
+          "name": "No miren arriba (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxukFI2Dt4u+vAqMDIHHZBXp+7tymbFnM0si5h8gKSxBQTCcgsj8FtiARZOTRHBtlA8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/no_mires-arriba.jpg",
+          "name": "No miren arriba (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxukFI2Dt4u+vAqMDIHHZBXp+7tymbFnM0si5h8gKSxBQTCcgsj8FtiARZOTRHBtlA8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Moonfall-2022.jpg",
+          "name": "La Caída de la luna (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvHi0z1pVXcGPp/e4n3krCre8m16TNNQLb9kqqaeKZpMQ=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/lacabezadelaarana2022.jpg",
+          "name": "La cabeza de la araña (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvsGMaPcbhYKeWH8AXaLTXll7DQ5MwElKV18p4TxtWbkLQc+h7p9JFj5p0ATJSxwJY="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la_liga_de_la_justicia_2021.jpg",
+          "name": "La Liga de la Justicia de Zack Snyder (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtztNJ2w/ZiCVg+JecTZQXd5yvuxhq3Od0Dfk+Xv6adJQJM22y+aN0DN7OMmDS1990="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la-formula_ganadora_2022.jpg",
+          "name": "La fórmula ganadora de Jerry y Marge (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvS+vY7Zr+ez6kgvWGvRzx4M6fnHjal/RzRJb+Sl1YTCi0IMRgO0cOFYQC6yusdkek="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/godzilla_vs_kong_2021.jpeg",
+          "name": "Godzilla vs. Kong (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtH1yURFPfO5xPy55+lNal/i32HvVzB7Z17FLK17I9kazl+izCTy8NBA4naPQvNUu0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el-espia-honesto-cartel-1641372246.png",
+          "name": "Espía honesto (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvRoX2+I7lbJQh2pDzKxNoD7fQLuJBM/Qx9++yd2unoK3LCPPEbO/KHY6NksgDQNOU="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/El_padre_de_la_novia-253425634-mmed.jpg",
+          "name": "El padre de la novia (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvx2iE/YyyaBjKcBby/3Rxs5WvKe0p3ln0lD6cEt/QYy0S4GmA8j8VFiu7NIjFTKsE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/kings_man_2021.jpg",
+          "name": "The King's Man: La primera misión (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsFpgF8j/gQb9f//x9CUqu0s99aUK6iTkK1hmU1s0/Bv+VtkWQJO8PfzQW4abm9J74="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_exorcismo_de_dios_2021.jpg",
+          "name": "El exorcismo de Dios (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxssg61uXDd3yPaEJFe05Hzm5cj1Q0Kc8LHK6HQLxHKdMOUStOXnJwVEMY18E8KBkWo="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/dream_horse_2021.jpeg",
+          "name": "Caballo de ensueño (2020)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv3W1UGv1rUZAZpWJjoKGPTF48CBDeczrNyLNHu0fRr9pqIXdhkAmbhz9o9x+Echrg="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/collision-480016043-large.jpg",
+          "name": "Colisión (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsP9bz6k70sDIU9IIEJBFD0xOyRnhiMVv24Vwt5HFtVpw=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Cloudy_Mountain-169143770-large.jpg",
+          "name": "Montaña nublada (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxu7mz9WToI2yp1sRD4RgW+ucu8JQpRuD8iT+WrMjjJlyUA/IqtzWw4QGzaSJ+zBKmw="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/bailando_por_la_vida_2022.jpeg",
+          "name": "Bailando por la vida (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtWH09MtTKltEfzxv+zPlZ0jY+Y3rXssFogURnKcMcU6pFI4jFirKpPNETwsrcKGis="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Paranormal_Activity_Allegados-935024364-large.jpg",
+          "name": "Actividad paranormal: Vínculos familiares (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxscb9xh4wNSTdRAktY1cC6fXb1dCerRb+0+LNEEyJl+yWs95vgpyXo8N2jxXzEy/ik="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/the_medium2021.jpg",
           "name": "La médium (2022)",
           "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuhnOpIuztQzSLETyLhI5rwPacn0cacyCAuB9GuJ3EiWw=="
