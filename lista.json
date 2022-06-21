@@ -3158,6 +3158,47 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/harrypottersaga.png",
+          "name": "Harry potter Saga",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcqVXgW4sIhy7gODu8JL4gurqult/yo6IuFntqZxVJhdQ8iThKab8dKbB3GKFwg6l8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcqVXgW4sIhy7gODu8JL4gumQcNuLk7nNmWzU/wdL4IiUV/cZo3EzuGIpZGzOkVP1w=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcqVXgW4sIhy7gODu8JL4guMGg7FKcFFHTbEe/sWVG/0LYSmw58wwV0F9UEA/TAU40=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcqVXgW4sIhy7gODu8JL4gua0cDdC3jQUZiWtKJQm4DrktTvWIJdx3wPe3kHN0Hm3A=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcqVXgW4sIhy7gODu8JL4guIlkKpQ/q/cFx7hFamJpt4SgoXeb+MC7fCz6Fc2rH5BU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcqVXgW4sIhy7gODu8JL4gubIPq4KRUeC8fqcxcNE15JhwLfUD8KDp0ZVN3qXIYLJg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcqVXgW4sIhy7gODu8JL4guM3EAiRlNFNmWRVlVO4/mKQXy1JpXQYSE4aBhrfZVs/0=",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
