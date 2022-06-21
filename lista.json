@@ -3,6 +3,36 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/un-lugar-tranquilo-2-poster-2-jpg-1582618364.jpg",
+          "name": "Un lugar tranquilo 2 (2022),
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv3jWwDeslUn3lkZO7kZV34B2CtdGeFVU3oquDHX45QEvpyBu2PQWGMBBFsjfa2wqs="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/umma2022.jpg",
+          "name": "Umma (2022),
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsIzoSo7cHnABL/r9dt081t1kCwi61hUy0ZGyQ+vrZ8Yg=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/hidden_figures.jpeg",
+          "name": "Talentos ocultos (2016),
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsmrGk6zk0k/vAxaRrN9cq41qxcyhy7bcSqs3L4jFoWD210rkl5ZiArYbe3FaShDpc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/shang_chi_2021.jpeg",
+          "name": "Shang-Chi y la leyenda de los Diez Anillos (2021),
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs0isO4ij8K9YZ2tRHKgTxeF1pRPQ40znoTuAtVQV1KPQ67aYNkRRaBCpqsGUn2CGc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/scream_2022.jpg",
+          "name": "Grito (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs32BagXfpGgWYRV6d8BScrtqeB64r9VaasJoyC409zmg=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/P%c3%a1jaros_enjaulados_Hastaqueestemosmuertosolibres2020.jpg",
+          "name": "Pájaros enjaulados (Hasta que estemos muertos o libres) (2020)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtpDagxEnFaBSq4H//GXLelJaAgtc5/3H0lEhCQkmjYq2baQyBewcQfXShJYbk0AO0="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/no_mires-arriba.jpg",
           "name": "No miren arriba (2021)",
           "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxukFI2Dt4u+vAqMDIHHZBXp+7tymbFnM0si5h8gKSxBQTCcgsj8FtiARZOTRHBtlA8="
