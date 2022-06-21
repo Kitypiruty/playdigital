@@ -3072,6 +3072,92 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mananaserie2022.png",
+          "name": "Mañana (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdLR7nMFOf7INjzpMVzJ+pDzg5TDD6/ullpwYdMlYnGIg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdxc/PPYCzy5OWq7ZE/5OviI35EsEq8bw4fEDGK9t3cUg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcs1vXsu9Ub5RZ9BJmTNNsFUzfiLLfV4GpAopJOyPhvqA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeBW8f1br90sbwKbkvPJZjg9Vj8knwXD1um+NzOdDCMUQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdnIbfSJL7WUbpDKhuzrtqWUQohj1SyF60nGORM/uetSw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc6vcm4Z2lgxmWb7CWi7skyMwzm8F04DZSvPjzF+nAD0A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdYEd7S2XzztQDmsA0DzX9dxTCRI9Z8Ca5zFpNM6sA2og==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeQGsfsJt0U/8zPJQU+lS1msp9vza5vYqcvI1lEBma6Ug==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcAqaBjyfBp+LtT82MFU5gnEHxovyEw8sVaMYRJi3iTbw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjuke2iPOOhHh/5ZCSbXJZDpTPau3BRU9ckaXqjTh9oG4nHQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfqNtn+WiPvG8cGKjgK6VY2x4RRROc1J7aBqxm8Y+YGQQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcBnSL9uRfF03R+qki6O52rIOzMu6s1ol6J+JxnbEkIRQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 13",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjuke0rprwPJBfSYMTmsWJMub002QOAXShx/B98qQE+gD/dQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 14",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc4dhFmjam+FJa+nQcNIV2Zz+xu5aqdXrDGL9vmbow0zQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 15",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfhO9Vxl7AeWdgxjEYVaBC0KuSYarL4vgQ01gMsGBXAfg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 16",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcksXt7ahWf/hYZgKWxtoc7VuiT+9v8KiSnpCUPw/h++w==",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
