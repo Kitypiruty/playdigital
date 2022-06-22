@@ -416,6 +416,13 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiEWXyVF3rncTkq/7vGoVIU6"
       },
       {
+         "icon": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png",
+         "name": "ESPN 4 PY",
+         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvhdbv0BziT5uydak9nKzoUp+3dkgBCyoBJDnMoGq5ITfISrtR1aFXdT+5Z3/D4G+4=",
+         "drm_scheme": "widevine",
+         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLp9h8PrvefXzwiIYqQPaQElTL39TjfpDee3l4SKERqOEjzNH7hi1ZpeQTroeFoTdPUKHCctOYv0Ddj21ya+nWMK"
+      },
+      {
         "icon": "https://static.flow.com.ar/images/279/CH_LOGO/350/500/0/0/16919764071132.png",
         "name": "ESPN EXTRA",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zX4dfS+YZIIn8fglSKUBSWl9GEzDOmks1Z7TpJftaJhQetdbwKLv7jRdWDMRAvzRw=",
@@ -1574,13 +1581,6 @@
   {
     "name": "PARAGUAY",
     "samples": [
-      {
-        "icon": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png",
-        "name": "ESPN 4 PY",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wIwRujEipgqz1bDBkhKDoc0CO1NOie0r5St+mxcOhDSYC3/quvx+nw9gnhpt7Q534=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLp9h8PrvefXzwiIYqQPaQElTL39TjfpDee3l4SKERqOEjzNH7hi1ZpeQTroeFoTdPUKHCctOYv0Ddj21ya+nWMK"
-      },
       {
         "icon": "https://pbs.twimg.com/profile_images/1414723264572760068/6Fa0wPGk_400x400.jpg",
         "name": "TIGO SPORT EVENTO",
