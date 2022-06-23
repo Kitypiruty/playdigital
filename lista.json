@@ -1313,6 +1313,13 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvhaO0NHbh96DjlzVy4dIzkJ4oFdxDwvGvkyiUoQn027S6wuonleIDpI8Gf3aEb4SsmyH160lD9E04DddFRSC3Q",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3Jj+xfjuimnh6/FyK1nVaGqRBLC3/4e7uz8M2AnF2oTT"
+        },
+        {
+          "icon": "https://tvsamwproxy.boldmss.com/images/8772/channel/image.png",
+          "name": "ZooMoo",
+          "uri": "Ryon4h1kYz93SZq825gFyohDmSljTXm8v4O+zyAsQvpbmLj0qSeiF+9PzJDg7qooiIgnY7BMUJe2BnoPpP0uDl8U8jkzcMC0xygRc+7OsLxaQY5wFRPztc+4v4ItzG11",
+          "drm_scheme": "widevine",
+          "drm_license_url": "p9LcaQEIqV/CeNMVyujQg+fSnnA7+H7J9QBrdpyC7WSQLcOPryOFabw5Tulsca2T"
         }
       ]
     },
