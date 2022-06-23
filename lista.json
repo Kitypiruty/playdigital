@@ -1421,6 +1421,13 @@
       "name": "CINE",
       "lista": [
         {
+          "icon": "https://tvsamwproxy.boldmss.com/images/43282/channel/image.png",
+          "name": "DHE",
+          "uri": "6WcR8l34zZfXgepa4TqRdT4m4xboi5gAN3GTOtnbsGwbHPOnh8DASOeRHopBavLpRf8ujNRXOEcqNVkWML2fhiZImyG6NMY6XiV+OWabLvU=",
+          "drm_scheme": "widevine",
+          "drm_license_url": "p9LcaQEIqV/CeNMVyujQg+fSnnA7+H7J9QBrdpyC7WSQLcOPryOFabw5Tulsca2T"
+        },
+        {
           "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/58c185c8d4f157f2b544c45472a5a2f8",
           "name": "TV CORTOS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
