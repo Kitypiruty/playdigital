@@ -1315,7 +1315,7 @@
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3Jj+xfjuimnh6/FyK1nVaGqRBLC3/4e7uz8M2AnF2oTT"
         },
         {
-          "icon": "https://tvsamwproxy.boldmss.com/images/8772/channel/image.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/ZooMooLogo.png",
           "name": "ZooMoo",
           "uri": "Ryon4h1kYz93SZq825gFyohDmSljTXm8v4O+zyAsQvpbmLj0qSeiF+9PzJDg7qooiIgnY7BMUJe2BnoPpP0uDl8U8jkzcMC0xygRc+7OsLxaQY5wFRPztc+4v4ItzG11",
           "drm_scheme": "widevine",
@@ -1428,7 +1428,7 @@
       "name": "CINE",
       "lista": [
         {
-          "icon": "https://tvsamwproxy.boldmss.com/images/43282/channel/image.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/Logo-DHE.png",
           "name": "DHE",
           "uri": "6WcR8l34zZfXgepa4TqRdT4m4xboi5gAN3GTOtnbsGwbHPOnh8DASOeRHopBavLpRf8ujNRXOEcqNVkWML2fhiZImyG6NMY6XiV+OWabLvU=",
           "drm_scheme": "widevine",
@@ -1816,7 +1816,7 @@
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3PcLuNc86FTe7iUQMs0mS5c="
         },
         {
-          "icon": "https://tvsamwproxy.boldmss.com/images/8740/channel/image.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/nuevotiempologo.png",
           "name": "NUEVO TIEMPO",
           "uri": "Ryon4h1kYz93SZq825gFyohDmSljTXm8v4O+zyAsQvpjqE7/dpG1h4CUGScRv+VoEVQdoLIIJ6pzAtwfrY+Qd3UlQyzDpafVXOTdg5lkcAVQVMVE7bYgYOqGjywcWwIU",
           "drm_scheme": "widevine",
