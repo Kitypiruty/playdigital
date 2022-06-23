@@ -1435,7 +1435,7 @@
         {
           "icon": "http://static.dplay.tech:8080/imagenes/Logo-DHE.png",
           "name": "DHE",
-          "uri": "6WcR8l34zZfXgepa4TqRdT4m4xboi5gAN3GTOtnbsGwbHPOnh8DASOeRHopBavLpRf8ujNRXOEcqNVkWML2fhiZImyG6NMY6XiV+OWabLvU=",
+          "uri": "YdjGf1iRAILSmBFPzteYD16x8Q3iWcDa2L3ddx6VZLf9K3b3cRhT2hcREXuU1anX0RUyq26tXBXk5VbU9LXZOk7ZvQkFbQwnURBzsrpFDZA=",
           "drm_scheme": "widevine",
           "drm_license_url": "p9LcaQEIqV/CeNMVyujQg+fSnnA7+H7J9QBrdpyC7WSQLcOPryOFabw5Tulsca2T"
         },
@@ -1819,13 +1819,6 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtBtL1d3+jYTWD+o7WFS2BnOYJ7xaiSbl2wcH0HduWSI1vvW2/H/DdWgiOZNRagKUaCO8fhcAlyE9EuEpPGgSiy",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3PcLuNc86FTe7iUQMs0mS5c="
-        },
-        {
-          "icon": "http://static.dplay.tech:8080/imagenes/nuevotiempologo.png",
-          "name": "NUEVO TIEMPO",
-          "uri": "Ryon4h1kYz93SZq825gFyohDmSljTXm8v4O+zyAsQvpjqE7/dpG1h4CUGScRv+VoEVQdoLIIJ6pzAtwfrY+Qd3UlQyzDpafVXOTdg5lkcAVQVMVE7bYgYOqGjywcWwIU",
-          "drm_scheme": "widevine",
-          "drm_license_url": "p9LcaQEIqV/CeNMVyujQg+fSnnA7+H7J9QBrdpyC7WSQLcOPryOFabw5Tulsca2T"
         },
         {
           "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectostv.teleame.com%2Fwp-content%2Fuploads%2F2018%2F02%2Fciudad-magazine.png&f=1&nofb=1",
