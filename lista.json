@@ -1433,13 +1433,6 @@
       "name": "CINE",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/Logo-DHE.png",
-          "name": "DHE",
-          "uri": "YdjGf1iRAILSmBFPzteYD16x8Q3iWcDa2L3ddx6VZLf9K3b3cRhT2hcREXuU1anX0RUyq26tXBXk5VbU9LXZOk7ZvQkFbQwnURBzsrpFDZA=",
-          "drm_scheme": "widevine",
-          "drm_license_url": "p9LcaQEIqV/CeNMVyujQg+fSnnA7+H7J9QBrdpyC7WSQLcOPryOFabw5Tulsca2T"
-        },
-        {
           "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/58c185c8d4f157f2b544c45472a5a2f8",
           "name": "TV CORTOS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
