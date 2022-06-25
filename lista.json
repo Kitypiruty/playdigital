@@ -3,6 +3,31 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/05R_Condena_de_amor-878745850-large.jpg",
+          "name": "Condena de amor (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtAhOpdyAjZkXJduzg+yotLDNHq6k7tlZX044hoG4IaFCQDKz0PDzncxic4zzYQGbI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/centigrade_2020.jpg",
+          "name": "Centigrade (2020)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtAhOpdyAjZkXJduzg+yotLDNHq6k7tlZX044hoG4IaFCQDKz0PDzncxic4zzYQGbI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/bullet_2022.jpeg",
+          "name": "Capitán Carver (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv1zHAuiWe2iDXDrRSGe/hEWntCHczTuwGFTqUcjVnGrsk6+5f+TZIi1zmDSlbF7X8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/bullet_2022.jpeg",
+          "name": "A la fuga (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtf58+tC5P7sfWPVLWUrtPBAeYP8cYXuJBYG1dU453kZw=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/amor_y_helado_2022.jpg",
+          "name": "Amor y helado (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsYJppybU+/KcuynnsTB6hvdmL3vYlv680CWAOtSunNna/xbD3zv/hhuMUVsKA+6mg="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/un-lugar-tranquilo-2-poster-2-jpg-1582618364.jpg",
           "name": "Un lugar tranquilo 2 (2022)",
           "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv3jWwDeslUn3lkZO7kZV34B2CtdGeFVU3oquDHX45QEvpyBu2PQWGMBBFsjfa2wqs="
