@@ -3,6 +3,101 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/super_quien2022.jpeg",
+          "name": "Super... ¿quién? (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuBvyTl/haU3k1wRqbxOE1aANaRvdcbL2PEbVb23lCJ+jJUiP2JWS9YK2GZUZADxw0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/sin_tiempo_para_morir_2021.jpeg",
+          "name": "Sin tiempo para morir (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvXo7IeavTmlcpo/qB2cpr4RDdtT/I7ieoRUWlEamKou2PBqIA3wR4++5Dz1DVrOD4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Post_Mortem-2020.jpg",
+          "name": "Post Mortem (2020)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuKpdCANqr+GuC2voTPFG4rgkI+A7W59+hJZ7WOpXUsvw=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Par_sitos-406070218-large.jpg",
+          "name": "Parásitos (2019)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuUjojBo6cK5D82kAdXYvbu8BMgl/vUcdPaG7oSb3lAVA=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/los_tigres_del_norte2022.jpg",
+          "name": " Los Tigres del Norte (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvlqTrgF9MH1f+dmY4GGa6tutmMz9x3satAR5UP/nB8qblVp2z2xmGITEY+HyfSXII="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/lavidaeraeso2020.jpg",
+          "name": "La vida era eso (2020)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuOsTVgHOMAiqAfRgcRcdINXBJVUDh3vVcFTA1YmkwvwkmjIGiyyjb8BdBg16PnMno="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/las_ilusiones_perdidas_2021.jpeg",
+          "name": "Las ilusiones perdidas (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxupS3zEmaLn9SqMcVGTyfrTQK9z20Q4LA5kTsAoje/l6RfUXRR48KHfvWCTRKlzXHw="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la_ira_de_dios.jpg",
+          "name": "La ira de Dios (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsjYh9lk4+Bz3Vdw6tOt4I2H+ivtueIpuIH8YPT0agrE/dZh0vWdfccvuMhKIElxzA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Initiation-177395361-large.jpg",
+          "name": "Iniciación (2020)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsxoInHdT4wdKFzLElGeW8dgGGEF+FCmWduI0W+jc+7EKPqPlZ+76jaNYDUpFbUkNU="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/freaks_out_2021.jpeg",
+          "name": "Enloquece (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvmFF3x0CgeNNfpITzrc25SJ6jhzLy7ZGmAznVA5p+huZsU1ruJyFpjRnPE9LQ5K1o="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el-protector_renace_2022.jpeg",
+          "name": "El protector renace (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtR0N7CdyY2RtvFaTS/J34dCoQQBsnd01QyajwZpT4NXAercU/FQDdXMhlVsMC3x10="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_milagro_del_padre_stu_2022.jpeg",
+          "name": "El milagro del Padre Stu (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtPz0aN6FACLzCP31Z+TzM9XgFRgeT9iFUzdTz3fsgcGdR/uLm2SjGEiVkMwSOSjdg="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/great_freedom_2021.jpeg",
+          "name": "El hombre ciego que no quería ver (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs4QkNNNvTNGAVuyssVonxy9D45ks32cH2ESSkJtfp7/i6RHp+I9Fwd4HRgyBw93UU="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_cuarto_mosquetero_2022.jpg",
+          "name": "El cuarto mosquetero (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuz5QyXXuN67K0uyQHmK9vTRStM2d7IgYnkX6qLAtsGMcZ0ONk+mAfXHAvLFEk9TxQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_conjuro_3_2021.png",
+          "name": "El conjuro 3: El diablo me obligó a hacerlo (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuB70e20qdNErUuqJFY9XIEQr0hd2SMmuTNmhINLTmNte9Qp7OUzZthqkMu4hh7IZ0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el-arma-del-engano_5Ci3Y2w.png",
+          "name": "El arma del engaño (2021)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxudzOk8LA/mIX9DiXj7y61XKCsT2Utuy1fUfX6Pix1uwGIYV3rD2RNjIOlHvEJzK5M="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Ben_Crump_El_abogado_de_los_afroamericanos-140009791-large.jpg",
+          "name": "Ben Crump: El abogado de los afroamericanos (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv+zqQnUPURLLB4N31Y/tdXE3bsIs2Y6S8fN0GoP8aPkKyhSkMB3shax6mWdGrXIBw="
+        }, 
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/El_abismo-288307938-large.jpg",
+          "name": "El abismo (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsnM93dRLihzqy4Ehq6zpd3XcwOepW8WsBrj31XARvFYnDMFWYygbSJ3Xwzzxr5QRk="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Doctor_Strange_en_el_multiverso_de_la_locura-750542602-large.jpg",
+          "name": "Doctor Strange en el Multiverso de la Locura (2022)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuEEobleC7pnxwOEq4++TFDh7NvMAbqHp64HU0R1HyhzLCHqvsCJo3cFAOH0nezYTU="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/05R_Condena_de_amor-878745850-large.jpg",
           "name": "Condena de amor (2022)",
           "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt8V5jZUphOVfirfO+SDg+eT9Ou9pIPOkU43WIZ52lsDSo9uup2b7aRj8gVstjcNNM="
