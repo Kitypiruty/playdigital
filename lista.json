@@ -1149,11 +1149,6 @@
       "name": "DEPORTIVOS",
       "lista": [
         {
-          "icon": "https://play-lh.googleusercontent.com/k93fw2qTBP4apsoOinnJ1-MFFlwcQkNhWl7fFbDICMi5o0icu9zFpGXpdU_c6FtofCg=w240-h480-rw",
-          "name": "EVENTO",
-          "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXvZL0hFNFek5aAkSVHhN7EdI5ITfv3TBqz9ideiTQSg1g=="
-        },
-        {
           "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
           "name": "DAZN F1",
           "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
@@ -1550,6 +1545,11 @@
     {
       "name": "CINE",
       "lista": [
+        {
+          "icon": "https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png",
+          "name": "DHE",
+          "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXvZL0hFNFek5aAkSVHhN7EdI5ITfv3TBqz9ideiTQSg1g=="
+        },
         {
           "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/58c185c8d4f157f2b544c45472a5a2f8",
           "name": "TV CORTOS",
