@@ -3,6 +3,76 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/yo_nena_yo_princesa.jpeg",
+          "name": "Yo nena, yo princesa (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtjX3QhkvGZAmdlbUlxaaW01iYcCJQu3Y+1lrLypDmRRDp1OMtYFFjSP+X6favS5oU="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/union_y_lucha_2021_ggem.jpg",
+          "name": "Unión y lucha (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuicLsuE2WU4dSn/9FFgh4E5AMHbfzGrMp+AiI4w3AiYjjI4PGMuPCnV9evLA7ghH8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/3348179.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+          "name": "Superación: La historia de la familia Antetokounmpo (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs9jBtf88Co4co2mH2SuqtTHeR8olZtSV7WMzykvu5z2l8xKeSTJ8m5DRHsnTgXBnc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/palmer2021.jpeg",
+          "name": "Palmer (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuhcyZQk19ztxiNlIyjEF8pTm2TJIHAsnC6j0YvOri8Yw=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Padre_no_hay_m_s_que_uno-9565.jpg",
+          "name": "Padre no hay más que uno (2019)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtk0Wk7nsaoW9xAe5lvc/1E5YnABspQloOJgYivin7j8fA8WmdpeZ/QoFbBqkvLtvc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/hotel_transilvania.jpg",
+          "name": "Hotel Transylvania: transformanía (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuNDLq/J5anT45NysWfEN02E8asGiSJX3jHKcZoJAO02bHbnHpibZIsFESwzxrB5UQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/En_la_mira-2022.jpg",
+          "name": "En la Mira (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxurI23SHy13uouS4QqhQs0hgMlJOfZOYKDW0cyGCP2u+nNAY2h2mBL3cITVG0C6j4M="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_hombre_de_toronto_2022_jrn.jpg",
+          "name": "El hombre de Toronto (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuNCs/f1ZSegUzUvVh4xbjHcTRUhOtM0AAFie5vvM14i2fPt4Up/GHlvVH9Q+TWlNQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/posterthewronghighschool.jpg",
+          "name": "El amor de secundaria equivocado (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvBzn2UaGLlg3g6yvxt5H50GZR6IR/xIWP2kqvgwMaOjYPsJlfu+63oHRT49rR9nIU="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Chicas-con-glamour-Poster.jpg",
+          "name": "Chicas con glamur (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvi74nbBiRUYlXR6/IkIQ83Bz8qF5nCpgPL8Nf7GdT6FSh2a0E/ZR4T0c37+vOUaGs="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/744234-blasted.jpg",
+          "name": "Blasted (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv5Bs8f2RVxYkJ00PXxPgd4eGNfZcYmg38l7DYvjKPCsw=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/beauty_2022_824.jpg",
+          "name": "Beauty (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvmGbE2RfXEPrvmlYg33wHY+cChMaRJcrzM38EqLMgoEQ=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/batman_2022.jpeg",
+          "name": "Batman (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvfRUKK3ncgONkvOdfD+LIti5dZPRdvjyUtNfYKO7zaSQ=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/asesinato_en_la_ciudad_de_yellostone_2022.jpg",
+          "name": "Asesinato en la ciudad de Yellowstone (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxss8w9e3EvYZkl7pKXF1jj5n7g7m7yQaUi1wN52UryeB5PJY/bzhLfRCxCvnylfi0Td7K3ecjvvrmO9r71m47qI"
+        },
+        {
           "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/32755.jpg",
           "name": "La Cita Equivocada (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxu7A1yFAVRoYswg4AkCuT/ZQCrg/EXIPxbPZayGavS1kbx9as5ISBeLRYQy0W2prsc="
