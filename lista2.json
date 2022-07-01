@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/33890.jpg",
+          "name": "Él, Ella (2020)",
+          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvko3G//HlcYHzNkHOxHNAfY2iJIKU5uQfHC582qch1fQ=="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/super_quien2022.jpeg",
           "name": "Super... ¿quién? (2021)",
           "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuBvyTl/haU3k1wRqbxOE1aANaRvdcbL2PEbVb23lCJ+jJUiP2JWS9YK2GZUZADxw0="
