@@ -3,19 +3,24 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/32755.jpg",
+          "name": "La Cita Equivocada (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxu7A1yFAVRoYswg4AkCuT/ZQCrg/EXIPxbPZayGavS1kbx9as5ISBeLRYQy0W2prsc="
+        },
+        {
           "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/33890.jpg",
           "name": "Él, Ella (2020)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvko3G//HlcYHzNkHOxHNAfY2iJIKU5uQfHC582qch1fQ=="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvko3G//HlcYHzNkHOxHNAfY2iJIKU5uQfHC582qch1fQ=="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/super_quien2022.jpeg",
           "name": "Super... ¿quién? (2021)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuBvyTl/haU3k1wRqbxOE1aANaRvdcbL2PEbVb23lCJ+jJUiP2JWS9YK2GZUZADxw0="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuBvyTl/haU3k1wRqbxOE1aANaRvdcbL2PEbVb23lCJ+jJUiP2JWS9YK2GZUZADxw0="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/sin_tiempo_para_morir_2021.jpeg",
           "name": "Sin tiempo para morir (2021)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvXo7IeavTmlcpo/qB2cpr4RDdtT/I7ieoRUWlEamKou2PBqIA3wR4++5Dz1DVrOD4="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvXo7IeavTmlcpo/qB2cpr4RDdtT/I7ieoRUWlEamKou2PBqIA3wR4++5Dz1DVrOD4="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/Post_Mortem-2020.jpg",
@@ -25,32 +30,32 @@
         {
           "icon": "http://static.dplay.tech:8080/imagenes/Par_sitos-406070218-large.jpg",
           "name": "Parásitos (2019)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuUjojBo6cK5D82kAdXYvbu8BMgl/vUcdPaG7oSb3lAVA=="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuUjojBo6cK5D82kAdXYvbu8BMgl/vUcdPaG7oSb3lAVA=="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/los_tigres_del_norte2022.jpg",
           "name": " Los Tigres del Norte (2022)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvlqTrgF9MH1f+dmY4GGa6tutmMz9x3satAR5UP/nB8qblVp2z2xmGITEY+HyfSXII="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvlqTrgF9MH1f+dmY4GGa6tutmMz9x3satAR5UP/nB8qblVp2z2xmGITEY+HyfSXII="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/lavidaeraeso2020.jpg",
           "name": "La vida era eso (2020)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuOsTVgHOMAiqAfRgcRcdINXBJVUDh3vVcFTA1YmkwvwkmjIGiyyjb8BdBg16PnMno="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuOsTVgHOMAiqAfRgcRcdINXBJVUDh3vVcFTA1YmkwvwkmjIGiyyjb8BdBg16PnMno="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/las_ilusiones_perdidas_2021.jpeg",
           "name": "Las ilusiones perdidas (2021)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxupS3zEmaLn9SqMcVGTyfrTQK9z20Q4LA5kTsAoje/l6RfUXRR48KHfvWCTRKlzXHw="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxupS3zEmaLn9SqMcVGTyfrTQK9z20Q4LA5kTsAoje/l6RfUXRR48KHfvWCTRKlzXHw="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/la_ira_de_dios.jpg",
           "name": "La ira de Dios (2022)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsjYh9lk4+Bz3Vdw6tOt4I2H+ivtueIpuIH8YPT0agrE/dZh0vWdfccvuMhKIElxzA="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsjYh9lk4+Bz3Vdw6tOt4I2H+ivtueIpuIH8YPT0agrE/dZh0vWdfccvuMhKIElxzA="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/Initiation-177395361-large.jpg",
           "name": "Iniciación (2020)",
-          "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsxoInHdT4wdKFzLElGeW8dgGGEF+FCmWduI0W+jc+7EKPqPlZ+76jaNYDUpFbUkNU="
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsxoInHdT4wdKFzLElGeW8dgGGEF+FCmWduI0W+jc+7EKPqPlZ+76jaNYDUpFbUkNU="
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/freaks_out_2021.jpeg",
