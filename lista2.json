@@ -3581,6 +3581,62 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/reunionfamiliarserie2019.jpg",
+          "name": "Reunion familiar (2019)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGh5Vy3xL+t1w9349uPdlptNyU1yL5oZAFGEDRltSCZFMM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhZEGTAYxeHCnGQh68xqqlt4clX3hI6z6LhUqk18t7vsw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhH8FVvuz2UwLEUPqdiwcO9ynfJWA6UjybTvJ/kqr6gi4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhRp6VZ+CqYnmmw2o34M4UzT3MZQ1QtO/RPc2jqz4Wnv4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhlLtL9v/lPnm3fmHNvcGQobWWXSixRIjoMhopsyFOJq0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhjEyHv+klZazQ0hgO7wyiKqePGPUDD91Lt5y3OaKT3Yo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhSq/zIrgTm/B1rYMb8fv1bCJfl5cFbj8Ew71gFjchAvw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhcRc/cTqjMMjzL4DRe3JZfBQTMVFuopoC8IHzaKu2rGg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhmVUbr7UFCFgb1dOM/RXYsI6BgaRU5HHWvTCVs8zK/bI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhaD2BZHLEiQJNkJCTqkgu472H9iDgxhfLL0wUkk5J2B8=",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
