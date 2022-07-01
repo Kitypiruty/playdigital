@@ -3414,6 +3414,173 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/chernobyl.jpeg",
+          "name": "Chernobyl",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukejSyFSDT4pcureP2HfCPMWO1Ne32/cayf93oLKjUahhg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukciDpRE9GYy0w/yu/t4h9BDax5qqQQ1o7RaXHvfrw7n4g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcXmlfFjqg3D8+cpecbD7zcPs7tfc4IUuIP2Iyn9v78FA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcX6kV8I+KhoAchEyCENWxKEXZoDnKvKcQ+gx1JJ8lnqw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdT+uUaxtxK4bca4raY10GbmPSF0rBhru6bRR0c4uHubA==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la_liga_de_la_justicia_1.jpg",
+          "name": "La liga de la justicia",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvl0te30yE72Eqp6Q4TacoPKxIvKO15QjGb0qCIZ27GbA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLv2cJFThmPbyR2ixkyTEC9R0rNtZwW+uPKOl2k4hA+M7k=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvs20APS07bggVLRuHBepOFQsZXYT06ApxXdCT7CqoMq4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLv/u+4zhbH9uI2MZSBapHXcNt7ubznqjeDPttD9exyyTU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvwJ/A2CG/ERDz7lcc42iC5IipVf6APTY+uCTHlz7dIXM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLveFqicHNoEmo6izwsphaxPyZzgyOB7lg487yNXHe6M+I=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jjYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvWTaxMMFYV1Hw3maalKKneSRRG3FT9FNNGvBEwXIW7do=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvt9oC8h/OIO/hNvzhE5UEz+IDE91tSdayWVY7TsFaluU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvdKqBPEINO73QQwY6x5nZ/zav5fmUc3o47S0wID3Sns0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvDUEeyDPZuvvRuXOkEUvNTUGnausLpN4uDRu9jzFpRU4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvADam4WjnuErO3aZoXJRY7Fl7b+1Tv1ky3lj8lBvJzUI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvBOD4uYa4YQquIDPLA+74Y9T1MqRgzX2/ewZTSstZRZw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 13",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvZssz6rXBZQdNtOBiboXSAwwUxXTYK/QRcOmxpHNmrfY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 14",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvmNO3VC++R9NNhVxHjD2dbbyEFqhsNVcT/S8mYMyC1Aw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 15",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvXy3Q67YcrGDORn3+LmMOcFYZOVEA1ME3BivQFSORNEQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 16",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvL45Qmaq6s4mvD8pBMQP5vPRUfAI50dZgM/nkzXRjEHg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 17",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLv5ePyRG0m04/N7z7uaijFR8MxNJxdhtfJCBBDa6hy2dE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 18",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLv1F3NFNjc6B8yuxuFRszmFS5PwKXpWb+l+AMZEAbRiuA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 19",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvuTwXVac7LE4h6IL4qUBowx9eEorwIDG1ty6D1QAr3NQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 20",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvlik3f+wfxgqkiqVRLXKO97yJvqGO1BAFE7w+fV7Gaak=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 21",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvPVF9jojWcFeYciQ/6DjL8g2kVvYL/VxQQk5r3xi0BeI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 22",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvpd6PuEyP0xBQWS+2C4MWCFDnVEAy+RjL3pbJ06EOdNg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 23",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLv4NP86AbmPBKVO0p2Jp84gmiVdqojzMFFHfmXzCdty78=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 24",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvart77om9fHpiO0LyAb/SNgUv3IO+tQbWx7rOq62xlC8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 25",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLv5HWQSgR9v+e1Ov4BU0SdVbJCsTrnQtvYRiUXMvGj0C0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 26",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvm4OY+uGwVkIrTf3EuUZO8ZZDcnTpa5hQrm+iX1GT+54=",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
