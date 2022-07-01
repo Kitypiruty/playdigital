@@ -1582,6 +1582,11 @@
     "name": "PARAGUAY",
     "samples": [
       {
+        "icon": "h",
+        "name": "Universad catolica vs Sao Paulo",
+        "uri": "fKZDeeMII4hzzOisytLJXJemNi7ZUcwkQyxcrNcj2o0noae5MGDtYba22eRctWDx"
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/somosdeleste.jpeg",
         "name": "SOMOS DEL ESTE",
         "uri": "BKYc2tJbu1SKox2ZaydglY/KrMQqKmADnCYdpFBXYUPLGAKvR/dcVibE/Z9pI6j9gveseLneHtjm8zZSJybRRbmR+PbELVh6nl1MR/QjLgE="
