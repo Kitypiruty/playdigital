@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/32755.jpg",
+          "name": "La Cita Equivocada (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxu7A1yFAVRoYswg4AkCuT/ZQCrg/EXIPxbPZayGavS1kbx9as5ISBeLRYQy0W2prsc="
+        },
+        {
           "icon": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/223/323/0/0/33890.jpg",
           "name": "Él, Ella (2020)",
           "uri": "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvko3G//HlcYHzNkHOxHNAfY2iJIKU5uQfHC582qch1fQ=="
