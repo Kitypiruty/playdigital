@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/shazam2019.jpg",
+          "name": "¡Shazam! (2019)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsO9CLUmE+RfEZ3O3vGDDffvxCcAayVt3B/pYdE1Pq2Uw=="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/yo_nena_yo_princesa.jpeg",
           "name": "Yo nena, yo princesa (2021)",
           "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtjX3QhkvGZAmdlbUlxaaW01iYcCJQu3Y+1lrLypDmRRDp1OMtYFFjSP+X6favS5oU="
