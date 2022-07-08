@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/madrehastalamuerte2020.jpg",
+          "name": "Madre Hasta La Muerte (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvCRg86kxUpfg1vzThqP76sKVHiWdOT4p1H4PZXvYR4N0j6jLqoJQEvpvzjTNLgXgQ="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/shazam2019.jpg",
           "name": "¡Shazam! (2019)",
           "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsO9CLUmE+RfEZ3O3vGDDffvxCcAayVt3B/pYdE1Pq2Uw=="
