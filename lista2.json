@@ -2683,9 +2683,9 @@
       "name": "PARAGUAY",
       "lista": [
         {
-            "icon": "h",
-            "name": "EVENTOS",
-            "uri": "fKZDeeMII4hzzOisytLJXJemNi7ZUcwkQyxcrNcj2o0noae5MGDtYba22eRctWDx"
+          "icon": "h",
+          "name": "EVENTOS",
+          "uri": "fKZDeeMII4hzzOisytLJXJemNi7ZUcwkQyxcrNcj2o0noae5MGDtYba22eRctWDx"
         },
         {
           "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
@@ -3921,6 +3921,92 @@
             {
               "name": "EP. 10",
               "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhaD2BZHLEiQJNkJCTqkgu472H9iDgxhfLL0wUkk5J2B8=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/escandalositos2021.jpg",
+          "name": "Escandalositos (2021)",
+          "temporada": [
+            {
+              "name": "Bebé Oso Genio",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zP3D2VGcrXfkCL8OYb578eSYeAKsDRkljLIDBA5Gkg8Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Única",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zwyCQ6VMDm6SXOvVm6tUE2+nBA5fkKLbYD4U6rrkyi4I=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Detectives De La Ciudad De Los Bichos",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zLfk25fSUXmJuWNvy43NAPSqlpuk4lZRU2qqrMipWrhs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Grandes Problemas Pequeños Bebés",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7ztpXCN0EZ2MESNuWlGfE9OSXQyMbwYu7vG+8aydigTm0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Tres Tristes Tigres",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zXaDDKgAL3lFqNgKX0eq+//thy8LjQLeERtzH5t5FO7Y=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Familia De Panda",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zI9w+RVM7R+P1kjCGm09wX87ZTjKI/N2COAf1iTvjtoU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Osos En La Oscuridad",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zyxV7WTyXLNh/OcyczsK0RGOOWuqnfxcn5QHp7lisssc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Historia De Dos Polares",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7ztseCkJ4jSJ0cRUpuYjf4vp8pQ33CVlvLxIFebZUkDHM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Osos Ovejeros",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7z5mnZKHWZ8BOcMACmzpKHM5qd0MzWvH6Vt5+AS7BbrqY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Mascota De Polar",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zFoUqZKjkdRTx8NHT2nKflfq3dOQEjww8sU59sfikWVY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Peste De Dragones",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7z1uYznaVgMdip5qWPXnRsdVr4u38niconcoDWL9CYFoo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sin Tierra, Solo Aire",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zFvUIDjKFuAlQYLXnesaI/QAuG6bU0lpGKiPIOApc7FM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Hada De Los Dientes Tech",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zMOx9rGom0aDOodm4m8dJdKaX4vDExLo92+lxaS4XCmA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Excalibúrsido",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zxpxkgqukYBSlDVTpVh7t2nrv1yGdQ0lDt+kwRF24310=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Casa De Carne",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zMJ5mYnrc+Z74zcdCnkC9ttwkDSaIUKL+rQvmaH3w7DQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Polly La Lora Pirata",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukefHyAbIDioG+FOv2lgFR7zjNRQ5Wtlfe38caAtmm5P+HFs0O8319UJoY+CSc1J3Lc=",
               "drm_license_url": ""
             }
           ]
