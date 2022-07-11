@@ -4137,6 +4137,77 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/clarence2015.jpg",
+          "name": "Clarence (2015)",
+          "temporada": [
+            {
+              "name": "Peluquerence",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeCkgZqADKwM640sY2kWgVXPYSjSz/+BqLJtXt+KK1LHw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sigue A La Cerda",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdAy6lsWOYdXktMgBua1gR6LduLIwUATk11Sr8amJ01iw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Clarence",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdxrmFC7DLpA68foIInfMdZ0Sd+YhiXzhvgynbetFsICg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Castigo",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf7ivj9sHeCW2WCdpmowLRguUSnR6iFc4JKd9qbeg3w6g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Capitán Brin",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfiI/fuJDNGPTUyStCXXtMsGA28PQtAc6oRbWsYbxmGRw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Chalmers Santiago",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeXS/CnkYRto4U40bWsDN9ldMWI7eE6i/XAq8bf/pH6bg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Chicos Agotados",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdIWaS7mJ3xeEpIS5frcNaKmJuvYdjtEE1ARwXWtWCiMA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bu Aterrador",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf7Rv4+Mz+SCYrXYERXSJiItFDC22TOq3QExu2QEESYFQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Parque Acuático",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfDaus3LR2SrgbsyDcJAgTLrM4Wn52t3ome1AwCDaGl8w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Regreso De Chad, El Salvaje",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeOPaRYXfu80gaB1jxmi+TmjAscjlpu6/etCFXgnt8SOQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Problema De La Pizza",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeQQIuYaGnBCqzswTJpCJkP8uBujxbLqd2Vjal+laxRug==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Separación",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjuke+UOba0XPpFYHrL/IMmib+sDKGdg7X0dmRyy8ljO9m4A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "En Sueños",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfv6psY6c31izQhx17aGaSmYvBACu6kPqfDPm2Y7ginFA==",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
