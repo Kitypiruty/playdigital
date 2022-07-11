@@ -4140,7 +4140,7 @@
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/clarence2015.jpg",
-          "name": "Clarence (2015)",
+          "name": "Clarence (2016)",
           "temporada": [
             {
               "name": "Peluquerence",
@@ -4205,6 +4205,47 @@
             {
               "name": "En Sueños",
               "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfv6psY6c31izQhx17aGaSmYvBACu6kPqfDPm2Y7ginFA==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/horadeaventura2011.jpg",
+          "name": "Hora De Aventura (2011)",
+          "temporada": [
+            {
+              "name": "El Rey Mudo",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcjRaxiq/eQk4W0ytwq7/CALSoaEMZwbeMubH/0YWR3E+Kq6DTUACMdIvY0oF6YAvo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Guardianes Del Sol",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcjRaxiq/eQk4W0ytwq7/CAf+LkjRMTeaFMc4InDHprif2b/SKkbuU96+22o+JtGdo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Muerte En Flor",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcjRaxiq/eQk4W0ytwq7/CACmn3GMVHpVHTWdUT/wKnjxB+XXKnon/u3OyVi0ypxqA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Tren Misterioso",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcjRaxiq/eQk4W0ytwq7/CA/uLmYpGQEM7K6hayPuiDiymjYW/bOib8Gmw42nqaTAA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Panza De La Bestia",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcjRaxiq/eQk4W0ytwq7/CAcjv64V+LuEra6vC+C4quNUq5dxsYOEkRyN9j2cRPGro=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Cineastas",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcjRaxiq/eQk4W0ytwq7/CAvbTT8Vlen0ZIyg6uv0/mgha03+lCzMih1x3KGLR3HmE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Amor Peligroso",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcjRaxiq/eQk4W0ytwq7/CA0Sraqrr+mPiK8HYu51yk1n1NQ5ndA/myBA+uFaLizGg=",
               "drm_license_url": ""
             }
           ]
