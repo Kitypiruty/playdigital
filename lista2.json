@@ -3005,7 +3005,7 @@
       "name": "SERIES",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/peppapigserie.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/peppapig.jpg",
           "name": "Peppa Pig (2021)",
           "temporada": [
             {
@@ -3036,7 +3036,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/elincreiblemundodegumball.jpeg",
+          "icon": "http://static.dplay.tech:8080/imagenes/elincreiblemundogumball.jpg",
           "name": "El Increible Mundo De Gumball",
           "temporada": [
             {
@@ -3082,7 +3082,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/laluzdelanocheserie.jpeg",
+          "icon": "http://static.dplay.tech:8080/imagenes/laluzdelanoche.jpg",
           "name": "La luz de la noche",
           "temporada": [
             {
@@ -3208,7 +3208,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/coyoteserie.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/coyote.jpg",
           "name": "Coyote",
           "temporada": [
             {
@@ -3244,7 +3244,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/dexternewblood.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/dexternewblood.jpg",
           "name": "Dexter: New Blood (2021)",
           "temporada": [
             {
@@ -3300,7 +3300,7 @@
           ]
         },
          {
-          "icon": "http://static.dplay.tech:8080/imagenes/maradona.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/maradonasuenobendito.jpg",
           "name": "Maradona: Sueño bendito (2021)",
           "temporada": [
             {
@@ -3356,7 +3356,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/soldadozombiserie.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/narcovszombie.jpg",
           "name": "Narcos vs Zombies (2021)",
           "temporada": [
             {
@@ -3402,7 +3402,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/thegameserie.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/thegame2021.jpg",
           "name": "The game (2021)",
           "temporada": [
             {
@@ -3423,7 +3423,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/treintaynueveserie.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/treintaynuevese.jpg",
           "name": "Treinta y nueve (2022)",
           "temporada": [
             {
@@ -3489,7 +3489,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/elreinoserie2021.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/elreino.jpg",
           "name": "El reino (2021)",
           "temporada": [
             {
@@ -3535,7 +3535,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/HALO.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/halose.jpg",
           "name": "Halo (2022)",
           "temporada": [
             {
@@ -3586,7 +3586,7 @@
           ]
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/mananaserie2022.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/mananase.jpg",
           "name": "Mañana (2022)",
           "temporada": [
             {
