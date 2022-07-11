@@ -4020,6 +4020,62 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/escandalosose2016.jpg",
+          "name": "Escandalosos (2016)",
+          "temporada": [
+            {
+              "name": "Polos Opuestos",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDzkOIi/qTqoxvjcmiXmMg8AtKNByeKwWDownlZ88FWXLI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Celular",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDz3m8rmwpcDrTJMvDpyMPskQEtYkBBg8Rj8iTfmfSCSeU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Osos A La Moda",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDz8Qmo6V0rCW2tQXB+OhG8z3kZ289B8/hpPtQ80l2Wh2Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Isla",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDzwyaPHnAkmE/Kg4YVQEAzB6SGW99AZSuq9Tv5r3hkh0s=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gripe De Oso",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDzHQF3b28Lqkw+TBUZvRqK7veUv5TALggBtfS98cBlLNA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Oseznos En El Avión",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDz28wgwHGQSVDL20mWY44exSAOATKQiQPcifx9GtkSIug=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Pollo Y Waffles",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDz9EQqDpnHqOqEHiK5Q+5p+nKqOiOK7pRxMslO8qEMqks=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Noches Heladas",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDzT6262QH60XOiIbq16msFO0kdP7Kc03ksryk7OFV54X8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Audición",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDzUAHNcOYU3wnEAxBOe0LBXzB1YOwuchtPV7Du+Eer9gg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Canal De Todos",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukffYzUs0bPOqtoiiOwgTPDz/y9TfBe7/3daE4svj9UeYsCqWlz9gQLvThcLkxmSwGg=",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
