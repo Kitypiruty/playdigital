@@ -4385,6 +4385,77 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/dramatotalse.jpg",
+          "name": "Drama Total (2021)",
+          "temporada": [
+            {
+              "name": "Espejo Whack",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeqxhiG6FzN+K2SwrScMiM1cqbnX9g6afS3Z4xztdYO+w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Última Mamá En Pie",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdn5TbECfsWU1FmS3jv1UrNExQvpWqJ52c/rICuxH5CuA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sueño Con Un Malvado",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc7vtyM3vg606lKNP/S1VXB//UBXTwnSaNdoFAwODoRXQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mordida Rompedora",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcSed5GsWkWOXrp4dBlm1ccBMQsvggQhRyDDvzSU79z3g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sugar, Lightning Y Sustos",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukejjKto7jifWBHyYvAVnjBoS0DVOmXurzqze+md5ZlCWA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Automagedón",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfOZZWtgMLN+rWW5K0RrEHHVMCHPgGmlB1nLZoFIXC39g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Saluda A Mis Nuevos Amiguitos",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukejqpZIxRFUugE8cmZmr/RfAg5wfQ26ycB8TqexvKt2vg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Agujero De Problemas",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfVkImz43C0viPABijkUBicu0203O6C1Il4FsrVtmeSAg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Parque Mac Arthur",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukezHhYVXyDTULPPiS+afVzHL7ck8TKDs49XUqrVMkoGww==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ardillas, Ardillas Y Más Ardillas",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeqxhiG6FzN+K2SwrScMiM1otQVXK0oVYF+xnRwZenGJA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Borra Tu Cabeza",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeqxhiG6FzN+K2SwrScMiM1qnLFGuPV5924JJmekgLA8g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Altamente Exótico",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeqxhiG6FzN+K2SwrScMiM1M5NVmTx0yGt+ZpRQ7+ujMA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mastica Con Prudencia",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeqxhiG6FzN+K2SwrScMiM188aUNIp1zByVvCf7sITmYA==",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
