@@ -3075,83 +3075,6 @@
       "name": "SERIES",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/peppapig.jpg",
-          "name": "Peppa Pig (2021)",
-          "temporada": [
-            {
-              "name": "Aros",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf+ljfJztRYMcNJbblDn83g0naSMdHYr8fTgRoJhRW49A==",
-              "drm_license_url": ""
-            },
-            {
-              "name": "Un dia en el parque",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf5lPQU0XXMKOZrHDdn8ym8q6rTOKIKOjJVeLOfpwj1+TbB8t2Kn395prc3p8Z50QE=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "El Bote Salvavidas",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcN770XbJ+SDluY6RHSWZ77gVKT9LAwMcZKeKHTaj34M51FEMgv+JvmJahV1dRvsoA=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "La Canasta De La Suerte",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukd08p83on3gkXkZnySzOfRkfwPOfYIkEXCuSLNahrClMqgLKoiLOHStKzGUbtcQ1zE=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "Gelatina",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeAxc8ikuhj/zuLpErlHfFpgZ6gvjqPsHxRZXnkznNphg==",
-              "drm_license_url": ""
-            }
-          ]
-        },
-        {
-          "icon": "http://static.dplay.tech:8080/imagenes/elincreiblemundogumball.jpg",
-          "name": "El Increible Mundo De Gumball",
-          "temporada": [
-            {
-              "name": "Los Himitadores",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNJDqym4+sJtIYNZJ19Ow2e8=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "El Farsante",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZND/6cshawQVfB255msocNj8=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "El Ciclo",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNEwgusoFucbnGadifXOkCw4=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "Las Estrellas",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNH8bfOv/a8IzzaBVwn+LgWQ=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "El Casamentero",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNLOWDphdPeju5IvCXmLqNdI=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "Las Calificaciones",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNPab8cbeA/xp95ARGl+Q17g=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "La Dieta",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNEn/BzpSMENDqPOgB7/J5jY=",
-              "drm_license_url": ""
-            },
-            {
-              "name": "El ex",
-              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNCcBtS78XXJWx6uMOdjf4ZE=",
-              "drm_license_url": ""
-            }
-          ]
-        },
-        {
           "icon": "http://static.dplay.tech:8080/imagenes/laluzdelanoche.jpg",
           "name": "La luz de la noche",
           "temporada": [
@@ -4001,6 +3924,83 @@
             {
               "name": "EP. 10",
               "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdHCVgWw+MbvMVM8C0B4mGhaD2BZHLEiQJNkJCTqkgu472H9iDgxhfLL0wUkk5J2B8=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/peppapig.jpg",
+          "name": "Peppa Pig (2021)",
+          "temporada": [
+            {
+              "name": "Aros",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf+ljfJztRYMcNJbblDn83g0naSMdHYr8fTgRoJhRW49A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un dia en el parque",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukf5lPQU0XXMKOZrHDdn8ym8q6rTOKIKOjJVeLOfpwj1+TbB8t2Kn395prc3p8Z50QE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Bote Salvavidas",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcN770XbJ+SDluY6RHSWZ77gVKT9LAwMcZKeKHTaj34M51FEMgv+JvmJahV1dRvsoA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Canasta De La Suerte",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukd08p83on3gkXkZnySzOfRkfwPOfYIkEXCuSLNahrClMqgLKoiLOHStKzGUbtcQ1zE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gelatina",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeAxc8ikuhj/zuLpErlHfFpgZ6gvjqPsHxRZXnkznNphg==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elincreiblemundogumball.jpg",
+          "name": "El Increible Mundo De Gumball",
+          "temporada": [
+            {
+              "name": "Los Himitadores",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNJDqym4+sJtIYNZJ19Ow2e8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Farsante",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZND/6cshawQVfB255msocNj8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Ciclo",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNEwgusoFucbnGadifXOkCw4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Las Estrellas",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNH8bfOv/a8IzzaBVwn+LgWQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Casamentero",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNLOWDphdPeju5IvCXmLqNdI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Las Calificaciones",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNPab8cbeA/xp95ARGl+Q17g=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Dieta",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNEn/BzpSMENDqPOgB7/J5jY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El ex",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfj5T94OiZw966oVOzN2Q++CH5EKnZjjW8VFXovkpnZNCcBtS78XXJWx6uMOdjf4ZE=",
               "drm_license_url": ""
             }
           ]
