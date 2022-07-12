@@ -4319,6 +4319,72 @@
               "drm_license_url": ""
             }
           ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/horadeaventura2011.jpg",
+          "name": "Un Show Mas (2014)",
+          "temporada": [
+            {
+              "name": "El Hoyo/asuntos Pendientes",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjuke1TnKH4uTUc+Eo8QYAhc3nUDPKYx9CIsUW3eu0OdevWg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Noche De Película De Miedo",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcpNSBTW7ZkBzdcYA83a975pr05yPXEpDz2EA7rMaZZ+g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Fin Del Musculoso",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcAlDlp4rXpBSoSBPM6U/gGP93r2SmSHunzMBa4tvqeDg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Intercambo De Regalos Sorpresa",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdQITAdh+qhNxArx1OTpofpjQGyHYvCiWQxZSNuWEeTXQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Almuerzo De Los Encargados De Parques",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcIp8kH/GtMTbe2xtavn6+XOQiyqlH7vcIk9I4sHF++zw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Pantalla Plana De Eileen",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukesAaauM2+0SPdX+KKtpb9q3CAwVJaZ+T+aEOzjdaE1yQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Feliz Navidad Mordecai",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukfP6SpgKSJei0ofLG91BN3BJODwgGIBK5F6FG+LcrYQUw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mordecai Y Rigby En Australia",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukc1fdIONp6InkCpHIN7sTkqL+1g/a7cfQIDREFEegDcsA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Casado Y Quebrado",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukd05QTfFUqsPdUbp0kL3PuIk6kQ5whKr7WL+Afb5as6hg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Concurso De Canción De Cumpleaños",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukcIFW/xSoItsKk08Tud/odCkcvIvSOXRvWW6Gs70SmK1w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Veo Tortugas",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukeTUJPqFItS8/7xuHQ67yGCNUNx4CCjDr+7FivY/V8KOQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Jugadores No Dicen Morir",
+              "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukff1kCiMTiQkdK8aRW3AHx9Kb2UKc0KerPZYk4sCP+wdw==",
+              "drm_license_url": ""
+            }
+          ]
         }
       ]
     }
