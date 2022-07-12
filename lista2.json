@@ -3,6 +3,76 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/the_colour_room_2022_102.jpg",
+          "name": "La sala de colores (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt2SSaveoYTalEselfRqiUSbKqOQGXLid8Pxd82gpuK0N+DTOhADHa/5HsEIHNuijE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/wwe-money-in-the-bank-2022-470.jpg",
+          "name": "Money in the Bank (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv1AiciOfIUCnYjaKKdV3Ls5P+JCX86V9RnXbaOH42fex8cztdwSCOtaI8+vL2SUCo="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/minions_2022.jpg",
+          "name": "Minions: nace un villano (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxudGhxiR6cAsOPjvIlVVjjwFKOgFfM5k39GTm32d0QWKjoz4POvXiHCkwHbdUQerE4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/maleficio-2022-278.jpg",
+          "name": "Maleficio (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtAWr2LMtJYCyl/no+y/ME3o3OdVvTNt2zCXjxkVkcXLvQFV1a6ZbQb7T8ZkR9JrxY="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mad_god_2022_992.jpg",
+          "name": "Mad God (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuJYwovhpirrJ+GrKQmH7KvkJCsULszEjv50omb/AILfEgEN25/p6YKp1RRhIsZAcE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/los_pacientes_recurrentes_2022_egl.jpg",
+          "name": "Los pacientes recurrentes (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvvE7PiFLvNTahxTM/UotLMntUZBebZRSeki6+KmwOAzcPpfeGgi7wZSh0vYhG8kUvqRB4fhj80cIQTNl5R2hvB"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/las-amistades-peligrosas-gkp.jpg",
+          "name": "Las amistades peligrosas (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvMvXUn7C+Pv8FlTAEIMT/qCgPxW46549QluNbXvBoW/MtOiPcr5Z9ios1rDPsdUFyIXQXYIFXRX1J+whRsNL5z"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la_calma_que_viene_despues_mzg.jpg",
+          "name": "La calma que viene después (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtyAxw5LUjKysRP3r8jaCQ3nmwaopjJg+3mn8+ARqctoZiJGf5Qops4CWbjG+VWvVo="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/DNDhola_adios_2022.jpg",
+          "name": "Hola, adiós y todo lo que pasó (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtUZLq7pj8hrFUYjkelqEpYfljIisKohzxwqbqqcB7ovZT6tDtCaDXL24gPYisNdJc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/girl_in_the_picture_2022_3kp.jpg",
+          "name": "La chica de la foto (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsf0YuzEYgZb7n9cUJ1XjaSUqMDdIh48KfVmxFmHNa5FZXaRhwekY2BCmjcLM2Su54="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/en_peligro_2022_p6z.jpg",
+          "name": "En peligro (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxu/ebsvBu9iJgkon0fQbi/D8H6DAo6JLS1Q4CS0TzdoQRxN0pArCdgwJMmHMpgvrOo="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/768_el_tigre_y_el_dragon.jpeg",
+          "name": "Tigre y dragón (2000)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsiDBluGtjbdDN/sbTkBpyXfgC4Uy5KUr7Jp5b2JJ1EwWD3go4j0s3/dB2P3LGgzMw="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el-monstruo-marino-2022-112.jpg",
+          "name": "El monstruo marino (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsLYWL8BbSfCuIxpdaX71aAT4+8KWfXyGfTSWzbRozTEj88Tj8b5BNZS2cSBtf44HY="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_maravilloso_verano_de_mikey_mause_2022.jpg",
+          "name": "El maravilloso verano de Mickey Mouse (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxueHNZCxva7jTHhCUl6BZ84itEGSutK5f2zwYbmBbnQPxzZddNrZsJrYr34LyBfpqFOKXcSDFAclb0HNjGGeFq1"
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/madrehastalamuerte2020.jpg",
           "name": "Madre Hasta La Muerte (2020)",
           "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvCRg86kxUpfg1vzThqP76sKVHiWdOT4p1H4PZXvYR4N0j6jLqoJQEvpvzjTNLgXgQ="
