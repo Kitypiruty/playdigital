@@ -3,6 +3,56 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/telefono_negro_2022.jpg",
+          "name": "El telefono negro (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxu6dQfqu75Y+Du0fw1B8zuukB16OXrGlWYxdNdT5dBFAyU84zMwnhdsklIJ/k9z0Nc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/sin_culpa_2022_492.jpg",
+          "name": "Sin culpa (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuXUw/xNhPaylrd+ZvG0xHsSE7Co/gohN7t+VIWSY86YoztkYAZmSt4Bwv+VS8XHdk="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/sal_del_camino_2022_bvd.jpg",
+          "name": "Borrego - Sal Del Camino (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsvCdgt707WdEfAWdxV+p9C4Qa/lQYhCu27AAqmW3YUgYkgo8dHvLA11tco7BiKLIE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/resistencia_2020.jpg",
+          "name": "Resistencia (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsTUfxju8Wa2GRcBnTzPvKL8FpWviYrf5eFuAoJJ7pXoCEh5u1LJ6vfzdH7B+4lG54="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/red_rocket_2021.jpg",
+          "name": "Red rocket (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsQ5/BqPEfz5RV0ZoGd2i91q+zjiiS8ippHmcWmAEuErQ=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/malnazidos_2020.jpg",
+          "name": "Malnazidos (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuBJMv777PWjLOfw5S6TJMSy4jREaRrbkxex1XJgyb455DRCGkIP3j18gHZOtiXr50="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/hot_seat_2022.jpg",
+          "name": "Hot Seat: En la mira (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvi6y7D2kRFYq/pI7FfVygBXdY6KPv6AoQ8VQkPYOJOKd/MUnUQOsxXxec4MKGT+pg="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/encerrada_2022_shut_in.jpg",
+          "name": "Encerrada (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsDCVyFvM19CHnXfVzLqFm5oL7l4e6vQC3dYUpRi6eXUIgZyTHtgl3q6CwCAs6CdaU="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_hombre_perfecto_2021.jpg",
+          "name": "El hombre perfecto (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuT5QTxLMb4jstu8rayv5hCtxS85lmy/yey4oIYuePIDRfUCW/2aX08lXf3+Ge0dbg="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/doula_2022.jpg",
+          "name": "Doula (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxs5V/3UCunXycqQw8Ldd/Xmfsy45imY9BjEDLuxnIvt/A=="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/the_colour_room_2022_102.jpg",
           "name": "La sala de colores (2021)",
           "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt2SSaveoYTalEselfRqiUSbKqOQGXLid8Pxd82gpuK0N+DTOhADHa/5HsEIHNuijE="
