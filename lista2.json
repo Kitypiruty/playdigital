@@ -3125,6 +3125,98 @@
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/mixteserie.jpg",
+          "name": "Mixte (2021)",
+          "temporada": [
+            {
+              "name": "EP 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9cW/UFa37aJd8g4k0EiEX45+nBE9OOKXh2+A7vDhp1jPQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9cHvxmsNVgIDhbz23sf3pzVi7kjvlHlxepvzt+vVZDTXk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9cZ0TzfTsBD2m4++Pzvzhnz3A2ZQhRius3EbiXrc5GCPY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9c77X1AK5hf7TkEnIBqKDDrVg7wre69D2JIxEd/XNuDsE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9cqmD51aG3U5ex6K6nP5MdnovBuXluEX8PeCF2o0iI/5A=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9cMNcp1UmaamNlfnnFZlqvGmoIWOWzFk5mZDrn2JOuC5U=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9cdc8fc1NJsRQIyPPqV19fU4sr/7XvzEgHpeciCF3VqPg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJBSCb9l4yeuGj35PdZsX9cWRaRgd6d9EPSqCMKcm8i8La2RcsVMEckcROWoegR/6c=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/drdeathserie.jpg",
+          "name": "Dr. Death (2021)",
+          "temporada": [
+            {
+              "name": "EP 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1XvOu8gisf9DEVOMEXJ7eTpfLFJN73ASIqK/PsBfgn37YA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1XvSIAhCqmsxa4JBkfcbtrPNaJSe88Cixrro5UqrA1oUiw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1XvoNvNiIAWY5ZIQEZ/IJk3I3uEtwOXGc1cLnS36U3LD5w=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1Xvy5csTAYXBbLE6iPE54/CIRBwXg6x2bJWuQJnGEqk36U=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1Xvn/K1VMqsVjFvLEKr11q3/ihHFCVXfBgG1C2cn4/i4LQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1XvmMD90BrXj4XYFqPSmgGsOjo9ZotQ15Wo7LGvpc0rnG0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1Xvhxsew+bcyei3WHpTzINKMRyXq/3qFBbT0+X/iqFZ+i0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKyGTImXB5dVhI7Haw4H1XvRV/uGBiuhXcJe7lmOe3kqv0vnu84e+uvux20en42hSA=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/laluzdelanoche.jpg",
           "name": "La luz de la noche",
           "temporada": [
