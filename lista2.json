@@ -3125,6 +3125,32 @@
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/confesionesdeunasesinoserial.jpg",
+          "name": "Confesiones De Un Asesino Serial (2022)",
+          "temporada": [
+            {
+              "name": "Alter Ego",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJJ1XB8sdwRRJk6XWMSWYvV0w8WJ7If+FMyILzJg4xO8b/ZOXybU1An7Bvgx/hyLnqT8cgvIJkOJw63gcKRZi5Lvc395PoIxKPqxVcycBmCeq/ofAKoBe2yk76/MXCC58=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Desenmascarando El Factor X",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJJ1XB8sdwRRJk6XWMSWYvV0w8WJ7If+FM/yILzJg4xO8b/ZOXybU1An7Bvgx/hyLnqT8cgvIJkOJw63gcKRZi50yJSLzEG4FYP9G+JlF7ikcX6L+rYKViBT78J8MbD9UQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Secretos Guardados",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJJ1XB8sdwRRJk6XWMSWYvV0w8WJ7If+FM/yILzJg4xO8b/ZOXybU1An7Bvgx/hyLnqT8cgvIJkOJw63gcKRZi567f2sLesLjvSe3xPDF7YtkQVdHFn9YgPFK+5IDR05ZU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Caminando Al Pozo",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJJ1XB8sdwRRJk6XWMSWYvV0w8WJ7If+FM/yILzJg4xO8b/ZOXybU1An7Bvgx/hyLnqT8cgvIJkOJw63gcKRZi5qop6qR/eQubdtax33cvURPBrTBgWkLwynnwio8W2h6Y=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/mixteserie.jpg",
           "name": "Mixte (2021)",
           "temporada": [
