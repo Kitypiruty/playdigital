@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/jurasisik_world_2022_183.jpg?CDNBUNNY",
+          "name": "Jurassic World: Dominion (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJpgT090yYzs4aW8RHLaMaL8RSKVbKQBrNLI623LXRxK6M4hTRqWHpALFRlcdAp+t31C/lXnVxUzU9GJPn7l7j6"
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/telefono_negro_2022.jpg",
           "name": "El telefono negro (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxu6dQfqu75Y+Du0fw1B8zuukB16OXrGlWYxdNdT5dBFAyU84zMwnhdsklIJ/k9z0Nc="
