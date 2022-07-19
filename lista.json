@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/zombies3_2022_320.jpg?CDNBUNNY",
+          "name": "Zombies 3 (2022)",
+          "uri":  "zA07ZqgX4LlhmFUgzsrkfVH0C5eFN1wtDbcy2Og3fERuknYW5lt1mOvQOJ1jh3OCSId0Mxe6KcZb5tox6O18YIROP2ycpHm4il0WFdIMhiw="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/lightyear_2020_483.jpg?CDNBUNNY",
           "name": "Lightyear (2020)",
           "uri":  "zA07ZqgX4LlhmFUgzsrkfVH0C5eFN1wtDbcy2Og3fEQUp4k2P/NSAH1v1mVFoH8VRuRc/RMIBp5G6jF5S7hpepjd9t9LNM/mqq4rVSW5kRg="
