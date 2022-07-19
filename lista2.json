@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/lightyear_2020_483.jpg?CDNBUNNY",
+          "name": "Lightyear (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKLMiJXNmxtKababJWTLD4MT01rPGME635NyrUNq0xrhg3OVDrfD5biP/Sw38D2fg8="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/jurasisik_world_2022_183.jpg?CDNBUNNY",
           "name": "Jurassic World: Dominion (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJpgT090yYzs4aW8RHLaMaL8RSKVbKQBrNLI623LXRxK6M4hTRqWHpALFRlcdAp+t31C/lXnVxUzU9GJPn7l7j6"
