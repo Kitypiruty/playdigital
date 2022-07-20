@@ -3,19 +3,24 @@
       "name": "PELICULAS",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/zombies3_2022_320.jpg?CDNBUNNY",
+          "icon": "http://static.dplay.tech:8080/imagenes/elescandalosocasodelasgimnastasabusadas2018.jpg",
+          "name": "El Escandaloso Caso De Las Gimnastas Abusadas (2018)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVId7ExYcLuMMUs6trmSgwp04DA1/w1YsBcx9Tl1QceDWoOobUpW3XmIAho2YaYKf3NHqunVmPl4OD5eoAn58Irt"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/zombies3_2022_320.jpg",
           "name": "Zombies 3 (2022)",
-          "uri":  "zA07ZqgX4LlhmFUgzsrkfVH0C5eFN1wtDbcy2Og3fERuknYW5lt1mOvQOJ1jh3OCSId0Mxe6KcZb5tox6O18YIROP2ycpHm4il0WFdIMhiw="
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI1c+wiE5pt26l/jK4m+kdszKUoE1ffQlHZF3XrC/F0ojjRwiCm4uEhNiJIbwfnuWk="
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/lightyear_2020_483.jpg?CDNBUNNY",
+          "icon": "http://static.dplay.tech:8080/imagenes/lightyear_2020_483.jpg",
           "name": "Lightyear (2020)",
-          "uri":  "zA07ZqgX4LlhmFUgzsrkfVH0C5eFN1wtDbcy2Og3fEQUp4k2P/NSAH1v1mVFoH8VRuRc/RMIBp5G6jF5S7hpepjd9t9LNM/mqq4rVSW5kRg="
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKLMiJXNmxtKababJWTLD4MT01rPGME635NyrUNq0xrhg3OVDrfD5biP/Sw38D2fg8="
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/jurasisik_world_2022_183.jpg?CDNBUNNY",
+          "icon": "http://static.dplay.tech:8080/imagenes/jurasisik_world_2022_183.jpg",
           "name": "Jurassic World: Dominion (2022)",
-          "uri":  "zA07ZqgX4LlhmFUgzsrkfVH0C5eFN1wtDbcy2Og3fEQumQ5eoCUvN77Ure89kM++BFcCmTOtxSs5FeUG9s0y8jGW+jJzYCSEylC9nZtD/oecZca2P+6neSxHZdGTNEGG"
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJpgT090yYzs4aW8RHLaMaL8RSKVbKQBrNLI623LXRxK6M4hTRqWHpALFRlcdAp+t31C/lXnVxUzU9GJPn7l7j6"
         },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/telefono_negro_2022.jpg",
