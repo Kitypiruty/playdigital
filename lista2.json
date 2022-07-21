@@ -3185,6 +3185,62 @@
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/reddementiras2017.jpg",
+          "name": "Red De Mentiras (2017)",
+          "temporada": [
+            {
+              "name": "Zona De Caza",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBTkH7+ZNF7dnK4ju5Xhf20rP5dpLdKzjlFutjzLxMju9",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Intrigas En California",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBQzUFxKcdr2J2ki1u5F9DgMVbC4rNdzaZwEWNaJsWGAI",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ahora Vuelvo",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBYuz0IC7AgfAdCezF6FAmp9ORSgSZMwR49/FkRxiRqyM",
+              "drm_license_url": ""
+            },
+            {
+              "name": "M De Muerte",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBW0kVhABy8RlQLOQvxnFp7iB5MKA4E2ZP6XPC82i4dov",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Con Amigos Como Este...",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBSBeEK8dYQwn4sbHLr2dmZiMLLlz6uYcLozzADLCXhyb",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Juegos Peligrosos",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBV4EHu5HLghkGUrTCns3QvZmNA0FRuxy+gj4uDwXLSaf",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Cómplices",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBZALdpuVRthQ3kj5TN8UZpq8ZdhNJH+Q8SPpe7VWnrmj",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ctrl Alt Suprimir",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBVy0+Rrzo7az421yM6crVeDImy7C850sphi5PCRhy2ic",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Rincones Oscuros",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBQbWep8jK88dyUcsUwMeYbWqE4gAL6eU5eIEEqU6wO2x",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Cita Mortal",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK3Zgbh4UGfZWwWR14EdZoTYg+4f5n36CULBhT6XBqwBefa9vJGt7UKmUW+qrFnTxEXE150WxmCWl4P1n+o7uXd",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/ojo_de_alcon.jpg",
           "name": "Ojo de halcón (2021)",
           "temporada": [
