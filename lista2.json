@@ -3,6 +3,46 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/kzr_top_gun_maverik_2022.jpg",
+          "name": "Top Gun: Maverick (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIHO0v8iP31r//JIXAVRCunaBoY5c6/NYpd5CyZKA7if0K2yE7ywVeFmDZm/iutmHk="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/persuacion_2022_293.jpg",
+          "name": "Persuasión (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVICrToodgQxL+GTGZCsr/IDnRlMerwvaGrUl6RuN6v2a1p9vuHjjZZGEP3FZs89CfQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/no_me_dejes_ir_2022_vkd.jpg",
+          "name": "No me dejes ir (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIz9ANMqTrk8rsT2SWwCmueH2S2J+yN2CRIaKyK08DhfOlnTt4PosT8P722JBF80ng="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/huyendo_de_casa_2021.jpg",
+          "name": "Flee: Huyendo De Casa (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIl/vzyAzX1g7jL0a9bK4F8wVCw+RPDu1Cf8jZu53l6f7aoY+Vu3aUHGGTEgtrrSl4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_juego_del_bunker_2022_331.jpg",
+          "name": "El juego del bunker (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVILxg9WjsTY5j/GER44e1E8s2BmBLFMUWjIEH/+t2mtBa2L397ueNy/oSu9y2cbVbs="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/demasiadograndeparacuentosdehadas2022.jpg",
+          "name": "Demasiado viejo para los cuentos de hadas (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLe03gp7SnfMK9CnPycR/k10/Q91QpTgir1k4kIaoc2TwYoHxo8zsxb4wTW+3ya/gpt9wPTML8djsC5drVEx8sV"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/camila_saldra_esta_noche_2022.jpg",
+          "name": "Camila saldrá esta noche (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI+HicR1+RS00EdmuFUNBzCRgNJDLDQ9NJwhnRn1e9m//3KINAMKFsmMQetNxplk0CCD47eJhswBkOHfWZL/XVd"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/bajo_el_sol_amalfitano_2022.jpg",
+          "name": "Bajo el sol amalfitano (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL2z+1P/JT/wtBtxISM6SNjYnKIbKxNQ/UHA1R6G9R70R12dmuVT25rACYrAOtHPfTQWTZg7B6oDw/L6CkW9dAg"
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/elescandalosocasodelasgimnastasabusadas2018.jpg",
           "name": "El Escandaloso Caso De Las Gimnastas Abusadas (2018)",
           "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVId7ExYcLuMMUs6trmSgwp04DA1/w1YsBcx9Tl1QceDWoOobUpW3XmIAho2YaYKf3NHqunVmPl4OD5eoAn58Irt"
@@ -3144,6 +3184,190 @@
     {
       "name": "SERIES",
       "lista": [
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/ojo_de_alcon.jpg",
+          "name": "Ojo de halcón (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLL35XDB7nljHRjXHaVldR+R45Fxe+3T/td9yFHfHJ1cpkVU6T7G7YjiOS+AuebDhP0B2xSDTnAT/u8UlNTaM4O",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLL35XDB7nljHRjXHaVldR+R45Fxe+3T/td9yFHfHJ1ch69874/ZRkGeatcrZo8nxXXh5F30rvuvP2y/2TFcIgv",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLL35XDB7nljHRjXHaVldR+R45Fxe+3T/td9yFHfHJ1chP3LrUEOg222OcN6jusOWlGE8PTnAagut2ad8iJQwAF",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLL35XDB7nljHRjXHaVldR+R45Fxe+3T/td9yFHfHJ1ctX9sKa0oqsE34wxot+ZLAPfWRAZcOLD5sOEsOuQVUl8",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLL35XDB7nljHRjXHaVldR+R45Fxe+3T/td9yFHfHJ1ckoI/a5P6RAr5qkK3w0Ymqw9F0CaSChwLYWeNoo4D9Q8",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLL35XDB7nljHRjXHaVldR+R45Fxe+3T/td9yFHfHJ1cvJZBgjt8OAgdnSqDoFQYb7ym/6xCtqRGac2CxjlMY2d",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/maria_marta.jpg",
+          "name": "María Marta: El crimen del country (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgC0qzB9UBYuCeuB2LMab6g6R7LD4Qk2+stGJzIC/YOIM8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgCeWpXPtqtPyLc4X2phEhsEfDdrDXKDbgtsdQmSrFQXeA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgCyoXNE/bX6zEz1Zck5/cGx6iSO/I3YW1qPJ2ag9S9jic=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgCZzPJEId4UwpdOsVWJ8HiRA0nH7ON88SD5t9RGMYt3g8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgCFnuXQwEflJJw8ypCl6T6eECZ8Zur7ApsVDgRaTirIFk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgCxJdMVdVXMBEqpmpQcmuAYX28qUkozVFTlq3r+Yh6pr8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgCqmawyU/AR9+Sae2pOF/iTZ4juPo8K6B4CYepAEEmwMc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK/KX4QiZJ/T8snWZ1L9GgCh/QXsjxKrtMqOIyedKJHsZ/SMT6FzunOjERN7u7iIvA=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/alguien-esta-mintiendo-45133-c.jpg",
+          "name": "Alguien está mintiendo (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1Sl4UfzCE0NqsfEfYReAVGzQE4+PHMseHT4t1GlG30boxQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1SkujM/Vo6AidMnRp1j6CtPt8Qm2pZkJAjHViKJRKmhVmA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1SmzoeO+gJjcpku98/l5j65PQFegLrBQ3xVnP1GsMfU1hQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1SkqHd8Mz1/p0JpMqn1C4H56LYtgTnlzyT0HwPPZwCigEQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1SkN4WCNNLZN/ECkcNrBohnZkhIQAJ0ot47TQQojdX2viw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1SnVNAD1IoLF5iNC0/uS70XACrkDNmZbsf+VFP3GypgZiw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1Sl77FzAibxC/l+0SGV97Xy8dXdtWpRa37F4srk84V8zGA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVK6yOId43X9Sap6UpmXpcPrbw1cyyfHO9RXa6V39oO2sgZUlyCDXVttqID0uuzo1SnYK/5zSaImuZc5uqjBfnqPhzlvNEWb481xUpv6NXFQTg==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/1883.jpg",
+          "name": "1883 (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQOKlVYRSb+Hbd9P5iwGImuXVPUWUqxoDtdT0z2ibhZS0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQkYWO6pGS8VM/Qpl+JkNG8cppGDZmiW9I4F3z7jC3xsE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQSi0yLosrnhNA1Bu3oeLf5M4sP72RtaWYbuXJuC60VJ0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQi5/IiYxPFXTcRfJzxHdRTDd1XFX7znL6ESqQPAP6fao=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQ0bj/rQYFv7o3evKF4tYpqdJM2vqsZHXbb5tb3AXJ60U=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQYWO0+M5MH1q/9Iov4kko+EFWRLrC/D8LrJMWC8Y1lgU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQeG9F02ypiuK6Dfb2Y+Q1nzbxGrSFPwUEaVYJV3Hu7GA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQpuvxPHg7Kw+2yerpvTmVpg887JquxuFKM5lpngXOBbw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQUK62TiCFmGowaE5Tap7e6U84CVbFxDFmPhix2vKz8P8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJVRLQ617dw+gzhE04AmnqQR5DVgTeqoAfjfJvbYwNgxu+dbpsLUEsgm3p73hT3SXs=",
+              "drm_license_url": ""
+            }
+          ]
+        },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/confesionesdeunasesinoserial.jpg",
           "name": "Confesiones De Un Asesino Serial (2022)",
