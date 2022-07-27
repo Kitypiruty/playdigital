@@ -3,6 +3,101 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/al2__whitc2_2022.jpg",
+          "name": "The Witch: Part 2. The Other One (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJKXmeLMt1EvBrKSqMihP9durl1aSybH5C0zkK/SjI4eemHBBjC2dK6nx3lIgXOw0E="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/735_una_amistad_toxica_2022.jpg",
+          "name": "Una Amistad Tóxica (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLk1cBPPOMkUifdUXnJzhaf6ShFm5yo2RfLjwsJUq53qTtkBnjragd/OwrDFfg8VJOtmYnj3PDnSSHZvVxQSWEF"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/9l6_todo_es_posible_2022.jpg",
+          "name": "Todo es posible (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVINXLGcTKNV2SuV9dAzq4giLgywj8JGN0vzeLdHOozeXyfozVFPzDYTj/eRbIl7Pds="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/rkb_thor_2022.jpg",
+          "name": "Thor: amor y trueno (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJjwP42fV5Hq6b//9LjTUfSz/mEyWWbPpoQRlLqvNHmQjoa+NgoZEPU4xVLuYt/zy8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/b5z_terminal_norte_2022.jpg",
+          "name": "Terminal norte (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJwNF5cn2+I/JZBkJl+qKcmkdT6dFitX5h5QZW11Fx19IVrCE78q/0oU7pD7OcZUCA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/nvx_secuestrados_2021.jpg",
+          "name": "Secuestrados (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKcTP2ZH5JOnDnm75jBFIDxsI7F5QuOw4D6wnC1rxdtF8XkePc9x5w+AymbOyuKIdE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/w9a_rubiusx_2022.jpg",
+          "name": "Rubius X (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIcxrZGShHbkUskHt1g48kEEpwZ/Ts4s+O6lr77+hnWavLkQLpUDM2rp+0I3UaLXz8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/pitbull_2021.jpg",
+          "name": "Pitbull (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKcO0ZcTUCGn+ANrPqo3KGnUO0LfduXQuJY+2CSSnquMQi5gcIi+gJuQT3A3oUKj0Y="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/252_la_ejecucion_2022.jpg",
+          "name": "La Ejecución (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJAYamiWRBHdNX+m8+mktj1xo2Ia9IV55UnOVRbYJecFTmcNYcGOG90ydSfEekZGZw="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/xzq_la_cima_2022.jpg",
+          "name": "La cima (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKHasQwbM3D4pxZr8Vmo4BN8MxQ8RVioQReti14C+Pt8PhrCXBSUSMK8GWE/iwB7eA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/cloudy_mountain_2021.jpg",
+          "name": "La furia de la montaña (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLGCJI63kIOFt5xOosSDZn/oI3ah9kaT/SS5aVRI0rUiQNT5QqGR+8x8amVO1livV4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/bzq_forgiven_2022.jpg",
+          "name": "Los perdonados (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKhZTaA0lw1K21HyRq2E6Tkbt47YQOQsHjpO1IJbPqyuebkjlkB8+7yhmzwzvRIC/Q="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/236_el_entresuelo_2022.jpg",
+          "name": "El Entresuelo (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKq1CzB3OtHxpa/T35PhbThLE/OCp0Zu4j6jbPSPwSg9xOgVo8WIuC11Cv1tTZmecI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_asesino_de_mi_hija_2022.jpg",
+          "name": "El asesino de mi hija (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIQv+7+4MYyrJucAPyG2yVUvtTlkoM05vFgZLT82fmwcPOofU6H35FpdctzfgUzJY4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/il4_angel_de_mi_vida_2021.jpg",
+          "name": "Ángel de mi vida (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLccvNYKNr0Vz8x3B3SOjRu9PgNh/JFRrMMk0sfP/anCdO8K4WOT/7U6SxQy9qtADP1XmKzVr8lZkqFGpoY2GKg"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/ykx_el_agente_invisible_2022.jpg",
+          "name": "The Gray Man (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIj2bXX/Jrqc5Z3vBIPG0c1dux1f5jW6acx8uGEO5m8FN9zWTwj2mdV0TRrSu7IOJJA20pBXMsbRE2dVA22rKgz"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/dulce_venganza_2021.jpg",
+          "name": "Dulce Venganza: Un Misterio de Hannah Swensen (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVImcxPtH2oRahW5scFZlN+NOcEgDB/c67mSwe30vFP0K5fS27kYrUg5jzDuWMPoDC0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/dual_2022_910.jpg",
+          "name": "Dual (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIPXDBo8QeTJhi0aI8y2x3EnkRQF9mdGysJgmPhZcWZyfsOahf8M3ExE7U9YMUTBRo="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/adios_sr_haffman_2022_4bl.jpg",
+          "name": "Adios Señor Haffmann (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLL4PNYDvCmrhe78BrIZ7masGG0+TtmshLzUfHmiMYiL47idMgN2iw+1En4rWN6lSc="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/kzr_top_gun_maverik_2022.jpg",
           "name": "Top Gun: Maverick (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIHO0v8iP31r//JIXAVRCunaBoY5c6/NYpd5CyZKA7if0K2yE7ywVeFmDZm/iutmHk="
