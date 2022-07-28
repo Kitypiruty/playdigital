@@ -3282,6 +3282,88 @@
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/todo_lo_otro.jpg",
+          "name": "Todo lo otro (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKtBd0byb58zqGFp0eeTtJixt45sBY1c+QZniPEzYsu0T",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKlNEOWO061eWOekf5Ft31XBa9WDx0/dLKGLXy11lrQfw",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKi3ACWQsG/a2vHl+R4ETR2qW+AR7Tr2s270sK7tYWpff",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKnWvvA5AjRdDGS6fGTcVstAff9hlv8HE1LLIZEAvVHHt",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKgXGMoVGQmtEY5YluY6tyoiRxZ7Jw5QnSuPv1961HYag",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKvXoLcFFygtcszgmAhUjmtbwer7NnQqwfHEIgeuAbWz3",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKgRL3yLZPY8uULy/4zW3kVrFFZn2lf5G5A1mw3U3r0+s",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/santa_evita.jpeg",
+          "name": "Santa Evita (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKtBd0byb58zqGFp0eeTtJixt45sBY1c+QZniPEzYsu0T",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKlNEOWO061eWOekf5Ft31XBa9WDx0/dLKGLXy11lrQfw",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKi3ACWQsG/a2vHl+R4ETR2qW+AR7Tr2s270sK7tYWpff",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKnWvvA5AjRdDGS6fGTcVstAff9hlv8HE1LLIZEAvVHHt",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKgXGMoVGQmtEY5YluY6tyoiRxZ7Jw5QnSuPv1961HYag",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKvXoLcFFygtcszgmAhUjmtbwer7NnQqwfHEIgeuAbWz3",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKkq8OsQzU0ivopmiCUTK0OpaKregCfbyLJR/WMVpcZKgRL3yLZPY8uULy/4zW3kVrFFZn2lf5G5A1mw3U3r0+s",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/reddementiras2017.jpg",
           "name": "Red De Mentiras (2017)",
           "temporada": [
@@ -4435,6 +4517,53 @@
               "uri": "jYskNJejvIEAd8yZ50GUHDhsIBtJZ8KMKwvNeUxjukdFVRQdwX3XTKxbPLHy3mLvm4OY+uGwVkIrTf3EuUZO8ZZDcnTpa5hQrm+iX1GT+54=",
               "drm_license_url": ""
             }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/chucky.jpg",
+          "name": "Chucky (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJwzQzMM7AQpIns9hMkZCy0UD608yjOQmvE2z6PJ6rpys=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJOIfrVyZWKY/up6Pra2+T4bZ5lWThe8YicKrrxwwiyGw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJ3GgH22dTCUdQYagIt3yEFW2ajjkDFW+mA7JCkskEPh8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJLZs5om4LIUFreoU3cTxRm5GLZOujx3l4VMg+egaksds=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJrTp6h5CpMapWn3vb5YUsWfh8XzvbNmWZZkvw1ejppiE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJ6nUVckOMv2XWWMoTONO03jlECSICAQKYK4D8ySk9pO8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJQZlL3txbanXsrSEV8qPhal3IpSxRkVnBo3t4YXLFbJU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLg+Ae+CGqHLfDR2JJokmTJkuAez4cTxbBPcqtp7Uk6FW2x20CXgTEB1ICbx65QMPE=",
+              "drm_license_url": ""
+            }
+            
           ]
         },
         {
