@@ -1297,6 +1297,13 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvoivz0U+0ziI2oZ1HTkDG0czeA5rwtWx2F/NSZglgIZpPoKZQisjKyz6far79lf/MYmRRExRwUHoa8/DhrGwrd",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3IVCkQzzLg0ZlDEw6LBcTwtCz74gkrJUbXeCO7kVINob"
+        },
+        {
+        "icon": "fdgnb",
+        "name": "TEST DE CALIDAD",
+        "uri": "DZLGwIWf4VyDd1VpgfzRzV+IPikDd+mOVGPdW1Q5Qp/3Y56fNfhoqr1SlcYbr6fX",
+        "drm_scheme": "widevine",
+        "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDG2/rhIyt5R/zyMRiqx+OnB+g0rKHZD4wD72bZGCy824EydacPqrjykIVjx0xU64G0="
         }
       ]
     },
