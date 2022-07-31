@@ -1304,6 +1304,13 @@
         "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXtMQvL3zKvFN3yYyJ/T9x+bufkP7FYqJgl05umUIxdFHQ==",
         "drm_scheme": "widevine",
         "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDG2/rhIyt5R/zyMRiqx+OnB+g0rKHZD4wD72bZGCy824EydacPqrjykIVjx0xU64G0="
+        },
+        {
+        "icon": "fdgnb",
+        "name": "PRUEBA DE CALIDAD 2",
+        "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXsaD6oO0K5MpXyUQokjs1wXEufQmST50dZPoR3isNM6pg==",
+        "drm_scheme": "widevine",
+        "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDG2/rhIyt5R/zyMRiqx+OnB+g0rKHZD4wD72bZGCy824EydacPqrjykIVjx0xU64G0="
         }
       ]
     },
