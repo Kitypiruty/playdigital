@@ -1297,14 +1297,7 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvoivz0U+0ziI2oZ1HTkDG0czeA5rwtWx2F/NSZglgIZpPoKZQisjKyz6far79lf/MYmRRExRwUHoa8/DhrGwrd",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3IVCkQzzLg0ZlDEw6LBcTwtCz74gkrJUbXeCO7kVINob"
-        },
-        {
-        "icon": "fdgnb",
-        "name": "PRUEBA DE CALIDAD",
-        "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXtMQvL3zKvFN3yYyJ/T9x+bufkP7FYqJgl05umUIxdFHQ==",
-        "drm_scheme": "widevine",
-        "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDG2/rhIyt5R/zyMRiqx+OnB+g0rKHZD4wD72bZGCy824EydacPqrjykIVjx0xU64G0="
-      }
+        }
       ]
     },
     {
