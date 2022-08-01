@@ -1297,6 +1297,13 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvoivz0U+0ziI2oZ1HTkDG0czeA5rwtWx2F/NSZglgIZpPoKZQisjKyz6far79lf/MYmRRExRwUHoa8/DhrGwrd",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3IVCkQzzLg0ZlDEw6LBcTwtCz74gkrJUbXeCO7kVINob"
+        },
+        {
+          "icon": "ht",
+          "name": "TEST WV",
+          "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXs4v4pG7aBaQE6nxm7ZGUcosHMEKLxApTt/VFg4j35C3A==",
+          "drm_scheme": "widevine",
+          "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDFTUJLqUvcMvSQfkKNGUfHo0z/5Q4xt7PzoUvWAgjcMa4oF6y21tg7Q+K/MXavOzbU="
         }
       ]
     },
