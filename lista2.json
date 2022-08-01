@@ -1300,10 +1300,10 @@
         },
         {
           "icon": "ht",
-          "name": "TEST WV",
+          "name": "TEST DE CALIDAD",
           "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXs4v4pG7aBaQE6nxm7ZGUcosHMEKLxApTt/VFg4j35C3A==",
           "drm_scheme": "widevine",
-          "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDFTUJLqUvcMvSQfkKNGUfHo0z/5Q4xt7PzoUvWAgjcMa4oF6y21tg7Q+K/MXavOzbU="
+          "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDG2/rhIyt5R/zyMRiqx+OnB+g0rKHZD4wD72bZGCy824EJ1pDbmdQcuT3L2WETGdZs="
         }
       ]
     },
