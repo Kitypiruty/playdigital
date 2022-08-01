@@ -1301,7 +1301,9 @@
         {
           "icon": "ht",
           "name": "TEST DE CALIDAD",
-          "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXt68ArSpgGM4ErpfbzXM01v28bMkrObdoQELga9c16cSQ=="
+          "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXt68ArSpgGM4ErpfbzXM01v28bMkrObdoQELga9c16cSQ==",
+          "drm_scheme": "widevine",
+          "drm_license_url": "zPjN/mC4e9usT7mbOj5ygyyIdbts8+pPqoSxBbpVZDFTUJLqUvcMvSQfkKNGUfHo0z/5Q4xt7PzoUvWAgjcMayU0y2u3KO8Du5+s4r4xpN0="
         }
       ]
     },
