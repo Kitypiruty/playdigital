@@ -3443,6 +3443,32 @@
       "lista": [
         {
           "icon": "http://static.dplay.tech:8080/imagenes/todo_lo_otro.jpg",
+          "name": "Leyendas De Los Faraones (2020)",
+          "temporada": [
+            {
+              "name": "Primera Pirámide De Egipto",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIXKax6pnJSTEy1bKoQvjjNjHNJ9lMvjEHIHkW17ldZC1Q9YBbERmrh9VgEXeQ+RKelWe3mLiS2KUxxYdshCafKEsrKqSvyAyd3VVAOSEWfxQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Maldición De Las Pirámides",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIXKax6pnJSTEy1bKoQvjjNjHNJ9lMvjEHIHkW17ldZC1Q9YBbERmrh9VgEXeQ+RKe0vPIE3XilHCdVOUg7oVoDdhhxm5PszA6U2M7DQGH86Q==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Rey Tirano",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIXKax6pnJSTEy1bKoQvjjNjHNJ9lMvjEHIHkW17ldZC1Q9YBbERmrh9VgEXeQ+RKciSHIwxuVlYGvW65Sw7M76d89mkUuoChkXO1QhhW96bw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Misterio De La Gran Pirámide",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIXKax6pnJSTEy1bKoQvjjNjHNJ9lMvjEHIHkW17ldZC1Q9YBbERmrh9VgEXeQ+RKdjDzvsM9k7w0+9mkufBJJWR0kfk0kX8Rxdulc0MS6KAw==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/todo_lo_otro.jpg",
           "name": "Todo lo otro (2021)",
           "temporada": [
             {
