@@ -127,6 +127,11 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yEC5qpamRrREuBe+gFO9vuwCS/Ygnob66TNviyEqjrEb3y+WrFN8HdGdLgC6ey0n1WB1tUwwVQVkCaGpqa70VT",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiETI+ALMhs69m6HxTtzqgze2uoczpFD6DAPIzgj7wuTKw=="
+      },
+      {
+        "icon": "320",
+        "name": "TEST",
+        "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXt68ArSpgGM4ErpfbzXM01v28bMkrObdoQELga9c16cSQ=="
       }
     ]
   },
