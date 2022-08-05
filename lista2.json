@@ -3,6 +3,151 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/rd0_una_pelicula_postuma.jpg",
+          "name": "Una película póstuma (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvhmkyBPouGgWm76PyMsVf9LSuXl2e4F3coxbRcwXv3VhU85L9wL+fTS3T2w9ETtV4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/632_pipa_2022l.jpg",
+          "name": "Pipa (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtrIxtRU01VEQeE3aqBhoMixL3p6QqAo8Z4dlHY/ea5VA=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/759_paradise_highway_2022.jpg",
+          "name": "Carretera del paraíso (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtSu1ipAvvDXRvX/X3ktVCTXrWtPDj+9uk+A/1XIn67VV2ClJtHGvkTDDxoFga6INE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/083_on_the_line_2021.jpg",
+          "name": "Estafa telefónica (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuPOjLZgitnRyP/BM1Im9wvioLxJ6ONRzmfCJbgyQFpCI+UoawZ3RB5EO74RUOz7+s="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/wdq_ojos-de_fuego_2022.jpg",
+          "name": "Ojos de fuego (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxve5UTr1M7YKf5st72k021k5cslgmfbnMUGCm8LomScgkqvzglGBcOUFw2MLB/qgi8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/nos-conocimos-en_la_realidad_virtual_2022.jpg",
+          "name": "Nos Conocimos en la Realidad Virtual (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtMNdqQQjAD4fN9mD8HbWUdt/huXyLtMzWfPZFfkmsbEzUZ+flMU0P4k530Eo42uxDz2o0UdZvHwXFGreC1cLgf"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mi_peluqueria_en_rio_2022_xbm.jpg",
+          "name": "Mi peluquería en Río (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtpy80oVHJ1cRe29Br7nbzpEO0AQS5KunbdyMRk3b8aFEHvoY+GyJwBkp99pwyF3dmxvkYL9mj3u0WYPNSCAPXn"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/kvg-moonbound_2022.jpg",
+          "name": "Lunáticos (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtImGhzB2lZyb1+8RyZgGuRI64pqdpI0+9otf2IIxr/yoFyGJuIbCy7QC/alnMDTD4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/615_monster-portal_2022.jpg",
+          "name": "H.P. Lovecraft's Monster Portal (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsVdRcqfLvTcH0ca2yg+eaMDKzP4FJqXF0ZawlL1LeF9h5cfE7DP85COskUY2u9o6I="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/783_el_retiro_2022.jpg",
+          "name": "Mirreyes contra Godínez 2: El retiro (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuNaONdXB4JG2sNk8lNP4BFwoC1jWN+0+8L/ykdR3DAs3yXPcbWPVoVLBSEcGgGPrA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/vxl_la_ultima_mirada_2022.jpg",
+          "name": "La última mirada (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxssAcgd98ZRNG1e0ppWFQdYCYAFMTFONdaOs7ArnTShTUFT1dwRrk8m4PtNnrMi+sQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la%20peor_persona-del-mundo_2022.jpg",
+          "name": "La Peor Persona Del Mundo (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuHPUGgcljrCxB55BGpslieVMm7plwdNEwtVKRgFlOy56Zp9lEAYMgW8V8vtpLzsr/T9zpVabH6hkAZiPAAB50C"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la_leyenda_del_caballero_negro_2022.jpg",
+          "name": "La leyenda del caballero negro (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuaemmc6+EHleiUZooStYtVfRhOke16MKNj8NdNfCfS2PqS/gb8ro6ZUKKMYD7OnAIDStAov28jyTL7mcrhXsJA"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la_amiga_de_mi_amiga_2022.jpg",
+          "name": "La amiga de mi amiga (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtrgwRYouz8et96FK5bjIOLUoVDjkCxjUwQ4te9xaLOhnRwHjdMe6vvENV6WpDui6g="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/651_guerra-d_sombras_2022.jpg",
+          "name": "Guerra de sombras (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsWNQtnUDhrdNTMphcadQe1MTB6teUJtqFP0S1TiQuvBM4HWuiMNFh24W4DwbB7OHc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/624_generacion_low_cost_2022.jpg",
+          "name": "Generación Low Cost (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxthl3z02yjXvCdLVzznTrAx8NjDcRWRHJDCVcMpB25hxxXqUp9YQk7VAvC8ddUHPQ0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/786_falsa_influencer-2022.jpg",
+          "name": "Falsa influencer (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxuO5wvddyveBYVu5lk6SZjy3FN4N0Ledd9s3Lvh5bgtzng1UTDc+JsZe1w5nUQhacw="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Excasados_2022.jpg",
+          "name": "Excasados (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtrBjwX5XuMLCmP7Bjqwc98KOlsx/Es0QP7CH6OJNxatwww3NwGj1TjPlPDxVYNWTc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/a3r_everthing_2022.jpg",
+          "name": "Todo En Todas Partes Al Mismo Tiempo (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvrzjeFL/TaBhZtJAZaD2D31uA2rhMWAUEiSl4kdIyUpLGvjwWiO8I9gl3EICs7tNc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/Enfermo_amor_2022.jpg",
+          "name": "Enfermo amor (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxsPvXKikpgWjMz/CxDLYUkZajtE/A5nlAfSK1Qt1bbt3hGAgt8qJ4vcJcnnBtyVlg0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_profesor-de_persa_2022.jpg",
+          "name": "El profesor de persa (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtACjchx9onLnMATcdW9HGoPppaaHWaj+vhED5v8npgUHN6zndq6jsKcmRgXMtQ9S0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el_gran-pase_de_magia_2022.jpg",
+          "name": "El gran pase de magia (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxtLt1hGduNkXwm769Pv/B9D36TubfmFyzl6zYBswniNEIR9QG/Kq+hVOf4+WnI6lpI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/678_deadly_house_call_2022.jpg",
+          "name": "Llamada a domicilio mortal (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvIwlm6x4ZXn62j4doTuRj7BHey9edFTerSsidD/lOFHRiJnXWBaM+wqntexS0E+wM="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/corazones_malheridos_2022.jpg",
+          "name": "Corazones malheridos (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvlqv9//OhZ3ygWuK1TmGH8JIn2MD3QVKyXAH99Sa+cen3fmAr354d0TsghCnIFIVE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/corazon-de-campeon_rFuBBXs.png",
+          "name": "Corazón de campeón (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt0/K8lx/N6h2pL6WedhPYBDTTqu3XIDLs9X1/cElTjXH0R910neANytgTE13MvKTI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mpk_cerca_del_horizonte_2022.jpg",
+          "name": "Cerca del horizonte (2019)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvEf/Z9rxpzbm9nc0m1MUOKgiPo685EPybDs/qOC4xYgNqh2QGeeTVSxa1kPKRniHo="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/buba_2022.jpg",
+          "name": "Buba (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvEzFMwxnHPptgrgsTYHZD7HHBSsimyv64wdmco3jCyyA=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la5_badboysforlife_2020.jpg",
+          "name": "Bad Boys para siempre (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxt8L3LG5yvbwEjjcHagIewccMiH88MVAbhLzKyGpg4qVFLW/mdyzeib0yWHgwRvR4o="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/427_a_tiempo_completo_2022.jpg",
+          "name": "A tiempo completo (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxv+PUxJjcfyK/0KemGhkWEgQXC7+gC8L9n/0zPHC92mKvDVgm8pCEJySOJN0J9y35E="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/al2__whitc2_2022.jpg",
           "name": "The Witch: Part 2. The Other One (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJKXmeLMt1EvBrKSqMihP9durl1aSybH5C0zkK/SjI4eemHBBjC2dK6nx3lIgXOw0E="
