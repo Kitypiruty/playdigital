@@ -127,6 +127,13 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yEC5qpamRrREuBe+gFO9vuwCS/Ygnob66TNviyEqjrEb3y+WrFN8HdGdLgC6ey0n1WB1tUwwVQVkCaGpqa70VT",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiETI+ALMhs69m6HxTtzqgze2uoczpFD6DAPIzgj7wuTKw=="
+      },
+      {
+        "icon": "httpg",
+        "name": "TEST",
+        "uri": "zPjN/mC4e9usT7mbOj5yg5PyYrtdrN7f8HgY3Dm03COR/IJ5hgkIRqXF6MXq7gAM",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXBI5Wy0oj0mkrJk3WoXNDzhkWrBUyzDjJm68Fp76KZFn"
       }
     ]
   },
