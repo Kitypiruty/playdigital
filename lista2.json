@@ -3442,6 +3442,57 @@
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/amoresquenganan.jpg",
+          "name": "Amores Que Engañan (2021)",
+          "temporada": [
+            {
+              "name": "Vientre En Alquiler",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsldz4Nq7Aic+wxGpJmrBVsCQA5maHdlbLbfYHDKdQ/p6tL",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Solo Una Oportunidad",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsld5rXBHBCtMHaKPzE2tVPLzXZJpANqbBRiqtndZ6RwahA",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Derecho A Ser Feliz",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsld0UgYdtiyFk9DhGMCboUmzrJw0C5SGgO+UBVZQ8bO4EE",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Lo Virtual No Es Lo Real",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsld+K1X+HuuTYEbQKqGrEPyRMZnuKgq3GGUIo5PfYKzqqj",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mía Solo Mía",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsld5ifDdVGCM9j8RMpg6RBiyNF0cTUUTKXvU1uliFVaRMj",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sobreviviente",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsld+bMG1TfumazUDcOgIdSbynEUiE8issyhCSbGeGmQcmh",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nuestro Pacto",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsldxQ3Ow15oP5BoC+FypElaq519TkD+cW7gDSJtONvTSlT",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Compañeros Hasta La Muerte",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsldygM+XHKCCO9e8Lw9NPIhwTDK9H8oHmTze/XXwkJiCY7",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ayuda Del Más Allá",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI9YFIQO3r8wku4Ri8uOzb89ou5VgWIKcBL5DTzEVsldyiErrSyQQp5Xcyyheyyd7YH1q/xQDGuFPgZJy26z6zK",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/ciudadesocultase.jpg",
           "name": "Ciudades Ocultas (2020)",
           "temporada": [
