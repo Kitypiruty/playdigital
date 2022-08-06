@@ -3442,6 +3442,52 @@
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/ciudadesocultase.jpg",
+          "name": "Ciudades Ocultas (2020)",
+          "temporada": [
+            {
+              "name": "Apocalipsis Maya",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yOMjgiYwvum9K6hhgpXXy8yYX78TyGJAtn9FmudZWq1l8",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Antiguos Ancestros",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yOFcA56ZqQvEq5KBrhI0ZQhvDVurEbZWGgp+5BDUwLKL5",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Túneles De Muerte",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yOHbZLdCLM0sR5lSJfouldhnWo1i6Dh4F9cWIw4hRPxhl",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Túneles Subterráneos Militares",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yODW12hH7qnyjLafa+o4plTajvSrkkGRZbqgcWM0DjPlL",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Secretos De Las Antiguas Metrópolis",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yOOE1dnEJZjngXnZD3dSGW+1lWEKPiOWPxUoeH7Di/946",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Colonia Azteca Perdida",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yOLG+Ejd0K2f8HPy24TnPi/UBGkny9sma6NvefwmGR+jZ",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Templarios Y Los Padres Fundadores",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yOHEYqSSZ6BuHZdNArqyRNTwqlWPr9b8gYyjAJcu6qn8U",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Cueva De La Reina Pirata",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLhC1OnJqANg1qJcotXuZw4qY5OIFBfz2GYkpZ3Ab8yOGxcqGpzjSeHaVSNynLJku/ZYc48P5/gTmIjAlgoLdo6",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/leyendadelosfaraonese.jpg",
           "name": "Leyendas De Los Faraones (2020)",
           "temporada": [
