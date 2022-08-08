@@ -398,7 +398,7 @@
         "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/ac8c5fc2-b457-4784-8911-6b8cecd2b12d.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/tnts.png",
         "name": "TNT SPORTS",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zv2CKQjXsDhUQfJMJMecEe1veXOGN2g2ogG51i7ACMEY8c0YiKS5DMWZ9lXOl329z+S60BJgX9qAx6rLvn/jv0",
         "drm_scheme": "clearkey",
