@@ -1683,7 +1683,7 @@
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3CI0Z09YYnX5xSGrc7iuLiMF9L2a1wN7ES/8ujd0aSpW"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/tnts.png",
+          "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
           "name": "TNT SPORTS",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtueUt1KXIBsLg5mlRwyEMy2TeLDvu1RpeOTr09N8qyEED6dpzQGkVv7NSxvq3xbQQXERRkiFluKJxTV0qjEj/S",
           "drm_scheme": "clearkey",
@@ -3441,6 +3441,77 @@
     {
       "name": "SERIES",
       "lista": [
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/pilly_y_el_guardian.jpg",
+          "name": "Pili Y El Guardián (2022)",
+          "temporada": [
+            {
+              "name": "La Llegada",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAeqP4Pv5UqUwSdvHH7u9v++uR1XOxHNhcHm14RqiTXD1ow==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Despertar Desastroso",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAerFoH/Mf/5xuwJGwLIgMnaDpJmFyFoo+mGfxIRBJFrYgg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Brillante Verdad Verde",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAerU+C7HLHja0G/GHvW43pr7W19gj8sX/DQ2TaLZHO3LzQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Regalo Inesperado",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAeqAZNAjSPvCKDdyJEUTKXGWa+PcIO1mJ/Z39otj79StTQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Viejos Amigos",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAepJIO76fnib+nNKRloeCPmhcP+y/+/8mHFaf3h6JGsJPw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nos Vemos En La Torre",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAerNbQIrFRpapKZ3NwDxszNh6/6Tr29qKLBr81HQWgaffw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Hombre Con Máscara, Que Vuela",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAerHT4H9WcFy4Q6RpHEob+rTX4GP7PLr/klL4huBRJCr/A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Invitado Muy Especial",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAeqY5U/5bYfx9d8HwSpRiYNUU4KGws28R5XQ/44SDTkKCA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Esa Máscara Es Mía",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAerA+xcmUCD21yTZaEL238sSXUPRHKELtiWMxkPfupOEiA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Verdosa Turbulencia",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAerg+xMnmK//2BfemT/0KU0+alfh80oiYwoWRFQ3jjzmpA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Superhéroe De Ciudad Radiante",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAeo+vxw0zOiYskH/jICqEEh5Voa/wJ5g9lspK1qphpnQdQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Plan Dsastre",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAeoYVr0WLThZfWM4Lx0/VYR0kV+FCESC0eikU6dG0GQKLw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Partida",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJPP827GdXN3OKIk36ttWwORx5d61tu3D7V/Rx63/Yj1dP9ZM/nOUbdp79lpHyiAerIjh+5MrNWFFzVlJ4tkPLXQHgM7fiOmSOT0CJnEc15Gg==",
+              "drm_license_url": ""
+            }
+          ]
+        },
         {
           "icon": "http://static.dplay.tech:8080/imagenes/amoresquenganan.jpg",
           "name": "Amores Que Engañan (2021)",
