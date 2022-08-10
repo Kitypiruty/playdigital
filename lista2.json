@@ -3,6 +3,91 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/km5_x_2022.jpg",
+          "name": "X (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKFhq63J5wSpaHDa27iPoP9XHlwVgiXHH2qNAMGQV6XDWT4gHYYQeyg5rEpuxDF7q0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/gm3_viajeros_2022.jpg",
+          "name": "Viajeros (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKrK9e2cpcolczFM0NKLxiKhvmc5noMLqk6X+9x6Ed6yE7dHBvnG/fnl9misp7E0ik="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/w50_the_royal_2022.jpg",
+          "name": "The Royal (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVID5ys09Uq4WWXf5FKsMgcAjvpm76QCLe3Oa144gFIqEsLvKys4C42RFl9UaAwmrMM="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/6mr_superoi_2022.jpg",
+          "name": "Una historia de amor italiana (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIbZptznMYLkvcnlWMStdaqT9Mw88WCfp8vGp3NpoL+NVOGPu8zrJeibUCZlgGYGXQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/que-culpa-tiene_el_carma_2022.jpg",
+          "name": "¿Qué culpa tiene el karma? (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKAgLeUpoKE0GNQT8jPQrMTVmQtbbZ0wAOjWPRFHc4awklVwm6IyGpEKly9U1H65mQVdJwVzyakRZV9IWY4atRQ"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/nz9_lego_star_wars_2022.jpg",
+          "name": "LEGO Star Wars: Vacaciones de verano (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVI4tXCy5cVWuEyrbwj7d7JEwkasAeZZiqJtvI0BwLU/iDlTse5UTNmh+H0HbCMpCEgs3kyuvW1QT/O2W4u/DjCc"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/roq_la_ultima_marca_2022.jpg",
+          "name": "La última marca (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKAQLDWVGo99om74GQYIVcq+mPBMLlNOgJutcM0K8E6hrNn9cza6gE6OqSpIUJ+9/o="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/146_la_princesa_2022.jpg",
+          "name": "La Princesa (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIuQoLR2HAL0H0TGaJQo/xPtRfO3TjplRMlfetNSZtsZIktWIYHfFDhuMIfI3ytSXQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/n4w_el_calendario_de_adviento_2021.jpg",
+          "name": "El calendario de Adviento (2020)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKalCPktHeBO1b8RBrl16Vu5txum2+h9z3wqvQ/9cHogewqswXVBfP+rd/iL4K7RX+0YFKXEzNbIgit8q11ZmsH"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/n12_el_ascenso_de_las_tortugas_2022.jpg",
+          "name": "El ascenso de las Tortugas Ninja (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIQv+7+4MYyrJucAPyG2yVUupP9syhSvyneBg2gcns3xCn2Yf4As9evLM2TD7w8MbW1twehyYntRNufsHJE7kxi"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elvis_2022.jpg",
+          "name": "Elvis (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJxeQnsOpICRrpH4mL9qWndPs6CID7AiiLjMl3aXNA/gWueDp7uAaLgmBqGssI+MVk="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/pxg_depredador_2022.jpg",
+          "name": "Depredador: La presa (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL6z7XexCczDAYVCxuJsxKextuDpUuFxLiqyYjpCD/8w3hdxMAofSpdHZpTGld6trQ="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/324_darling_2022.jpg",
+          "name": "Queridos (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJZVOZtC4H8KEgTjbtz4TgmCM6Zh5CGpgOD9NabSCHoyinheduORjQy3h10qk7hkPM="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/xjb_charote_2022.jpg",
+          "name": "Charlotte (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLU6Z+xQa4nTGlVuZ1TGNpWjehWD07kpFvmBkKDRegluz7WUoIRohUF5cfDc03mFK8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/oxe_carter_2022.jpg",
+          "name": "Carretero (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKGxUkA5fmHSsBPfnBIYN92LRMOgF2CrzqKGbU8bDcVzvPgzDpGMeyCyxLn70GvhC4="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/ezo_albatros_2022.jpg",
+          "name": "Albatross (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIRHpuR9300lWdYgUeoEDSQsvsegKSSPsZ3mNDjvmWJIqg7vJa/BNoYNZtNyknbb6g="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/zpo_13_vidas_2022.jpg",
+          "name": "Trece vidas (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL7yNFdxCNCY125sny/OA0Q8KDDTyivaxWXvlbrK2xL6u+XKfdbFCm3BJ2oWrQBiJ8="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/rd0_una_pelicula_postuma.jpg",
           "name": "Una película póstuma (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHPaODG6TnUkWT6yVCtmASxvhmkyBPouGgWm76PyMsVf9LSuXl2e4F3coxbRcwXv3VhU85L9wL+fTS3T2w9ETtV4="
