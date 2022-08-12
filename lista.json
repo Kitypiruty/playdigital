@@ -1527,6 +1527,13 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvoivz0U+0ziI2oZ1HTkDG0czeA5rwtWx2F/NSZglgIZpPoKZQisjKyz6far79lf/MYmRRExRwUHoa8/DhrGwrd",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3IVCkQzzLg0ZlDEw6LBcTwtCz74gkrJUbXeCO7kVINob"
+        },
+        {
+          "icon": "h",
+          "name": "TEST VALE",
+          "uri": "TiDWXxCoGSmc5wtoV320QHhLqpM1NPi3WzCLf8c/F5wpyrPyhS0eannsHbeZSm4KMMYK40Nu5bk2NGle8IJWiy0+jIB++r60qwZRMXtNw/s=",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3Pw54DYA9hjp6qT+w/NVI7M="
         }
       ]
     },
