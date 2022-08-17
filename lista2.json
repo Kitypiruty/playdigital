@@ -1597,11 +1597,6 @@
           "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OI9uSOwsUxanY5c0Y9o9Qv0Cckqc+HrWBtQ3Cw5Kisj5"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/9linkima2.png",
-          "name": "9LINK",
-          "uri": "tJY6wT2z5XIDGg6lICThtEzxasbt5oDV7AsCh9hJe2C7I3GMa+Cg4X/xy+jJDvOUxVeQZD+iKPI8LQeTc2g7dQ=="
-        },
-        {
           "icon": "https://static.flow.com.ar/images/7878/CH_LOGO/60/40/350/500/82348520072004.png",
           "name": "13 Max Televisión",
           "uri": "fs1cPA/EjXAFrgOYLRBAP9yeBRzV1buytMPwnKAvwpKkQSDmpj+rUrbXM82JrjmarFzOW/e8orRQjFeG2/ULpQxugV95eZvI38S65pwZpTg="
@@ -1665,6 +1660,11 @@
           "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXs1NzGNZQ2Nj+LzBwCe/70zYZ8kmf/+C+Qex2NCbzahkA=="
         },
         {
+           "icon": "https://static.wikia.nocookie.net/logopedia/images/d/d3/C13_logo_2020.png/revision/latest/scale-to-width-down/300?cb=20210526010959&path-prefix=es",
+           "name": "Canal 13 la Rioja",
+           "uri": "UNQg5R6SlSLHrj34FEU+kRZHhvAnOrkJcacLJjESkKLmTO1DLaGNlPkvdcwEIODO"
+        },
+        {
            "icon": "http://static.dplay.tech:8080/imagenes/el9larioja.png",
            "name": "Canal 9 la Rioja",
            "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9c5anP3KaslkMPXka1qz7xfTolETbCnXk1g7NEUaR2KXA=="
@@ -1705,9 +1705,9 @@
           "uri": "Za/5wKdQkORsX6QkR632EwxP+fh9NCuRUeINAkCAL0dm68XHyyZPOX7t7pzJidPMSoCyScqDKITt\nu7ToHY/CMsB2YEWcx4R1c4S5tuilQzyABCgmJv0xEF3MNfVULzbr7eI+XNc0BY6TsDsQl+5OXHgd\n/5R4K6ybkUy/LVBwkGm2429K8Cxa6VBb4phRtKbyP0cR7KToAlyMMe0ke7pRJytPQnHXQ8Zsg0gg\nt1rf5Wcbom9GH4r7MW1F0jSe1vf2\n"
         },
         {
-        "icon": "http://3.bp.blogspot.com/-uGoccAT1M38/T0xKoHTs8sI/AAAAAAAAScM/Nes43bKyhcU/s1600/canal3lp.png",
-        "name": "CANAL 3 LA PAMPA",
-        "uri": "ktNPE88DYayiYjdHWR/UMCnWUWZdFaBwww/wS5W4BC30AncSMojHA9baW2ZLnJJDym+zgQDAVewxui+IJespTdrXNcQ+SBsuNwabXNe2miU="
+          "icon": "http://3.bp.blogspot.com/-uGoccAT1M38/T0xKoHTs8sI/AAAAAAAAScM/Nes43bKyhcU/s1600/canal3lp.png",
+          "name": "CANAL 3 LA PAMPA",
+          "uri": "B1cDBBct8aEu1UIfqg24AE8Nd4uhTkJStX66K9ort9va4nDZV/gFzVbIEev4IX8M1Km+QBRuf0mE\ntLPJxp5TYnGRQYolLPcPZbk4btm5zD0=\n"
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png",
@@ -1839,28 +1839,28 @@
           "name": "DIRECTV SPORTS 1",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwMe0wIqwPQebTjAx6O8vm9+"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3MfbYxkzZdajnxMVdr/vP+3zn7dW/x2KlA4ZgvEjpUnz"
         },
         {
           "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/6dd5978dc7c047eb27b932b8f50d1c5b",
           "name": "DIRECTV SPORTS 2",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPVTGKSnboATDrl8TUldDUc"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3ArWbocriz6ZQ6eDfJ2ztXHzoQqfVIJA3rhTvK7u6qat"
         },
         {
           "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/68150d12d02ab2a071327a29049a63b4",
           "name": "DIRECTV SPORTS PLUS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNuvOzBipUZUh8a3Wf4DCVr"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3GkBN0TcEFLsvj5454eC4Qs5J0oJSiRFF4Z0FI8uFnyf"
         },
         {
           "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfZmlnaHRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
           "name": "DirecTV Sports Fight",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVDZjW/QAc9dYnwpNk8BdsndasIlxwYdYh4fijsPcoVIA==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "p3w4YOr2vcNcc+A/yk81q3vAyAZ+P0VPhtoq8caSQKvgdg2Wkm29VK8DGMOKwX31"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3DVAW0eN3VK125EKCyB5rKVHfzA+U/1d1WrNN3vUxsna"
         },
         {
           "icon": "https://api.argentinatv.live/logos/tycsportplay.jpg",
@@ -2145,14 +2145,14 @@
           "name": "TV CORTOS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNcPfSAgRDYeyYdYBYdPzft"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3FZ0mTelDbUKqimrEK8jW1PYioEReSV1CfRyDwla5BO7"
         },
         {
           "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/8cc2002a-d178-42bd-968e-210f772253b4.png",
           "name": "CINE LATINO",
           "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwMiDpcDPR67OHuNoNZsnaVH"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3DGX3sFkzMrNNpNmkoP+9s3qP+f3TslBbCbHuPPP/YWo"
         },
         {
           "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
@@ -2470,7 +2470,7 @@
           "name": "Smithsonian Channel",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNR3N9F3RTlOXWJE08ZFoWz"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3Lxlr9kswtYu0HjD7V7Hn67L0Ocp+PItsPA/ANWBrjD6"
         },
         {
           "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1656693035915",
@@ -2484,21 +2484,21 @@
           "name": "ON DIRECTV",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwODqQRCm0C0GxCmyGBHw7EN"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3BVDMxXsaSMAhXXEqZc8BTwVyzGpHUBOoOk70xnMlDZj"
         },
         {
           "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/60197f6a-4c0e-44ef-a3dc-89df4b992bce.png",
           "name": "CANAL A",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUNsEtM3yXC+SFsVKGO/UFHwgDo0M8B7pNy2lljL6rsgw==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwOg8tLljEi9HnPUF4cKPGXL"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3KsddKhApV/pO4oGZTgiBhqFERuq6WpdHAsJYwGaPUje"
         },
         {
           "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b6e64e59-62a5-42f7-a2ef-9b1e146047cf.png",
           "name": "IVC",
           "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwOTVvq44yaOgLAn1t0GWu0y"
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3KI34qdCTKjAX/VqLRwr6sY="
         },
         {
           "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
