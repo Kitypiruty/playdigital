@@ -2148,7 +2148,7 @@
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3FZ0mTelDbUKqimrEK8jW1PYioEReSV1CfRyDwla5BO7"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/8cc2002a-d178-42bd-968e-210f772253b4.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/cnlatin.png",
           "name": "CINE LATINO",
           "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
           "drm_scheme": "clearkey",
