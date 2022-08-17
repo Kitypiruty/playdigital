@@ -1533,7 +1533,7 @@
           "name": "CANAL DOCE MISIONES",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsW/IaMTNUU9EYWaPuE/U9LOP3+4PrzifYWbvV0xE+dGH98jaAuEdMi+t7GWyGr0tBF/XQNqRaV5L3i3TxbEr48",
           "drm_scheme": "clearkey",
-          "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OGXsoToLdvwzFtWemB0M91NIfl3+fHb7VKDK/dsfu13FjYTXxjVrSNNwYpK/7kBKpA=="
+          "drm_license_url": "vE6p7JsilErCjMFGJs7t3OEnA6vhtQRCo7RztzrSCbCnx4rHZXK7CY+zFtWd/TOF"
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo-teleocho-C%C3%B3rdoba-Canal-8.png",
@@ -1835,21 +1835,21 @@
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3LhtC8sA8sFJEiUfAxvnHTEmBEjildljPzBf3/61hk2v"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/dtv1.png",
           "name": "DIRECTV SPORTS 1",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3MfbYxkzZdajnxMVdr/vP+3zn7dW/x2KlA4ZgvEjpUnz"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/6dd5978dc7c047eb27b932b8f50d1c5b",
+          "icon": "http://static.dplay.tech:8080/imagenes/dtv2.png",
           "name": "DIRECTV SPORTS 2",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3ArWbocriz6ZQ6eDfJ2ztXHzoQqfVIJA3rhTvK7u6qat"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/68150d12d02ab2a071327a29049a63b4",
+          "icon": "http://static.dplay.tech:8080/imagenes/dtv3.png",
           "name": "DIRECTV SPORTS PLUS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
           "drm_scheme": "clearkey",
@@ -1965,7 +1965,7 @@
       "name": "CANALES INFANTILES",
       "lista": [
         {
-          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/36ca8d84-6901-4041-b5ba-226e38413714.png",
+          "icon": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
           "name": "CARTOONITO",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsQR3J2gfx7VWkjGDkjuXHeUuU0AQNhVWidI0ndkAFoJ/qcHphqpbX6rcG6MPYPg82HtPNKZX4Kyeb8mXzfRiLW",
           "drm_scheme": "clearkey",
@@ -2696,7 +2696,7 @@
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3E7HjR6rh0gDL7NOBiQfPIU9AyakAhwSo78BF/GtupMB"
         },
         {
-          "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/89851195074330.png",
+          "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/25297928074330.png",
           "name": "VORTERIX",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvzcwGA/J0m1EQyxThCwHxf0zEn01mfvEjRYVHHX3DYUKyA8WaNRkDge3YQkIHtvPkFaGfa+P9XTkXMXPqD75Q+",
           "drm_scheme": "clearkey",
