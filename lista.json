@@ -2096,28 +2096,28 @@
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3G/3WFc18dX+12NOJjn86yBHDPHO4cBMcwzF3vAD4mEy"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/uncinema.png",
           "name": "UNIVERSAL CINEMA",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3N8uXxx7JYYqw3oCd67eiiOcNDzrfMmb7O9xjzTTevSC"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/17e6fb07-1a95-411c-8ae5-2a408142ad6e.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/uncomedy.png",
           "name": "UNIVERSAL COMEDY",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3Mk70+y1cRdDT4ZUzgJcv+VeqzS6w2BK/GqZZyW6nWSE"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/e6b10211-c3ed-4f58-9553-8bafdb3c7c84.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/uncrime.png",
           "name": "UNIVERSAL CRIME",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3PZatuo1BbKkvX7Lhjv4iF0qpIe6VaZTnb+HSK/Sy6Bf"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/5a59c443-ff70-4c4b-b624-de441a7a463d.png",
+          "icon": "http://static.dplay.tech:8080/imagenes/unpremiere.png",
           "name": "UNIVERSAL PREMIERE",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
           "drm_scheme": "clearkey",
