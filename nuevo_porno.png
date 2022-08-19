@@ -783,7 +783,7 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/7e107481-768a-41ee-889c-7d1ca80b2cd2.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/unreality.png",
         "name": "UNIVERSAL REALITY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
         "drm_scheme": "clearkey",
