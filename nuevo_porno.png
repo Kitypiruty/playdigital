@@ -1586,11 +1586,18 @@
     "name": "PARAGUAY",
     "samples": [
       {
-          "icon": "https://play-lh.googleusercontent.com/3ig2UlRVRo4_Wd2NDEMOats_n_8JyukhHOMfMPSIJkedW88F4kUlfc6q3p9XwGA8C28",
-          "name": "EVENTOS 24/7",
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "EVENTOS 1",
           "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5jT5volR83teSWwIQaXU8eK",
           "drm_scheme": "clearkey",
           "drm_license_url": "vE6p7JsilErCjMFGJs7t3OdF7dhx/5KM4tOj/vw09ye0c5N2XUNJG0qSOiDQtHj7"
+      },
+      {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "EVENTOS 2",
+          "uri": "PL1FExyMRiDGt3y9DensFUfxNK0av7oEWKUy/KL4vppJYLJ6FRYQHuOxK5bszXHX9OeuNg0igcxZo1F+X1l1ocnV0bPy/fRLWcldsY5LUuzkFjBh0A7uc1naF1djkCNF",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "5jKWITxGO9s/wkdjKULfdbK9uvkRslDoPhus626OT+3L34mq4KpOLAmnWRLSkY3M"
       },
       {
         "icon": "https://i.ibb.co/4F7Y1G3/motorsur.jpg",
