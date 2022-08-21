@@ -3,6 +3,81 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/ray_un_heroe_samuray_2022.jpg",
+          "name": "Un héroe samurái: La leyenda de Hank (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIJ5IHptA10RIo3hGPkexiIoSFTassM3KXY/KXFkGjFgBMX0yAO3ESnIeU6YTdofOE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/6r2_turno_del_dia_2022.jpg",
+          "name": "Turno de día (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLamqR15Jq62QJtcawL1fxvR5rNqTNukOosgnHTrXjgDziKYXHPAUEBU2OBE1C2Qqg="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/tu_novioes_mio_2022.jpg",
+          "name": "Tu Novio es Mío (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIMKzj0TOZaFcuoPVlsJu6YJ18zNnfBI5XbTTuaWv1H7woqD6jjijD4AdBRDNX6zJI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/lr6_temporada-debodas_2022.jpg",
+          "name": "Temporada de bodas (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLbTH+of99BfVobuQkF1vDlQ08PuqZceFcU4DNhXxCyM0XwR3gSXPlfKeCNI/uYrh8L5nh8LGQLYfN/KpO4QUrp"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/aoj_office_invasion_2022.jpg",
+          "name": "Invasión en la oficina (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJoDB9Q5ayu/4dJglfEXVFE4UQqWJL15SLWWq2v1ux8XoPpNuuCLf5wHuJGzG+kdKk="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/rw3_luck_2022.jpg",
+          "name": "Luck (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLHnQ0VnLrFrYh10g51NvqrT5hmonCTdWV3gC/mSZJ33LPEnFZ9FOVvnxOo0l4sdBE="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/5581_los%20primeros_pasos_grot.jpg",
+          "name": "Yo soy Groot: Los primeros pasos de Groot (C) (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIyQGzvoYHh1lUP0EZDfduIdrSJExW+XUwg+5VzQkRBUMqdn4SAJveqruxMSHshSbVomul2THyQECVcc8noxXy6"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/ow0_la_verdadera_histoia_el_robo_del_siglo_2022.jpg",
+          "name": "Los ladrones: la verdadera historia del robo del siglo (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKjPQv6pv16ombhEjOULFo/Z+30VkDOVqTATm7E9nOUwqAQeasCe0i5qTzCJubD5vVnrGDtxBQbBoF9IKuQL3OelFJZKWkskcdF5RiNHSBe7g=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/xn2_gonul_2022.jpg",
+          "name": "La canción del corazón (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLkVi9qnkhc6OB1SSD46zRibtegoyDjjKrF5r41+OaQYyYCtdVxOMNOeNs/KDqxvP8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elultimosuperviviente.jpg",
+          "name": "Pandemia: La guerra final (2021)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKEBvgLnCwF0qIqd54DLccwtw4NTwQbSbGHw0KxkB2gSnVcBjAiuRNYMPwNzeECr/i50sZ9lZnVkDkXm98WntHy"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/5599_el-chiquiti_2022.jpg",
+          "name": "El chiquitín (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKalCPktHeBO1b8RBrl16VuWPtwEdlUSHl37r+OhEetXE9b4uxVKlUNmLZC+UAORSw="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/el-buen-vecino_-NrI69Q.png",
+          "name": "El buen vecino (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIpAIh2ae1FYjf4l75x6UWJOlpjHs9+QFMUi+hGbyH28Fdn7ghPDDSrTDdFFL2zyzA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/91w_debajo_de_la_superficie_2022.jpg",
+          "name": "Debajo de la superficie (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJP13Ls4mQtQCI8e8Z1u1pxhOX1Y6UsgXvpnYbo3UgJSWB0OuZLCSfyZUSSEx64iCqTF42AAe8lGrahh6NDLCdS"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/rlg_crecer_apesta_2022.jpg",
+          "name": "Crecer Apesta (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVLa3nPG36qXfCI4076JHlMeiX9CPw0Bc1tUVkYMvp05nUQiuim62WsemOT35M29XYA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/164-brian_y_charles_2022.jpg",
+          "name": "Brian y Carlos (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIxYO6FMvxf0wXDzbZxfYBEznjgkc+aP3wDuo3VlZ5HwH0+5awAACTYDVxvoeqD2Zc="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/km5_x_2022.jpg",
           "name": "X (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKFhq63J5wSpaHDa27iPoP9XHlwVgiXHH2qNAMGQV6XDWT4gHYYQeyg5rEpuxDF7q0="
