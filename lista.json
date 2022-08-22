@@ -3574,6 +3574,148 @@
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/upoad.jpeg",
+          "name": "Subir (2020)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBddgZ41vYRIlUAGq/S+BsUjquGvL6zY5ZwzCxXtNw3U8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBonSLN1zXwC494uhMEkZdWKDIwqbGotYuBLXjgkV/lTI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBi5eNEBaJa+JsNJi21pdgqz4VkkDqdYrdkkgVvH0iLuY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBkLggb6fyK3pQ6XXemh4GTSjCn45xqQQ+1SXU2oHxCd8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBTwzSxof76EFiOtMEyCADXLEXjpeL9Tv7aOUPns0uMNo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBYNaBDgAnP16mm2bhIAieTenSdlbLim+YKp3ppBvX+SY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBXHnSWQRctfZGnra727AOSwkujMm2QPdBg6CbA4bz9uA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBSpSP2tL0SQtXQdyGVkt2rlY0qWcuWmBtJe+dF8R2ovw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBDhnXr58z1Mo51S98I1BRlfgcfdMppxnYiyetPjFbfB4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBVtdGNIpeuEaeTGWvyjYfnw5czF8pnFsKzQpDhI1qU3o=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "<<<< TEMPORADA 2 >>>>",
+              "uri": "",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBnhNpIKL41APIHPjAbh/P67HS4/YeFh1i/Orf4pGxG8I=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBxgWE5Wbrdr1oBEDV8MbECjWcbQFaOwRag2MdLwfzNb0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 13",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBrjQEMMSj8zcEqjgjmBhxzzGdAQIrk4nbUyaDaFQOzlU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 14",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBgxFWCZJdXc2ZKwwXNwbKMXLnh0CcdcX0IYb/oPCAHvA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 15",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBiss5ooA/I4Gad/o8ms/XIayQqQZ3smFVYvA2HTF9IMA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 16",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrBbtRBjMvOR0fyeAYqsXk8Mw1mC6kmtFe31azyYPVV3cA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 17",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVKC7/CRad+PK870HDWrumrB3TzQYeiyV6GKj2VnW0tMvIcYG2iChRsMDatELVunSmQ=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/uncoupled2022.jpg",
+          "name": "Desparejado (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D69AFkw1zT2RX2h0I4CmXOBo5cGdTI8z5uS/3s8f/0BjZ",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D64S4stc97hSsL7sWiz0+JhYzJrCYDCvhP7hZvu3BBkmX",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D65XRtKSB5pRfBus8R3Okk/+s1ljcPVCdo1dCaanSW6dw",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D64gi/mCaqpXsfSOEO6QjKnlH3n+eWynbgveef4KqMjIH",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D6xr9Sz9upiiCes7ATHJDTr5etXfCOcBvnUleu8HFr2Q9",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D69aCCbr+dQFBgavasjTcpoiCRh28EHT/9OD0mx5eHWRt",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D6+2qhn3egNv3VdmC/AabbtA8bPUdqg+HpuXHJ+ZUftfR",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVL1H5agYnFB7RO7ObVWhBsGMlCPkoeJLsZXbJyAEJ1D6xAwW4UQE7wvrHIx+l8vKu5Fj8iSdSQ3MGT21wpETX3A",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/amoresquenganan.jpg",
           "name": "Amores Que Engañan (2021)",
           "temporada": [
