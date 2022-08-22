@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/hermanastrasiniestra2022.jpg",
+          "name": "Hermanastra Siniestra (2022)",
+          "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVJxBs6fuCMbuFAGvqPt51HCxIlcTIIPQw6RIHBAMB4EMGFk1O1BikPMA0GdiEzLakwEeJICW54lEFR1FzrNiCwX"
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/silasparedespudieranhablar2022.jpg",
           "name": "Si Las Paredes Pudieran Hablar (2022)",
           "uri":  "jYskNJejvIEAd8yZ50GUHOFVgFsWNujFMWH4FQjnSVIPWis1+5xc1+Vlhl4OH6PF4lHXvaGCy/mnx4+GfD2tYJ+L63x/1Xs0MrLUELvdshzQ6FzXCK8t6Xfw+SSSDCx8"
