@@ -3766,10 +3766,66 @@
         }
       ]
     },
-{
+    {
       "name": "SERIES",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/eltreninfinitose2019.jpg",
+          "name": "El Tren Infinito (2019)",
+          "temporada": [
+            {
+              "name": "El Vagón De La Playa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBmXXKY9eQkm//ki4cfHldNQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Los Corgi",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBj/0t1lph/8+U5bjfb7oOkY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Cristal",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBrUNOzULAovji9tw6UvNX+M=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De La Gata",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBuy7Cs33y/fIk0UeTYt3NOA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Verde",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBvoVvqnaAUGdoYPqCTqMfs0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Cine",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBkT4alLg18kXNIWYMTO+KiQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Los Patos Bizcos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBpPG2a2iTBjCTPHLVk+4JOY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Pasado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBjwyoSWvWRpgaIUTyAZevT8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Pastel De Bodas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBoKNsvCbqVjSWG/QPuxciI8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De La Colina",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBu0uL4qu05wk6nnG7gvJSDUtC9pzK8vK7LSX1GtsHV5V",
+              "drm_license_url": ""
+            }
+          ]
+         },
+          {
           "icon": "http://static.dplay.tech:8080/imagenes/upoad.jpeg",
           "name": "Subir (2020)",
           "temporada": [
