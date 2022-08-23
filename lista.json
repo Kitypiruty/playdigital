@@ -3271,6 +3271,56 @@
     "name": "ENTRETENIMIENTO 24/7",
     "lista": [
       {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Accion 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+dushD8F91EWODHZQ8pfobh8caF1ZxpV1VfDr9/ExDuNA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Marvel 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg7C9SDWSp7rfOsXp6Ql4RR9Wucmt3ShjTSNRVl7lOblL"
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Comedia 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+fwIXckdP8OJgLaEvoLDTo9lz4grzMB1SvNNGqaAOOOOw=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Accion Saga 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+f04FEPK3TwRGETrXiRdgActV11NjEFPYqAq4Gx1sR3LA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Ciencia Ficcion 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+eN15P0cGMN69calJzy/PLfitkGGwANwTldi/ZoUEb8JQ=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Infantil 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cJv1mJG2luHoNsz/zmQXC/j+MxqW6v9YXu7IFaq4bP+A=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Infantil Saga 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+clhj+gYJE9l3Qmq7TtNTi+SkM8Co+VxOiD0J7iBfqnKA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Romance 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cc1p1xm52VXuOK2CaHvWGb0TvNLAaYAtAchSL2pfH/nA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Terror 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+d3Nyp7fwZFAQ2nvus7XR67w8HGbkaq1EQC6oDZi3DzsQ=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Zombi 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cRbklRSszmMg5htX5Mmt6/RZnq2xdTAJGBlSsZa/D+wQ=="
+      },
+      {
         "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
         "name": "Caso cerrado 24/7",
         "uri": "zPjN/mC4e9usT7mbOj5yg6OW1YKvzF3QuODadB6GxXKqsNLww+u4AjEtFMycx/c/Xd+IgVEuQEpx5GIu0FUe7A=="
@@ -3289,56 +3339,6 @@
         "icon": "http://www.cine.com/media/series/2452.jpg",
         "name": "Game of Thrones 24/7",
         "uri": "zPjN/mC4e9usT7mbOj5yg6NUpFJbDaYxX5HCHTa2LVWgoAD7MRQByZoFd0BBQSYC3hJn97r8BchJiTIep6CPjw=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Accion 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+dushD8F91EWODHZQ8pfobh8caF1ZxpV1VfDr9/ExDuNA=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Marvel 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg7C9SDWSp7rfOsXp6Ql4RR9Wucmt3ShjTSNRVl7lOblL"
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Comedia 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+fwIXckdP8OJgLaEvoLDTo9lz4grzMB1SvNNGqaAOOOOw=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Accion Saga 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+f04FEPK3TwRGETrXiRdgActV11NjEFPYqAq4Gx1sR3LA=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Ciencia Ficcion 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+eN15P0cGMN69calJzy/PLfitkGGwANwTldi/ZoUEb8JQ=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Infantil 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cJv1mJG2luHoNsz/zmQXC/j+MxqW6v9YXu7IFaq4bP+A=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Infantil Saga 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+clhj+gYJE9l3Qmq7TtNTi+SkM8Co+VxOiD0J7iBfqnKA=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Romance 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cc1p1xm52VXuOK2CaHvWGb0TvNLAaYAtAchSL2pfH/nA=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Terror 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+d3Nyp7fwZFAQ2nvus7XR67w8HGbkaq1EQC6oDZi3DzsQ=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Cine Zombi 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cRbklRSszmMg5htX5Mmt6/RZnq2xdTAJGBlSsZa/D+wQ=="
       }
      ]
     },
