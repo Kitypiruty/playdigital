@@ -2993,7 +2993,7 @@
       ]
     },
     {
-    "name": "SERIES 24/7",
+    "name": "SERIES ANIMADAS 24/7",
     "lista": [
       {
         "icon": "http://x.playerlatino.live/alf.png",
@@ -3029,11 +3029,6 @@
         "icon": "http://x.playerlatino.live/chespirito.jpg",
         "name": "Chespirito 24/7",
         "uri": "zPjN/mC4e9usT7mbOj5yg+fdJt/SW8e9hE7d2PpYAfsOf2LZf8EGmvz+euAIY1GlXN7cCwMQZFhd+h/tus1J/A=="
-      },
-      {
-        "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
-        "name": "Caso cerrado 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6OW1YKvzF3QuODadB6GxXKqsNLww+u4AjEtFMycx/c/Xd+IgVEuQEpx5GIu0FUe7A=="
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/duckula247.jpg",
@@ -3101,11 +3096,6 @@
         "uri": "zPjN/mC4e9usT7mbOj5yg8yHHcfQ7usCsGjRPxI3jV3SW+Dz6N0N5hVMqHmx52kWgdBJutsRnXpx4JPxWNrg3Q=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/csimiami.png",
-        "name": "CSI: Miami 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5ygy2lI+CIG5FIIOJfCVH0xjEIHxJajjnLWK4Q1cgw3tZrgVCrJMeexI3LfgaAkKOd0Q=="
-      },
-      {
         "icon": "http://x.playerlatino.live/dragonball.png",
         "name": "Dragon Ball 24/7",
         "uri": "zPjN/mC4e9usT7mbOj5yg1HurUF2CBTHmLYmXDwh/Y5peV5GNpaQ8DBk4GNm790Sr05fppuq2iVCPWAwz79MNw=="
@@ -3139,11 +3129,6 @@
         "icon": "http://x.playerlatino.live/elprincipedelrap.png",
         "name": "El Principel del Rap 24/7",
         "uri": "zPjN/mC4e9usT7mbOj5yg8vvZafje5KdYvyT8to3/C13WKYkx+lI7HO+stFr9jE3wQS3Jb6Mw5CEMlon5mCtNg=="
-      },
-      {
-        "icon": "http://www.cine.com/media/series/2452.jpg",
-        "name": "Game of Thrones 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6NUpFJbDaYxX5HCHTa2LVWgoAD7MRQByZoFd0BBQSYC3hJn97r8BchJiTIep6CPjw=="
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/garfield247.png",
@@ -3241,11 +3226,6 @@
         "uri": "zPjN/mC4e9usT7mbOj5yg0ENK8PrQ81zeel1ItYDVO8uPYkeu/pZo5qVGTtXVBX4tf2OP5NwEIsXtzkMGmt4xQ=="
       },
       {
-        "icon": "https://www.formulatv.com/images/series/posters/300/386/dest_3.jpg",
-        "name": "The Walking Dead 24/7",
-        "uri": "zPjN/mC4e9usT7mbOj5yg7mo2Cxuxwfy0MY+7gH2z1ytGHwVf/Poy2bXhqO1m+Z0bmr7QQnFaqp6DamBetat2Q=="
-      },
-      {
         "icon": "https://aurora-israel.co.il/wp-content/uploads/2021/07/TomandJerryTitleCardc.jpg",
         "name": "Tom y Jerry 24/7",
         "uri": "zPjN/mC4e9usT7mbOj5yg2GRDgNPSPwan9uuUFDiDG2txJu459LKlm8iQeqV1PQPdKtvi2JFC40XA5EzeIRp6A=="
@@ -3264,6 +3244,186 @@
         "icon": "https://api.argentinatv.live/logos/Yugioh.png",
         "name": "Yu-Gi-Oh! 24/7",
         "uri": "zPjN/mC4e9usT7mbOj5yg6C7oAl6PTKY3FppSbkE4+6k32bXwgCL3cOJgF+7BK99"
+      }
+    ]
+    },
+    {
+    "name": "ENTRETENIMIENTO 24/7",
+    "lista": [
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
+        "name": "Caso cerrado 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6OW1YKvzF3QuODadB6GxXKqsNLww+u4AjEtFMycx/c/Xd+IgVEuQEpx5GIu0FUe7A=="
+      },
+      {
+        "icon": "https://www.formulatv.com/images/series/posters/300/386/dest_3.jpg",
+        "name": "The Walking Dead 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg7mo2Cxuxwfy0MY+7gH2z1ytGHwVf/Poy2bXhqO1m+Z0bmr7QQnFaqp6DamBetat2Q=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/csimiami.png",
+        "name": "CSI: Miami 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5ygy2lI+CIG5FIIOJfCVH0xjEIHxJajjnLWK4Q1cgw3tZrgVCrJMeexI3LfgaAkKOd0Q=="
+      },
+      {
+        "icon": "http://www.cine.com/media/series/2452.jpg",
+        "name": "Game of Thrones 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6NUpFJbDaYxX5HCHTa2LVWgoAD7MRQByZoFd0BBQSYC3hJn97r8BchJiTIep6CPjw=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Accion 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6NUpFJbDaYxX5HCHTa2LVWgoAD7MRQByZoFd0BBQSYC3hJn97r8BchJiTIep6CPjw=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Marvel 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg7C9SDWSp7rfOsXp6Ql4RR9Wucmt3ShjTSNRVl7lOblL"
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Comedia 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+fwIXckdP8OJgLaEvoLDTo9lz4grzMB1SvNNGqaAOOOOw=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Accion Saga 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+f04FEPK3TwRGETrXiRdgActV11NjEFPYqAq4Gx1sR3LA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Ciencia Ficcion 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+eN15P0cGMN69calJzy/PLfitkGGwANwTldi/ZoUEb8JQ=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Infantil 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cJv1mJG2luHoNsz/zmQXC/j+MxqW6v9YXu7IFaq4bP+A=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Infantil Saga 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+clhj+gYJE9l3Qmq7TtNTi+SkM8Co+VxOiD0J7iBfqnKA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Romance 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cc1p1xm52VXuOK2CaHvWGb0TvNLAaYAtAchSL2pfH/nA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Terror 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+d3Nyp7fwZFAQ2nvus7XR67w8HGbkaq1EQC6oDZi3DzsQ=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Cine Zombi 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cRbklRSszmMg5htX5Mmt6/RZnq2xdTAJGBlSsZa/D+wQ=="
+      }, 
+    ]
+    },
+    {
+    "name": "CINE 24/7",
+    "lista": [
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 1 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURm0BHwZ2XCIruMwXPATL3d"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 2 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUSj3P+eji1vWwyZDvMPWwk9"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 3 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURQWCQE1r8LJ4IuqaImi/nW"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 4 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUTI5tkFRYy/rKLSm7BplmX6"
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "PPV 5 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURZ++Pci4WD1EXqLsCIBpuG"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 6 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURZzQLKqTaHCr8Wrgt05td1"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 7 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURqaRMx8o4Dr2bccXQrg37x"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 8 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURNM1MfhhNX1o+9M8jB2Txs"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 9 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUTD1D+8wF0NLNvZOUnDiFAL"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 10 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURdqbVGHHdGndELJLwz/lji"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 11 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUSIhiwcWAFQixRZcZrejp3m"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 12 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURvL5AOhP0cDJp5BpEwt8pv"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 13 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURiIP1th0Q5XR82OuFxxc7S"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 14 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUS+mf8A9CQbI4TRom347Bva"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 15 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUTGf1G/Cua1KsGcZNhj3Rij"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 16 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUSz6euqROH2aW/mAhvh1oQV"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 17 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURGJbIf8en9B03yZr+WWka8"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 18 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJURoM9G01nUDgPA3tfMDhJFi"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 19 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUQwmLUopl3EnwVkude5/15l"
+      },
+      {
+        "icon": "https://x.playerlatino.live/ppv.png",
+        "name": "PPV 20 24/7",
+        "uri": "zPjN/mC4e9usT7mbOj5yg8mVCyMi50Bd8Ch6goXxJUS5lpI275RHQVQlJO1qM1XM"
       }
     ]
     },
