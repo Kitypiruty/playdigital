@@ -3272,18 +3272,13 @@
       },
       {
         "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Marvel",
-        "uri": "zPjN/mC4e9usT7mbOj5yg7C9SDWSp7rfOsXp6Ql4RR9Wucmt3ShjTSNRVl7lOblL"
+        "name": "Accion Saga",
+        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+f04FEPK3TwRGETrXiRdgActV11NjEFPYqAq4Gx1sR3LA=="
       },
       {
         "icon": "http://x.playerlatino.live/cine247.png",
         "name": "Comedia",
         "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+fwIXckdP8OJgLaEvoLDTo9lz4grzMB1SvNNGqaAOOOOw=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/cine247.png",
-        "name": "Accion Saga",
-        "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+f04FEPK3TwRGETrXiRdgActV11NjEFPYqAq4Gx1sR3LA=="
       },
       {
         "icon": "http://x.playerlatino.live/cine247.png",
@@ -3314,6 +3309,11 @@
         "icon": "http://x.playerlatino.live/cine247.png",
         "name": "Cine Zombi",
         "uri": "zPjN/mC4e9usT7mbOj5yg6ZPbUVNpjx4t/0nEKpqH+cRbklRSszmMg5htX5Mmt6/RZnq2xdTAJGBlSsZa/D+wQ=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/cine247.png",
+        "name": "Marvel",
+        "uri": "zPjN/mC4e9usT7mbOj5yg7C9SDWSp7rfOsXp6Ql4RR9Wucmt3ShjTSNRVl7lOblL"
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
