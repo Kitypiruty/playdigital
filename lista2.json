@@ -1556,7 +1556,7 @@
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZxuGRPcAEJVqzifPa/jUPy"
         },
         {
-          "icon": "https://static.flow.com.ar/images/269/CH_LOGO/350/500/0/0/14814924073986.png",
+          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/64096a92-3433-4ace-8a41-0b5f4b70b081.png",
           "name": "CRONICA HD",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtPTBx8jEVlskSpBZAACv/w5hMc7nVzi5pW3dvI9fxFKET/BxsknBfv62h0Mnanz79a2LfKFsawU5USM5zrld3/",
           "drm_scheme": "clearkey",
@@ -3270,7 +3270,7 @@
         "name": "Candy candy 24/7",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2A+MxOMxUjHhsDGrsW1oKuY2pNHLTMTV88BRGeJ9ZqIw=="
       }
-    ]
+      ]
       },
       {
         "name": "ENTRETENIMIENTO 24/7",
@@ -3774,10 +3774,21 @@
         }
       ]
     },
-{
+    {
       "name": "SERIES",
       "lista": [
-        {
+           {
+          "icon": "http://static.dplay.tech:8080/imagenes/lacasadeldragonse.jpg",
+          "name": "La casa del dragón (2022)",
+          "temporada": [
+            {
+              "name": "Los herederos del Dragón",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBmXXKY9eQkm//ki4cfHldNQ=",
+              "drm_license_url": ""
+            }
+          ]
+          },
+          {
           "icon": "http://static.dplay.tech:8080/imagenes/upoad.jpeg",
           "name": "Subir (2020)",
           "temporada": [
@@ -5378,6 +5389,62 @@
             {
               "name": "EP. 10",
               "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCtkcOMnJz7Ef5WkhA81euHGVkultg261bmOBqa2LIokZ0=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/eltreninfinitose2019.jpg",
+          "name": "El Tren Infinito (2019)",
+          "temporada": [
+            {
+              "name": "El Vagón De La Playa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBmXXKY9eQkm//ki4cfHldNQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Los Corgi",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBj/0t1lph/8+U5bjfb7oOkY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Cristal",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBrUNOzULAovji9tw6UvNX+M=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De La Gata",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBuy7Cs33y/fIk0UeTYt3NOA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Verde",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBvoVvqnaAUGdoYPqCTqMfs0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Cine",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBkT4alLg18kXNIWYMTO+KiQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Los Patos Bizcos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBpPG2a2iTBjCTPHLVk+4JOY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Pasado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBjwyoSWvWRpgaIUTyAZevT8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Pastel De Bodas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBoKNsvCbqVjSWG/QPuxciI8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De La Colina",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBu0uL4qu05wk6nnG7gvJSDUtC9pzK8vK7LSX1GtsHV5V",
               "drm_license_url": ""
             }
           ]
