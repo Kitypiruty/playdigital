@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/parterapeligrosa2021.jpg",
+          "name": "Partera Peligrosa (2021)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKLyibt1k4CjfAKoQW9UPR5gWRNz2i6MjdcnCvMTff6I3UaMjWYQn+kh1FNTruAlg="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/acosadaporunprincipe2022.jpg",
           "name": "Acosada Por Un Principe (2022)",
           "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDCyWxSn5rnplzGAxaLAm5J1a5zJ+4h6FzMQK4FHsXIvE1UOPJD+Rne3+kQ0aP6xtTmdm7gqVc1gxXAtreiAovq"
