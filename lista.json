@@ -3777,6 +3777,17 @@
     {
       "name": "SERIES",
       "lista": [
+           {
+          "icon": "http://static.dplay.tech:8080/imagenes/lacasadeldragonse.jpg",
+          "name": "La casa del dragón (2022)",
+          "temporada": [
+            {
+              "name": "Los herederos del Dragón",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBmXXKY9eQkm//ki4cfHldNQ=",
+              "drm_license_url": ""
+            }
+          ]
+          },
           {
           "icon": "http://static.dplay.tech:8080/imagenes/upoad.jpeg",
           "name": "Subir (2020)",
