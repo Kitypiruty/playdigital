@@ -1289,7 +1289,262 @@
       }
     ]
   },
-    {
+  {
+    "name": "MUSICA",
+    "samples": [
+     {
+        "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
+        "name": "QUIERO TV",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xpUS4FZjAN1jufeG7826GAapRvPEizRvIwx0q6N8U1K5qo0LBaXQ3sBhqCty69BVsm3rpeWfaWw8pVGBb7LgD4",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJdshstYYc+Bk8+0297o6W0cMuVgl32oto0HlF0X4kMnJQ=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/699/CH_LOGO/350/500/0/0/1116039107115.png",
+        "name": "HTV",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yvRKugAazsEN/pL1PYVXzVCp1vT5uqEo+XEy6xD7SwsZB1E6LwEAq//+kEQOOUt/s=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfJvKaxJp6PDD0uYOkjRcyj9CLC2qp/SOoAlQwxQrTOkg=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/707/CH_LOGO/350/500/0/0/14664562073858.png",
+        "name": "MTV",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zXG7Rn9z89G74SttoHpK0/7YO4j/V2+SzcJfiPIYPFp6o/bM1DoskRrD9SykR70ns=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJewT/o4mEU6ui9DHNIKXOZB5HWvwqES7NXgmM2IPnsaiQ=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/1022/CH_LOGO/350/500/0/0/3867624707727.png",
+        "name": "MTV HITS",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4y6D1gpnyv8zKMpgvWB/RcaP905yM583+uGtBWbEZjeeKxyM+zdh2zSJEGiuuUt5nfYLKV5M7JdUMakp3CMEbRk",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfc8SmWNc8WqHbtI7URytL78FXLjxhmoMj/kQHuZW34qw=="
+      },
+      {
+        "icon": "http://static.dplay.tech:8080/imagenes/MTV_00s_remaster.png",
+        "name": "MTV 00s",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OO7wH88Hjyht64V/srSwoG3WkC0ykCCU5B5kXL6WF93SrWQxk04Fed0JgF/FCI/yflIcwS1Tptt4idI1mFWXc0E=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJdWkS6gHtJ7XQhsZLGJH5pW0Zk0wVT8y7zaRx1CSkiQxQ=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/25297928074330.png",
+        "name": "VORTERIX",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z3GjJCzSOqLw0qs3h/HsQrwJl39KjG3ojTbDevE1tRMvf+DSGHg3a3qfpuNuds0ViGY8IawCtuDcmHKnHlRF3k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJcMrPGotMe0jmXnIjXL/gz1MxvWbi0YxJ/7y4SqudTHag=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/674/CH_LOGO/350/500/0/0/3383758507230.png",
+        "name": "CM",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yQ/uDMFAQiNa2e7K0CQIjlZpjLrCUlKI7DYEjUKRWM0NiYyUoSVu4in5GADrGaG+I=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJef/TNIRiUIsfnwPdD1wTie6A+JNb7R3ulBhytX7kUPJw=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/708/CH_LOGO/350/500/0/0/987873140728.png",
+        "name": "MUCH MUSIC",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wp3qSuQ2ScmT9GCGdJSoOlVUfQ2v6i2sS3I9djuOLNIlLSfQsU5WpmtyHqvD08Bagd5lsdw/onGK68FQC/HKeR",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJcdnj10z5qbVF78yHHdsErO/6HIW3428YJmlzp0KgQB0A=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7277/CH_LOGO/350/500/0/0/75476816073439.png",
+        "name": "ALLEGRO",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z6bokQp0z5D6gZowUFbTVJPLTdzDaDPN3OdBJPPUqNly1llOrxGpA3s2LabbTv29s0EoE2UPwJsrW3aT92VHXf",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfRcylfUOsBYvIQpIlMphO4V/QI/ydFWjTxWIp0+bxMJA=="
+      },
+      {
+        "icon": "https://aermultinet.com/iptv/logos/retrohit.png",
+        "name": "RETRO HIT 1027 FM",
+        "uri": "qfG1qjeFfPZKWDs9eMxwk7bJKzTr046V1pERZRE9kABi7eYkAMKkmqq4MpzzYZMEDLd+CTPzxPcE\noBH965X5Eg==\n"
+      },
+      {
+        "icon": "https://aermultinet.com/iptv/logos/radioformosa.jpg",
+        "name": "RADIO FORMOSA 88.1",
+        "uri": "b9u4klyilWWIJt4HQkXwC9LOnYJbyjKsftYlNnA1WFcsJ3BTiTtK4h0la0nBaaYv1SdYQWgCHVNH\nO+XguWs0a4m7gAV99n7uy2OCWJTJ6lE=\n"
+      },
+      {
+        "icon": "https://aermultinet.com/iptv/logos/lasuperdiscoteca.png",
+        "name": "LA SUPER DISCOTECA TV",
+        "uri": "qge7AUjXpqwCcA0nOFO97UdDFlYZR6prnq11/v7bBAhqULx48aNlL2qk0nx+l0XkvkpAp3nc8M0n\ntOsaL+CpQEPazG8zxsSKe+dYjHln/9o=\n"
+      }
+    ]
+  },
+  {
+    "name": "TELEVISION INTERNACIONAL",
+    "samples": [
+      {
+        "icon": "https://static.flow.com.ar/images/676/CH_LOGO/350/500/0/0/566991570762.png",
+        "name": "CNN EN ESPAÑOL",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wsQwXhGl5oaprlV3jHhO8+FewvCIYxtdZhsiTEaQvE/tCj2s6y6DK34ft+kU8m28h0xMjA68zSZMVnmSfLsjy3",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJe0qhU+EfkS4Og/NRePNmtWyadVYELi7c73Fylt5UDuXQ=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/666/CH_LOGO/350/500/0/0/5518044607730.png",
+        "name": "BLOOMBERG",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wpvhGRI+fi6b8DydTjoiA8aAvdUkwIHsQ7Tk3jak+n7oTeH/uTD/ztBvwA/rI3s7F7ct4VFbqtNUyvvPXXmAJF",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJe3JcS/uEVPhdPaQqae7O5af3PkM0538qB7E5WBubYlzQ=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/716/CH_LOGO/350/500/0/0/577119940729.png",
+        "name": "RAI ITALIA",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yyGKF1TPBu69I0OEZJAMIJf5wN8Wprj4KeTg7nOLZVtqhkGVPydzBCK/H2U5LwETk=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfK2yFzAUlKqk1LT5EbdYJKEOtyowJOj3eut/y5NHTLNg=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
+        "name": "TV CHILE",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xQXYJaNRSw43143i2GL/yZuRoHavMBJRNJV1uVV4eY1a8DZO0EU+6iCLs92IzjIAgBw7R3DeDwseIM/8fNOL+1",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeV4715NNsil7VdDU7cBm0dArJGom2h4noqVdExp8ZIGA=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/724/CH_LOGO/350/500/0/0/2237715507388.png",
+        "name": "TELESUR",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4weZoGd6RN41sbpIEffSw25pmoZpj0v4WKl2+oNxspfG2jC3NwuNIRwawTW0Vtcuqo=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeZi/MQ1E2ld8Ec625fqUaz+Nlw3NTYLiufu4g4lfU9Iw=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/677/CH_LOGO/350/500/0/0/920134780713.png",
+        "name": "CNN INTERNACIONAL",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xE005ZkGVOwexuwSCVW+AKbM7hExyYvU/kLtZk4xALuuPOvBo4iMNI/FuHw8M5zD5tdUdYxiT7GwnJVdrD9YfTSXZPBFvyNXxxvVBI5myFwA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfBreOnV+UD/bfsA4wYTpDP06FHP8cfoPZm20ejMuL9lCNyy7TgDW2232CveAm9Kc0="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/864/CH_LOGO/350/500/0/0/312421890780.png",
+        "name": "BBC NEWS",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zwmQz4VjwK6e5nWKaomInjVX3iGFWKLzc8RRnVvD5XTHDm2hrhnOnjwH/cb/lEZXAkxQUSn3c1eP2SitaOTc+N",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJdRajWkK0IO7030kIWX/f59T1ncnhh6ElLkEa4ZKHkjrQ=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/688/CH_LOGO/350/500/0/0/6473888207962.png",
+        "name": "EURO NEWS",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yqj9AFjtme0wYIe1j8cmRUrtnoDfnHdLEpTS0T3lNPfMRssNSfphtnxziWmgalt5FeXKwSaPLp4JM9X3/2hwJE",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiFutG5l6hYB3/GGwIZ2zbMzd7779j0tI/HRY2e2ZCHqcA=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/683/CH_LOGO/350/500/0/0/37933898072067.png",
+        "name": "DW",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zNfyh4dmKUmLYCe1+ld+0KJPQhzGEbihJt9nf2gfBeMIH3iWYF9c9SK9taEGTHPlA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiG2ym3EntDl7VaKIS+1yCK7"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/728/CH_LOGO/350/500/0/0/834899000759.png",
+        "name": "TV ESPAÑA",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4w4/E/0+erqQ+RWBtNxdWTaEiU+VwcLNfViOzSzCOkq8YlJdzcTuLKVbtxRSBHD4fi6dF8cguEeJr7XGd/OPdnC",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJebVgOoJqSNegnuX/c0l1QDN9Z9hKouTTibhik2ZEmckg=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/730/CH_LOGO/350/500/0/0/573961450738.png",
+        "name": "TV5MONDE AMERIQUE LATINE",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xmFTEV9XU/PD4KkxpHQRznMPFm5MPUazT4iB1n3BR8E5UIDULx1YUz6oSXRfcTwxKDThpNcKRNauOOK3/FMbqA",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJcIbE3BxHsptoaCmxIVYx8SKAMhs4vzaxE3Coa6vcIr9g=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/962/CH_LOGO/350/500/0/0/116715800761.png",
+        "name": "ANTENA 3",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wqDdqxupDz1As+enb53DUGVVn50PhcrAmYI8rKu4VQbfaYk5rXEa+sthyLMozwv+zY5xSpYnGy4vov1NM6Mnbz",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJfhDysM3/tHRhMlei1gDM7vNrMmmiY9UFw9pzopSQZ6mw=="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lO376Rxzpf9ihmIm5VTis9KF29_n8ADeEw&usqp=CAU",
+        "name": "Unicable",
+        "uri": "SC4LhrujCNvzbvzA+BgiYXgjZ2fXpbC3ez91OUlTGcvPbZT3STTCzTdDSYuxCg8VhGqdjyHiymi+9qV88M34QQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06axQt07omDjlGEnSgGaXmpKv"
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7xRgfr2dwQiu_XuX87qvTYrHDTv1UGiLoI_h2CDnTBLQ3QK8d6A3FS3Zpg6PrhF8lg&usqp=CAU",
+        "name": "Tlnovelas mx",
+        "uri": "wBSA6kDTej1G72N4d0yBwd5SWk5kfyIHFUWCsY7YwlxiYyheN+8vaFYqG/qmSabo2Br3I/1s1xi9l+Lg/0ckZg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06axQt07omDjlGEnSgGaXmpKv"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
+        "name": "TELEMUNDO MIAMI",
+        "uri": "C5zbP410ReZmY3DjtWWiKFnQbhq0WHWVS/YQVceW7ig802hPmbhI8qPt3k7TPtv0Ys+hBlRqRAsE9SyG1C7ZBg=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
+        "name": "TELEMUNDO INTERNACIONAL",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wtkrs/xUvV+t4HLxHf0zkBn4iSVVD8Rg236ojvRVyXJ0RZQIbYLA3ICHUMLmpOWumejC+/kAuHcGuvGMNA+Yt2",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeZi/MQ1E2ld8Ec625fqUazgNf/YERgAtA0aAH3hIvQUIKv45saY8eq2uNJflUThoo="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
+        "name": "TELEMUNDO MX",
+        "uri": "GC2/ddPzLVut0fvk2/wB4gt99hk+f8gURoRavd21p+RV+8PSXqrjKWxjtoO2hBf1NJ/lYzli3sExfmuRfBBmuA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06axQt07omDjlGEnSgGaXmpKv"
+      }
+    ]
+  },
+  {
+    "name": "RADIOS",
+    "samples": [
+      {
+        "icon": "https://www.nuevafmhumahuaca.com.ar/img/logo.png",
+        "name": "NUEVA FM 104.1MHZ HUMAHUACA - JUJUY",
+        "uri": "riB9Oq6BhPgPgHTemNoj01zKz9LW9AOSWnrg46Xj6BfLqG9c/IarnrddN8aahBTwiTXsbDPgwNu6\nO7L8hD9VpA==\n"
+      },
+      {
+        "icon": "https://cdn.webrad.io/images/logos/radioarg-com/beach.png",
+        "name": "Radio Beach San Bernardo",
+        "uri": "riB9Oq6BhPgPgHTemNoj01zKz9LW9AOSWnrg46Xj6BfLqG9c/IarnrddN8aahBTwiTXsbDPgwNu6\nO7L8hD9VpA==\n"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/retrohit.jpeg",
+        "name": "RADIO RETROHIT IGUAZU 102.7",
+        "uri": "hTgSbAI89/cR6qMaKhqBq/J9UeIESpKl4CfIKWy2E3NiiM/9xYYWO0NXcfDwudVwL6ykernjcifo\nyw0W3A+24w==\n"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/radiohit.jpeg",
+        "name": "RADIO HIT IGUAZU 102.7",
+        "uri": "hTgSbAI89/cR6qMaKhqBq/J9UeIESpKl4CfIKWy2E3MQpXmno3/+dEMYxmUJmk+A6EJVnV5uIc6o\n5NNKGdnhsw==\n"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/logoatencio.png",
+        "name": "Dj Guillermo Atencio SetLive",
+        "uri": "xovPjRHrrHNVjBM5i+S53Z+QguEDpHKfXYnjFqK1Zq0=\n"
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/radioactivatv.jpeg",
+        "name": "RADIO ACTIVA TV",
+        "uri": "pQQmoB3p43EgmkgG9vkzMT520+Ly/vRF36oVv7SE6+yayj5HEBgUpCQx9y0sJs3P37xjAMuFKMJf\nLmItN1nNGUTmzzMSicQurWQrJ3DCSm4=\n"
+      },
+      {
+        "icon": "https://asahimotors.com/images/nodisponible.png",
+        "name": "RADIO NACIONAL",
+        "uri": "zrB0XPmob4LB18cwyD/zdYNv7xdtmvKQJQxlHaClH+hTvnf8UF4+EK6la6btKRCZ\n"
+      },
+      {
+        "icon": "https://asahimotors.com/images/nodisponible.png",
+        "name": "RADIO DEL PLATA",
+        "uri": "zrB0XPmob4LB18cwyD/zdYNv7xdtmvKQJQxlHaClH+i8PAwyD/OT8EtTo6ioUYbl\n"
+      },
+      {
+        "icon": "https://asahimotors.com/images/nodisponible.png",
+        "name": "RADIO MITRE",
+        "uri": "zrB0XPmob4LB18cwyD/zdYNv7xdtmvKQJQxlHaClH+iw4RBBeoUEERec6uXUdUjB\n"
+      }
+    ]
+  },
+  {
     "name": "PARAGUAY",
     "samples": [
       {
