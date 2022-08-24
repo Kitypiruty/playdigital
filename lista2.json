@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/acosadaporunprincipe2022.jpg",
+          "name": "Acosada Por Un Principe (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDCyWxSn5rnplzGAxaLAm5J1a5zJ+4h6FzMQK4FHsXIvE1UOPJD+Rne3+kQ0aP6xtTmdm7gqVc1gxXAtreiAovq"
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/hermanastrasiniestra2022.jpg",
           "name": "Hermanastra Siniestra (2022)",
           "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp3O9pVRIHKw8gNgkMfRrqFXWSfF6k8odykwdBP2jGifcO6BQa71Ey+TT0fYAtAPqfVzeaIcDcPDLDI74bylg+"
