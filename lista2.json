@@ -5473,6 +5473,62 @@
           ]
         },
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/tiograndpa.jpg",
+          "name": "Tío Grandpa (2016)",
+          "temporada": [
+            {
+              "name": "La Visita Del Doctor",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bz91ga6YahJ9yjQ3cf/fHz8qZmen0GurMdYUkTQDL1xQA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bocado Equivocado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzCCnVeis1sI57R5u7cLzfCAtmoovxBaOdyfj7ACFGzNk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Privación De Ovejas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzO2iwTGPU2LdZRYfW2FADqoW9YO0VgKCQy76K1g/QOeA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gato Sucio",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzkHQq8psL8AfS46cf440NkND04MAeYGa+92S4LIPYad8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Odisea De Tío Grandpa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzzV8A50GpJEej93R9scTNCFg19vVhpcrnwQDfM9KrTG8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Fiesta Sorpresa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bz9Tej7d1p7+3XRjGGKMHqZChntuwkJH2nLGZrpszjIc0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Buenos Días De Noche, Con Tío Grandpa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzhmAC118rsLUoGQxyUpjpYKQTPwh4WskSc3/+eiMlj+w=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nueva Dirección",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bzuv7wJJMgrOn4FkOJZqdG5ik5+e9KtLE8kCABeDkZaTA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Manejo De La Ira",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzC1hriFKTEHS9iDUtVkTm5q1Sr0dA7kYx6MKf6Uj20rs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Pasado De Pizza Steve",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bz2TqKLXOl+0z28awWwlrHCKkfG0Vvf8ve6DAH007QULI=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/hermanodejorel.png",
           "name": "Hermano de Jorel (2020)",
           "temporada": [
