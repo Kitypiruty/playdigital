@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/24e_365_dias_mas_2022.jpg",
+          "name": "365 días más (2021)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp3O9pVRIHKw8gNgkMfRrq5ctgSaLjw7Qqxa7ytJstzUW4cTc3I/tibkGdx4yp8oM="
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/parterapeligrosa2021.jpg",
           "name": "Partera Peligrosa (2021)",
           "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKLyibt1k4CjfAKoQW9UPR5gWRNz2i6MjdcnCvMTff6I3UaMjWYQn+kh1FNTruAlg="
