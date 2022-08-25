@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/59k_dc_la_liga_de_la_justicia_2022.jpg",
+          "name": "DC Liga de Supermascotas (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp3O9pVRIHKw8gNgkMfRrqiyQz+9QXZM2ljYg6hxJStmu/TEWhpu7/ANnZUXjz2TM="
+        },        
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/24e_365_dias_mas_2022.jpg",
           "name": "365 días más (2021)",
           "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp3O9pVRIHKw8gNgkMfRrq5ctgSaLjw7Qqxa7ytJstzUW4cTc3I/tibkGdx4yp8oM="
