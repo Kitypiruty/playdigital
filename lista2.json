@@ -3,6 +3,11 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/3b2_alcarras_2022.jpg",
+          "name": "Alcarràs (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp3O9pVRIHKw8gNgkMfRrqEmOendLrLwRBSAX6o44GdJ+nupOfRGKWLpPWw6WC0bw="
+        },          
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/59k_dc_la_liga_de_la_justicia_2022.jpg",
           "name": "DC Liga de Supermascotas (2022)",
           "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp3O9pVRIHKw8gNgkMfRrqiyQz+9QXZM2ljYg6hxJStmu/TEWhpu7/ANnZUXjz2TM="
