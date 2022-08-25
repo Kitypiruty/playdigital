@@ -5394,6 +5394,62 @@
           ]
         },
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/hermanodejorel.png",
+          "name": "Hermano de Jorel (2020)",
+          "temporada": [
+            {
+              "name": "En Busca Del Edson Perdido",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSPHeZkd7thmiDD2zjbB/e6CCVMHSapWRw+QiZjrFhao1",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Danuza Va A La Batalla",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSIYIrRzqVaqeLs8BY3J280xYaKnCQZr/2NxrxZtidbHB",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Solo Felino",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSGfXiifwV9+TObfbvG/NW7FakeRzQjiqbRsrjpW1pi/z",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Mejor Videoclip De Todos Los Tiempos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSPdZrCgajNp097TfLES6+lWktHcLm+Gjnhr8egW+5zLg",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ladrón De Centro Comercial",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSOV3qmXq1uwMFaOnTWPnhRg4B71YLfHIMFN7/PvGKsna",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Primo De Jorel",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSJfycWsd6hTkd7aV+DTyPWXFDKPm4GEeZuiYJ9jk5BH4",
+              "drm_license_url": ""
+            },
+            {
+              "name": "No Le Digas No A Mi Sueño",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSDIm7MzJ4XvkchOQnLFYfnI7x+fZfesRqnqHJLO0WVA9",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Tónico Mendoza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSElTAUpW/DAPrPiJ8+mx3OMQmDrZ/wfut407lfseOwks",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Niño Herido",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSJUB+K+keHLUSIvBazWGEDLl1oW8jIq72QzolR8SkHAN",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Juegos Shostners",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSO0jGq58vV5VIm3N54HDmzzvGOziAhX+XAj5sScmIgqW",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/eltreninfinitose2019.jpg",
           "name": "El Tren Infinito (2019)",
           "temporada": [
