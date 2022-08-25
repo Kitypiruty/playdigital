@@ -3,6 +3,71 @@
       "name": "PELICULAS",
       "lista": [
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/vengance_2022.jpg",
+          "name": "Venganza (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAaSHogPIZnN7n+wLCmzlaMbxD9yerWTKnDbMEo/BDGHNIvxxaHZVbyi4V/SVx+fUo="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/rrr_2022.jpg",
+          "name": "RRR (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCmEI53QFZAVveDQ/gcN+ZJJyABND7HHfLD6z1tNGTWfDubej1SQCrUzE9viGY6uA0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/qq1_royalteen_2022.jpg",
+          "name": "Royalteen: el heredero (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdD47Js2bYyb02iTign6OlRAQw4od4a+2FHCVGlgvNNvS5UbpOvw746GxwdmR9tH0h0="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/xbg_mis_dos_vidas_2022.jpg",
+          "name": "Mis dos vidas (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBCg7d15x9R218GUmNFmTavNrjA3yNQtnNaFMGOIDuFPQmJ2jEXGYhZo5uBK1DzbJU="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elq_la_venganza_de_cicatris_2022.jpg",
+          "name": "Fullmetal Alchemist: La Venganza de Cicatriz (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCzq1CObBL4zfgZNmV0JuoyuTPoRrxp8grRTNpt/998xzvQDbduru3dukSx/CjuxK6x1q6GP45QSq/g7XbqGweq"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/juntos_son_dinamitas_2022.jpg",
+          "name": "Juntos Son Dinamita (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCVmbkJpfLriRoBX0rwHkAsgH7pbwlASsUklMMti5RupYdapipCaFailvw4LaGxyDSv8W3uzk/3sPHAVrdYlqD8"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/boj_los_jovenes_amantes_2022.jpg",
+          "name": "Los Jóvenes Amantes (2021)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBDsEka8bd48DRaIR4yPapSJhialQI9RixHvSF4ZpQrROMtKpl/PkqNsBTBV9l9rts="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/francotirador_2022.jpg",
+          "name": "Francotirador: misión secreta (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBwTTTAgW9ARLOOEcGfiAb7JKH+zdw0S9MZL7nK9m4b1eVZuX7WIR2SAX+WiZv4Rh8="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mx5_el_mundo_de_ayer_2022.jpg",
+          "name": "El mundo de ayer (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBerPuCtW1G66ZUnoi6JGPorOO70t4OYAlG92iaOk+HRfsvy4v63AiTB2JvrAqVoHA="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/domingo_de_pascua_2022.jpg",
+          "name": "Domingo de Pascua (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBx/VxtBDBicsmdxWyrGtQ3IQvCMwgyqDq30B6N9cGZ6pot9TmISXF0KYSbgC+9pI="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/dentro_de_la_mente_del_gato_2022.jpg",
+          "name": "En la mente de un gato (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAx7VNwpuMBakvqNYCLQYt9RYcFTBC9C8gkmtnNTMXjfH8T5j7OW5MiBI6gyOUvQ44jF9CsOi8GBWq6Mf/TDrdJ"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/constantine_2022.jpg",
+          "name": "Constantine: La casa de los secretos (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDHyjj7TAwbfsbq/QBzxXvCZf41wHL51n0GA1I/0lJUkegyWZb46V5ETZ9qpwHbfzc="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/cazando_a_ava_bravo_2022.jpg",
+          "name": "Hunting Ava Bravo (2022)",
+          "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDX0LLN2VlB0zKGIq15Tq3rgkGmg/QsNEWOtyj/75Vk3Li3JdcVZvk9jx1GVLowEiMc5wx44vz9Vpe0HNRJJ0A0"
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/3b2_alcarras_2022.jpg",
           "name": "Alcarràs (2022)",
           "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp3O9pVRIHKw8gNgkMfRrqEmOendLrLwRBSAX6o44GdJ+nupOfRGKWLpPWw6WC0bw="
