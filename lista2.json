@@ -5752,6 +5752,62 @@
           ]
         },
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/cebollinymanzanaani.jpg",
+          "name": "Manzana y Cebollin (2020)",
+          "temporada": [
+            {
+              "name": "La Pasión De Falafel",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOBILKuhiuO4vjOYeWI/qtGdNLTMzDTDg0kOSvy1C5tIJ",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Agujero En El Techo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOIiXINeYWeAIwVJa9qeZaws9Tsv9nODcbelAAbTRdqLo",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Ley De Patty",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOJqSwdv4xzajhSvne9dyiThm8W3pt1HzUQcKldK394JU",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Comilón",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaONvfp7xv5qLr+CgYa7ZcE4CYDXa7l+RL6CqdQLMvZie+",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Mesa De Manzana Y Cebollín",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOGLNSen5OTO6s+pWHzpshnm29Zbi/lyw/WUzLRCNtDDH",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ferekh",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOKF45AgB3Wl5oTKCqF8S5UTK9uioi//si1SFJW8tTChE",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Palmadita",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOETC4v34GVCFZWwTeh64X/XvFhEVK3TOXEQdeqsjSkWz",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Gloria De Falafel",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOOytZnskJRPqo0iswaKGjSuwzHAWGMdBP7Ms73Dwq50w",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Espíritu Navideño",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOLWwbV8G98jOIHBf1FaC1L9Dr+vg4KXda1s2MFMd5k3o",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Zarrapastroso",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOFZcVzb8ogrqcCdfqwgB4ePiq5x8M81S/dVxPVlhf0qM",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/cebollinymanzana.png",
           "name": "Cebollín y manzana (2019)",
           "temporada": [
