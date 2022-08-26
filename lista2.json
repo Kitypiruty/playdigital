@@ -5472,6 +5472,62 @@
           ]
         },
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/campamentodeverano.jpg",
+          "name": "Campamento de verano (2018)",
+          "temporada": [
+            {
+              "name": "Un Barb nace",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7hAS/wYHpXge5jKv7iBoEDSWm5zOxZn7b1xWGE1nKT96",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Leche Tibia y Susurros Descuidados",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7sBeFR1or2T28csbqfSLT6i7kD/iSSLTOutm4HEi4YgZ",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gorro para Dormir",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7r8CSusQ3CCdijJcSfOcPVwelVYNJJxwO0uIK0jPE01F",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Eructos y Suspiros",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7gGcykdbvlacxvuuq5ALazdxZnLkOnWxl5snwlF+c3vs",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bu Jeans",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7oBwc27h6j6d7h70+UeMMLM9o4iT20HA08nlHzAKHOBS",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Hay una raqueta en mi arcón del ajuar",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7sdjmEfd2M+w4YBS7FdR3+GGtjkzyMiN4zXTNgdknexq",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Brecinas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7pzw17JbHHooHSIY7VzZh2UvZpUQEZZUmiBYhk0uZd8+",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Niñas Vendedoras",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7hDq0QFJcoZfLTBTdmcKnXV8Oey9M1+JvUtkHIKlTXgw",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Amigo de Mildred",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7lT6RqMnLFX+o1EecHAWROk21yRkcAkpCOySS4+OmVhq",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Oscar Solitario",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7irLq/mKpPycTEh+/xeITDu6R4MechB7xevoLWe/Hfsl",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/playamounstro.jpg",
           "name": "Playa Monstruo (2019)",
           "temporada": [
