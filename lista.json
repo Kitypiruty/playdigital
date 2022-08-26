@@ -5472,6 +5472,62 @@
           ]
         },
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/playamounstro.jpg",
+          "name": "Playa Monstruo (2019)",
+          "temporada": [
+            {
+              "name": "Widget Pierde La Cabeza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+WAlmTp2X3N6kYsgjxDu6lM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Abusivos Acuáticos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+YQPJDu4GFcqpznzQ0pOPl4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nación Termita",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+YQdzHJ9NVbF7gvJL6KuMN4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Vibraciones Macabras",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+cJH/Y9VzrohNzYZ76iyCqU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mala Huelga",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+QEKe+dQ7apMXTtwk1p8dLk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Cono Del Espacio Exterior",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+TVaGSIf8hcNPz+naKW+m8E=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Al-Tiki-Ado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+ZOh1RwcpMwlIjxZngiLU5Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bueno Y Knutty",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+UCiKqZhhl9oKCrHDMU7aAY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Prácticamente Perrosidad",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+S0SZQl8UDGhLt9B/DmY5dM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Peores Amigos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+Z73rIQU9dPrfIHhG6tdMOlGYcfVLEkpGOC65K+QcYCA",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/tiograndpa.jpg",
           "name": "Tío Grandpa (2016)",
           "temporada": [
