@@ -846,6 +846,13 @@
           "drm_scheme": "clearkey"
         },
         {
+          "icon": "http://static.dplay.tech:8080/imagenes/snmovie.png",
+          "name": "SONY MOVIES",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXVBSu6yMA4FI6HKfGKgYgH7kQ7VXiX6fDgZeO4D2DgFg==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaXIhuYZzGPpNH91chcRWdT",
+          "drm_scheme": "clearkey"
+        },
+        {
           "icon": "https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png",
           "name": "WARNER CHANNEL",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsAmM7qDCylvWD06gAFIKk65yhKBwNJnBEcYCuKpo9vUhJiRTDlxyl2/ivaF+C4Y2A8INDhSdf4I6iRXXKBYRtF",
