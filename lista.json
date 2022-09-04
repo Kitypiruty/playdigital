@@ -563,6 +563,20 @@
           "uri": "tCCYHaXdfeE2UXGmWEN+OPxDO+9leGRc+xA0hKbggTKfNLAvJd+9LAZbLbuXmIxp",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYD9/S11KYSZPIal2zpLycU",
           "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://play-lh.googleusercontent.com/3ig2UlRVRo4_Wd2NDEMOats_n_8JyukhHOMfMPSIJkedW88F4kUlfc6q3p9XwGA8C28",
+          "name": "E 24/7",
+          "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5jT5volR83teSWwIQaXU8eK",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://play-lh.googleusercontent.com/3ig2UlRVRo4_Wd2NDEMOats_n_8JyukhHOMfMPSIJkedW88F4kUlfc6q3p9XwGA8C28",
+          "name": "E 2",
+          "uri": "PL1FExyMRiDGt3y9DensFUfxNK0av7oEWKUy/KL4vppJYLJ6FRYQHuOxK5bszXHX9OeuNg0igcxZo1F+X1l1ocnV0bPy/fRLWcldsY5LUuzkFjBh0A7uc1naF1djkCNF",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYivZzpa1tOuJAir5RX0aJ2",
+          "drm_scheme": "clearkey"
         }
       ]
     },
@@ -1957,20 +1971,6 @@
     {
       "name": "PARAGUAY",
       "lista": [
-        {
-          "icon": "https://play-lh.googleusercontent.com/3ig2UlRVRo4_Wd2NDEMOats_n_8JyukhHOMfMPSIJkedW88F4kUlfc6q3p9XwGA8C28",
-          "name": "EVENTOS 24/7",
-          "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5jT5volR83teSWwIQaXU8eK",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://play-lh.googleusercontent.com/3ig2UlRVRo4_Wd2NDEMOats_n_8JyukhHOMfMPSIJkedW88F4kUlfc6q3p9XwGA8C28",
-          "name": "EVENTOS 2",
-          "uri": "PL1FExyMRiDGt3y9DensFUfxNK0av7oEWKUy/KL4vppJYLJ6FRYQHuOxK5bszXHX9OeuNg0igcxZo1F+X1l1ocnV0bPy/fRLWcldsY5LUuzkFjBh0A7uc1naF1djkCNF",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYivZzpa1tOuJAir5RX0aJ2",
-          "drm_scheme": "clearkey"
-        },
         {
           "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
           "name": "CANAL 8 VISION",
