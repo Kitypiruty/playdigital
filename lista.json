@@ -1980,6 +1980,102 @@
     ]
     },
     {
+      "name": "BRASIL",
+      "lista": [
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "BAND",
+          "uri": "Ll/rtJoO0mHoMBDB70bQKWC3op3cGloPS3O6y0WuZBRkPg4RxTsqjW9Eq9Rpcw0exYj8jcS2nJcVI55XmZRkZA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY08WunQHz9SoNVsfQvg0Du",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "BAND NEWS",
+          "uri": "DYWBx5NsG5BY2GsUNzRm63qTIfsHlsIR24O0O8PLc0jXxdyi84P0e1pa4Nfcla9IiAv9lAr1aT3gO/HZU391Pt+jWM1LvYbcyZrqa0zdbr0=",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZS0sHbIFk4kk62PZJ2HzUh",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "BAND SPORTS",
+          "uri": "l+Rqlfzsq5INJL8zdHKytiakn5O9WxsadFMMNvckxUh7D+kEbX6h8O9/DfvWMiT5NjEZLqs4nU+Zm6WHyMlHLQ==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZi2WY+XfrQfYazoVrm3FdS",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "BIS",
+          "uri": "hOzsQ48btqCdDusLmQq6zQstMQM2f/FqlSEMlMYc1kky67D73fcv2SOhJzP4+FWBusn63M6TbS2TEJwteH8ThA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYTkD3Zlr6kQrBZ3lmKLiIz",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "CANAL BRASIL",
+          "uri": "hE+0n/LRN6hN1oyPlyNi97IO2W69g4g1YFm5NJ27nJP+EiNVROcFRoQa9Fn4+dirSJm8xT+HSYyGLZWpP2s2ZQ==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibavUdRhewsGwpm0uSyUzT4p",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "GLOBO NEWS",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQHvwxH+pq7NxPeUWi0WuJnP",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZTJq7sVFvyrVy11LHi2scR",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "FUTURA",
+          "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEMBUvjawSbdBe7Y8OQyF8309YSrTkoTAIsF/vOiAUMsw==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZtUoJNy6f8cza4A6RHUofZ",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "RECORD TV",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQF0n+k3oHXs4pwp/Az4BGW9",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZXeikdZZVNJwb8vCKIS51r",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "REDETV",
+          "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBFAifRNFmu/vF/5L+a6Xpt+Gu8tFj6Wb2DET6itFEkN2g==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZlDYUsCBUWIqKHgKWLZuMh",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "SBT",
+          "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEhk4aO8inAP+NEduyBBpC4iiNCCUQjxYNlE83U6pZFnA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibacLM6KsdlwJcvgywoZvSEk",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "SPORT TV",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQGmkay5/FsU2kKH6syzKQO3",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY9fuu5JhNqVd0ZwQRXcXwX",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "SPORT TV 2",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQEoX5Xbn7gX+XHPJCsgkMEG",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaxMMP0NRAqtlSDLEPspr5y",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
+          "name": "SPORT TV 3",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQG0UVv4cFRDQ1vz+odbzpa/",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYZzMWuIlGPQAdFePUxAvrS",
+          "drm_scheme": "clearkey"
+        }
+      ]
+    },
+    {
       "name": "PARAGUAY",
       "lista": [
         {
