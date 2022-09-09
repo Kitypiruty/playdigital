@@ -582,7 +582,14 @@
           "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
           "name": "E 3",
           "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0sBjN+krulksqCX4Glei+h"
-        }
+        }, 
+         {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "E 4",
+          "uri": "TQp8U4WPNizfH0YKTUVMu3cWnZ7Cb8hCZ/WuxSX3wOa/pFB+DcK1YvLvKNCuKsrJTMBuNtvwUQ3PIiMjMcMyw5YByeIeok9AHqFM9MJDg9V3GhM3Zvhvy35Ok8d+S6Pm",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuEAANGZtg+6QkmB9YwusV"
+         }
       ]
     },
     {
