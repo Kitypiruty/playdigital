@@ -349,13 +349,6 @@
       "name": "DEPORTIVOS",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
-          "name": "DANZ F1",
-          "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
-          "drm_scheme": "clearkey"
-        },
-        {
           "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
           "name": "ESPN PREMIUM",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuSQGSZF63XhZNfrVKyi0Hva/48xcFVRlD74ud9xw/X6uwu1Ve2eOhnRHr6axuqrNP6a8Sbp1glGe3dbBePx4MN2xWgP23Vi5KDgEZlh/WqCA==",
@@ -521,6 +514,13 @@
           "icon": "https://api.argentinatv.live/logos/tycsportplay.jpg",
           "name": "TYC SPORTS (PLAY) 11",
           "uri": "uxY15lQHplqNf/4ok2223zFwXrCQtsRlIuB608ElUKaZSVqvx8zXN3r5XEcbEMGk1k+vhjuLjqKidkhetXsXiWrqEcQj0MqvEoEA/3h1umDn6Eo4H5n7XfkoEtplD6+Z"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
+          "name": "DAZN F1",
+          "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
+          "drm_scheme": "clearkey"
         },
         {
           "icon": "https://static.flow.com.ar/images/685/CH_LOGO/350/500/0/0/3464211407358.png",
