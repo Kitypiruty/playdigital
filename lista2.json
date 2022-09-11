@@ -342,6 +342,41 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuwPsnGNtXCdUK3z9r4/nJ33uGQBO8xKYvydxQc+92iMl0xcGEtKR9K+9L532aqudAeXkcR/Q/XRlzQZxtEjjXyGau/g5X0fK2nBtVF+755AQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZjaxepFR0qmid+iGbG37ZwwBWNkpwc8rOtF0oBCcsx2w==",
           "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/radioformosa.jpg",
+          "name": "Radio Formosa Tv",
+          "uri": "SAnnkBmiEasVK1ydFO5arlW1qHRO4nFQ3RnC1GhQu4JsGtCJkeS7Egoj+L0xgm3fdgDfZQWNOAh91fsIXksPl9ZXSEa4VSl4Y4+AYHYq0H0="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/agenfor.png",
+          "name": "CANAL 3 Formosa",
+          "uri": "SAnnkBmiEasVK1ydFO5arqGj6KoroC9RtA5gVoUWgS7fuXPDBEROsf4dTGcD3aexY4uy9D4jB6OWBXOtX+9NsQ=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/lapachocanal11.jpg",
+          "name": "LAPACHO CANAL 11",
+          "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJOsHanV9zRoHY+UgFjk70k9jOVZHbgPXiX2MCsI1p7EtA=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/naineck.png",
+          "name": "NAINECK TV",
+          "uri": "YLdKP1SZFu+rkCHhlDVHwpb+SLOj/EclRMbT7H5qCNmf9772wyuz/0WrbV3Qe0UNXqXAMRO0rrGjo+j5mKrmiw=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/BCC.png",
+          "name": "BCC NET CHACO",
+          "uri": "SPrM94xAnLFF1OVdICm+B6ezR+JVJJu0nTHcH0TzKZhq+MyWUDubHiqm4H6nzWMUCVMoUg++fLzNdOszpfbTBA=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/radioiguazu.png",
+          "name": "RADIO IGUAZU TV",
+          "uri": "SPrM94xAnLFF1OVdICm+B4lvcK5QorR5/Gd67iSsmkKPU+tGyvJU9aKiu/8x1Dnp"
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/radioaer.png ",
+          "name": "RADIO AER STUDIOS TV",
+          "uri": "YLdKP1SZFu+rkCHhlDVHwr+DuhWnL9iZAcNvnUih+6ej8isLqAE0JvQHmviLnCj1rdH1mTdDliRRSwz5oUPLsg=="
         }
        ]
     },
