@@ -796,6 +796,13 @@
       "name": "CINE",
       "lista": [
         {
+          "icon": "https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png",
+          "name": "DHE",
+          "uri": "TiDWXxCoGSmc5wtoV320QHhLqpM1NPi3WzCLf8c/F5wpyrPyhS0eannsHbeZSm4KMMYK40Nu5bk2NGle8IJWi3MloCm5rnW2GuJeZQ+afyee7Tn2+DvRg2mM9gc9JTDn",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbPK4XENbuMMKkVQHQFFtVF"
+        },
+        {
           "icon": "http://static.dplay.tech:8080/imagenes/tvcortoslog.png",
           "name": "TV CORTOS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
