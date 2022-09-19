@@ -2141,6 +2141,13 @@
           "drm_license_url": "1RkZCOryVmTaRVCtJs09hhrMWUEn7EAbg3ibPmbepp3+B06zlMMtq+p8nW9AdA0n",
           "drm_scheme": "clearkey"
         },
+        {
+          "icon": "https",
+          "name": "PRUEBA TV 3",
+          "uri": "1s1yliweEmgRzyf3gLu4WvyTUy5wQ/Kxfn2OK96EDzmpJFz1F1Q+0zS9zACpoij6Si3hNwVZ5jtwqh+esmCj7z5rgNf/UxjMxUEF+1d+LA20lCOFIApBHPdVca93plkzEu5pGTAPxeyvG5tfeLL019vKJwS0VrZkoQvMUsuBx4HwvNdlHucGj7BJz4ZuZx5gkOySBO3huWALnjPYxGEbTL9BFDbxvilhYRLF+oJQ6eqdyPpoyG0s5CnnJ3G9Ik5diPl1HDVYnRX5iBS/uDhNJP02VNdh+65gMk/+aGz3sPwD/sOo2oEL7SVVM8/IOKvh",
+          "drm_license_url": "1RkZCOryVmTaRVCtJs09hr2JIKZpqPmk4xNUDiilamZNf5EvN+jVS0T+eYFrZu/t",
+          "drm_scheme": "clearkey"
+        },
          {
           "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
           "name": "CANAL 8 VISION",
