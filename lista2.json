@@ -601,9 +601,25 @@
         },
         {
           "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 24/7",
-          "uri": "NWfnI5li2AgNLuBN0nbJIJ7bXQ4p5d7xij7Dpf0dGf6HyRVnE8W1Phamm+w12iwh"
-     },
+          "name": "E 1",
+          "uri": "1RkZCOryVmTaRVCtJs09hpzgqs77T/ErptVF0Dwp2iFFG4YMFCSqpJI4BxUe20+T",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr"
+        },
+        {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "E 2",
+          "uri": "1RkZCOryVmTaRVCtJs09hkKZypDY7FCDDELBLs6ML1jnZ2Ztc0Nd5XKNSbvkYOXL",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYivZzpa1tOuJAir5RX0aJ2",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "E 3",
+          "uri": "1RkZCOryVmTaRVCtJs09hlbi57fhNNy9ntqBBljsSQvm3n+8hVTDzaOBs83ccsxP",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuEAANGZtg+6QkmB9YwusV"
+         },
         {
           "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
           "name": "E 4",
