@@ -2127,27 +2127,6 @@
     {
       "name": "PARAGUAY",
       "lista": [
-        {
-          "icon": "https",
-          "name": "PRUEBA TV",
-          "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5i7Ji2qax6XqczNS6ZR6wtF4Ms7mtDSMvy0HF8PQPVBgQs1eJLMUE8se7jx4PRRKkkMoMHRfR81XCUOJnca9OHqPHXkvmRT4v+TmUPpHMlNtu2dOWJk/uTtmCEOERmHRpYUGrvwhjsSVJ4Ek70cJeAsEUmTEFbwpprfW8nsU1vP17pPBD6Hff/M6PXL42MK9ewhfn49LfYk04AAFg8H6mwqg4Dnh5yWkeOC1CJgs54x0xZ/g6EpooX3NvM3gYS4TGAMCnYuGci+rOu0FFzAVGtxufViR+CAk9buuAbz4XboK5eiYZ0C4Bw1g/7+8Lc14UJ7inGI6yjTQj6x3eviGhl1N0OuOQ/7L+HEuhIDJceIrE3w+rQ0rQwqjvFNo9x/QXwJgRyp0/QZoi+ySUxvDxVOvlTcDD2pM5UcwDMfLiT1K+HTRvwX+rk3ZfuIFN9HzPp+4WM3mP1FjRiXgSLUWUg87+7BX0q4DCk1HGc0OHRRNAIpFjrc7J/wz5GuyNYFxWG/OgytjSJw2xjV0PXs3r5wXSnGbWaUdWYS74aNL8G4WUCXbuTk+l8ilsNQvJ14nyiqonuE4FnR32MEgpVN4guwx0eaTDwr+WVli5eCWxB+lBlrYIAMzwRBvJE4oG2JXUs=",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https",
-          "name": "PRUEBA TV 2",
-          "uri": "dVYPXa5v+xqnHsevd6vVheahGU4EeWfB4yuvJX3LgpWKmJvPeoUKojE02uwemHZ9",
-          "drm_license_url": "1RkZCOryVmTaRVCtJs09hhrMWUEn7EAbg3ibPmbepp3+B06zlMMtq+p8nW9AdA0n",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https",
-          "name": "PRUEBA TV 3",
-          "uri": "1s1yliweEmgRzyf3gLu4WvyTUy5wQ/Kxfn2OK96EDzmpJFz1F1Q+0zS9zACpoij6Si3hNwVZ5jtwqh+esmCj7z5rgNf/UxjMxUEF+1d+LA20lCOFIApBHPdVca93plkzEu5pGTAPxeyvG5tfeLL019vKJwS0VrZkoQvMUsuBx4HwvNdlHucGj7BJz4ZuZx5gkOySBO3huWALnjPYxGEbTL9BFDbxvilhYRLF+oJQ6eqdyPpoyG0s5CnnJ3G9Ik5diPl1HDVYnRX5iBS/uDhNJP02VNdh+65gMk/+aGz3sPwD/sOo2oEL7SVVM8/IOKvh",
-          "drm_license_url": "1RkZCOryVmTaRVCtJs09hr2JIKZpqPmk4xNUDiilamZNf5EvN+jVS0T+eYFrZu/t",
-          "drm_scheme": "clearkey"
-        },
          {
           "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
           "name": "CANAL 8 VISION",
