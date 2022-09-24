@@ -620,9 +620,16 @@
           "drm_scheme": "clearkey",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuEAANGZtg+6QkmB9YwusV"
          },
-        {
+          {
           "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
           "name": "E 4",
+          "uri": "1RkZCOryVmTaRVCtJs09hgQfixt5vxPhaAF4GSRIgil6M8dDPTHC/v1tqPQrYVqi",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibba73x86v1s5TXo5fq6T32m"
+         },
+        {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "E 5",
           "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0sBjN+krulksqCX4Glei+h"
         }
       ]
