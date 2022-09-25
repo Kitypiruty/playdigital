@@ -270,7 +270,7 @@
           "uri": "UNQg5R6SlSLHrj34FEU+kRZHhvAnOrkJcacLJjESkKLmTO1DLaGNlPkvdcwEIODO"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/el9larioja.png",
+          "icon": "http://static.dplay.tech/imagenes/el9larioja.png",
           "name": "Canal 9 la Rioja",
           "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9c5anP3KaslkMPXka1qz7xfTolETbCnXk1g7NEUaR2KXA=="
         },
@@ -475,21 +475,21 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/dtv1.png",
+          "icon": "http://static.dplay.tech/imagenes/dtv1.png",
           "name": "DIRECTV SPORTS 1",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYgzsNmTA8AJNCiN4wp5ZzA",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/dtv2.png",
+          "icon": "http://static.dplay.tech/imagenes/dtv2.png",
           "name": "DIRECTV SPORTS 2",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuga+rrV3NBzmmfcDDfTbN",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/dtv3.png",
+          "icon": "http://static.dplay.tech/imagenes/dtv3.png",
           "name": "DIRECTV SPORTS PLUS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYKSkh9kTmPzWUG++g6HI07",
@@ -558,7 +558,7 @@
           "uri": "uxY15lQHplqNf/4ok2223zFwXrCQtsRlIuB608ElUKaZSVqvx8zXN3r5XEcbEMGk1k+vhjuLjqKidkhetXsXiWrqEcQj0MqvEoEA/3h1umDn6Eo4H5n7XfkoEtplD6+Z"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
+          "icon": "http://static.dplay.tech/imagenes/daznf1.png",
           "name": "DAZN F1",
           "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
@@ -769,28 +769,28 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/uncomedy.png",
+          "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
           "name": "UNIVERSAL COMEDY",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb8LyWCazbV0q/OV3EFKfiU",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/uncrime.png",
+          "icon": "http://static.dplay.tech/imagenes/uncrime.png",
           "name": "UNIVERSAL CRIME",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbi2400+uAO2Gu6aMyf8nYr",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/unpremiere.png",
+          "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
           "name": "UNIVERSAL PREMIERE",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbM5I5Yfg40lWbp98j86UVtoMeFb4KJlwFdip9S/9DssQ==",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/unreality.png",
+          "icon": "http://static.dplay.tech/imagenes/unreality.png",
           "name": "UNIVERSAL REALITY",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZY3ZcDqmoR9JV+eQdPeLpu",
@@ -809,14 +809,14 @@
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbPK4XENbuMMKkVQHQFFtVF"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/tvcortoslog.png",
+          "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
           "name": "TV CORTOS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZOt0rcpnRmMdtjbvlzF2MH",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/cnlatin.png",
+          "icon": "http://static.dplay.tech/imagenes/cnlatin.png",
           "name": "CINE LATINO",
           "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbVL33EMR2KaOH1AzoubEsowAs2LxCLumnFRK2tIBI7tw==",
@@ -907,7 +907,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/snmovie.png",
+          "icon": "http://static.dplay.tech/imagenes/snmovie.png",
           "name": "SONY MOVIES",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXVBSu6yMA4FI6HKfGKgYgH7kQ7VXiX6fDgZeO4D2DgFg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaXIhuYZzGPpNH91chcRWdT",
@@ -1141,7 +1141,7 @@
       "name": "NOVELAS y VARIEDADES",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/smithsonianchannel.png",
+          "icon": "http://static.dplay.tech/imagenes/smithsonianchannel.png",
           "name": "Smithsonian Channel",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYiUL97MDa6CtkaqBjLeawSritNL0nFWdTdf2K/uyBpzg==",
@@ -1169,7 +1169,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/ivc.png",
+          "icon": "http://static.dplay.tech/imagenes/ivc.png",
           "name": "IVC",
           "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY5ztIJRlWccY5HI3RLMpFI",
@@ -1305,7 +1305,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/santamaria.png",
+          "icon": "http://static.dplay.tech/imagenes/santamaria.png",
           "name": "SANTA MARIA",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsd6PSnElytjXuwjBGiOgavgPJOB0fX2sMukZUtYNBQcCNAi+qygGJUTyOG33Ekf9IiHnPkiqwOjR6YvMInQ7OU",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbrCLOlThq5ggLK6DzZu6hCSbVLnPySt60dbVwgR+e/cA==",
@@ -1359,7 +1359,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/MTV_00s_remaster.png",
+          "icon": "http://static.dplay.tech/imagenes/MTV_00s_remaster.png",
           "name": "MTV 00s",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvgw9/sLu/JonE5bgIbGrXr04UzsP11TrAmrXwRoZfQe8Qamb/cq2KY+D/6nIZ4ZPg=",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZGuwZtHDZtRilp+vNOBRWg",
@@ -1614,57 +1614,57 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0GxJgh3Ol5Iyhms3WxhOnU6hyLN/saks+gCeyRROBfbw=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
+        "icon": "http://static.dplay.tech/imagenes/Caso_Cerrado.png",
         "name": "Caso cerrado",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Jd1fIiZFsmvtnw+mIT5dGIgnoqS/s8HEJDI1tKVcbIA=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/duckula247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/duckula247.jpg",
         "name": "El conde patula",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3Zo878Pg1HrgXKgUyA5KpGfDYQX1P+V6GpdfzUud+ARQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/elgalloclaudio247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/elgalloclaudio247.jpg",
         "name": "El gallo claudio",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0sAb/RXYdIh5g9iZQ2TN5M1j70S6SrWSrqildYTQvhPQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/futurama247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/futurama247.jpg",
         "name": "Futurama",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2r2se7CcMl7ovY5nggxN41/BnA9vx5wQm5Zw3UxtXl4Q=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/ironman247.png",
+        "icon": "http://static.dplay.tech/imagenes/ironman247.png",
         "name": "Iron man",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1iWMEuG9o2KsDsEmxopVod0qCM/agrBAyJ6ow9xA3qRg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/jorgelcurioso247.png",
+        "icon": "http://static.dplay.tech/imagenes/jorgelcurioso247.png",
         "name": "Jorge el curioso",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is16S4bCYazD9rEiK7KhXCBKVgXtkqEiFRRpxNDzsTjJyQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/larosadeguadalupe247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/larosadeguadalupe247.jpg",
         "name": "La rosa de guadalupe",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3plTMFaogx7tDMsFVdsc2NTMaLnS6DfhzYEZeHOOjsAg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/letemesalaoscuridad247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/letemesalaoscuridad247.jpg",
         "name": "Le temes a la oscuridad",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2STa+s70pbrfv9gAv0yOns7RHZYK2n1zQParJ02eYniQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/losanosmaravillosos247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/losanosmaravillosos247.jpg",
         "name": "Los años maravillosos",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2bFyCuz7XhGcjTc+95qjAcG1YkH1e95lHdjgFY+jKgvg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/spiderman247.png",
+        "icon": "http://static.dplay.tech/imagenes/spiderman247.png",
         "name": "Spiderman",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2yovhpx6CPRvNHr0E/DOphwVlx3Kh3987iD6Ftope4QA=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/TBBT_logo.svg.png",
+        "icon": "http://static.dplay.tech/imagenes/TBBT_logo.svg.png",
         "name": "The Big Bang Theory",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Fj5+JNHA+3xPJ1g62lFTWjWNkXLI37oRbS6F0PzJL9A=="
       },
@@ -1684,7 +1684,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3kPEYxtnuTf2IbKBADqomm0vjwlod2nMnRjRZPqKOxTg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/csimiami.png",
+        "icon": "http://static.dplay.tech/imagenes/csimiami.png",
         "name": "CSI: Miami",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is28Inh1j/BNPKU2nxez/ktCkz/W+vUlYoxJMOMNM/B5Rg=="
       },
@@ -1729,7 +1729,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2MW3tvefvrqAEsOCH67wDESi2pYeeQ1CmLByGw6QAf8Q=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/garfield247.png",
+        "icon": "http://static.dplay.tech/imagenes/garfield247.png",
         "name": "Garfield",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2riQkBnKoreFn+4us25fMoR//xf+zvTYohY5xltbZCvQ=="
       },
@@ -1834,7 +1834,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0cPa3Ivctv3rylPJnjR7qjJWaRR0RAfdcwp/JrST7w7w=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/lospicapiedra247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/lospicapiedra247.jpg",
         "name": "Los picapiedra",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2W/UZ+tgWX2chaRLnurXlwSgtROg6BBt1DmtL0X0R4IA=="
       },
@@ -1849,7 +1849,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2EjbhWwFCUAi9Ln1VMJf1ozezz79TWu6+Lm1VVY3Wlqw=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/candy247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/candy247.jpg",
         "name": "Candy candy 24/7",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2A+MxOMxUjHhsDGrsW1oKuY2pNHLTMTV88BRGeJ9ZqIw=="
       }
@@ -1909,7 +1909,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3fZ9gGAmgNuJnA0R4uwcwh8dxHklLM9RkTqu1S4yez0Q=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
+        "icon": "http://static.dplay.tech/imagenes/Caso_Cerrado.png",
         "name": "Caso cerrado",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Jd1fIiZFsmvtnw+mIT5dGIgnoqS/s8HEJDI1tKVcbIA=="
       },
@@ -1919,7 +1919,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2iZ0HctXpMKzPtYJf/Ca/vUy8upmd9RyjVmrWncm2hyQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/csimiami.png",
+        "icon": "http://static.dplay.tech/imagenes/csimiami.png",
         "name": "CSI: Miami",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is28Inh1j/BNPKU2nxez/ktCkz/W+vUlYoxJMOMNM/B5Rg=="
       },
@@ -2039,91 +2039,91 @@
       "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/band.png",
+          "icon": "http://static.dplay.tech/imagenes/band.png",
           "name": "BAND",
           "uri": "Ll/rtJoO0mHoMBDB70bQKWC3op3cGloPS3O6y0WuZBRkPg4RxTsqjW9Eq9Rpcw0exYj8jcS2nJcVI55XmZRkZA==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY08WunQHz9SoNVsfQvg0Du",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/bandnews.png",
+          "icon": "http://static.dplay.tech/imagenes/bandnews.png",
           "name": "BAND NEWS",
           "uri": "DYWBx5NsG5BY2GsUNzRm63qTIfsHlsIR24O0O8PLc0jXxdyi84P0e1pa4Nfcla9IiAv9lAr1aT3gO/HZU391Pt+jWM1LvYbcyZrqa0zdbr0=",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZS0sHbIFk4kk62PZJ2HzUh",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/bandsport.png",
+          "icon": "http://static.dplay.tech/imagenes/bandsport.png",
           "name": "BAND SPORTS",
           "uri": "l+Rqlfzsq5INJL8zdHKytiakn5O9WxsadFMMNvckxUh7D+kEbX6h8O9/DfvWMiT5NjEZLqs4nU+Zm6WHyMlHLQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZi2WY+XfrQfYazoVrm3FdS",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/bis.png",
+          "icon": "http://static.dplay.tech/imagenes/bis.png",
           "name": "BIS",
           "uri": "hOzsQ48btqCdDusLmQq6zQstMQM2f/FqlSEMlMYc1kky67D73fcv2SOhJzP4+FWBusn63M6TbS2TEJwteH8ThA==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYTkD3Zlr6kQrBZ3lmKLiIz",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/chbr.png",
+          "icon": "http://static.dplay.tech/imagenes/chbr.png",
           "name": "CANAL BRASIL",
           "uri": "hE+0n/LRN6hN1oyPlyNi97IO2W69g4g1YFm5NJ27nJP+EiNVROcFRoQa9Fn4+dirSJm8xT+HSYyGLZWpP2s2ZQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibavUdRhewsGwpm0uSyUzT4p",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/globonews.png",
+          "icon": "http://static.dplay.tech/imagenes/globonews.png",
           "name": "GLOBO NEWS",
           "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQHvwxH+pq7NxPeUWi0WuJnP",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZTJq7sVFvyrVy11LHi2scR",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/futura.png",
+          "icon": "http://static.dplay.tech/imagenes/futura.png",
           "name": "FUTURA",
           "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEMBUvjawSbdBe7Y8OQyF8309YSrTkoTAIsF/vOiAUMsw==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZtUoJNy6f8cza4A6RHUofZ",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/recordtv.png",
+          "icon": "http://static.dplay.tech/imagenes/recordtv.png",
           "name": "RECORD TV",
           "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQF0n+k3oHXs4pwp/Az4BGW9",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZXeikdZZVNJwb8vCKIS51r",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/redetv.png",
+          "icon": "http://static.dplay.tech/imagenes/redetv.png",
           "name": "REDETV",
           "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBFAifRNFmu/vF/5L+a6Xpt+Gu8tFj6Wb2DET6itFEkN2g==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZlDYUsCBUWIqKHgKWLZuMh",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/sbt.png",
+          "icon": "http://static.dplay.tech/imagenes/sbt.png",
           "name": "SBT",
           "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEhk4aO8inAP+NEduyBBpC4iiNCCUQjxYNlE83U6pZFnA==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibacLM6KsdlwJcvgywoZvSEk",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/spo1.png",
+          "icon": "http://static.dplay.tech/imagenes/spo1.png",
           "name": "SPORT TV",
           "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQGmkay5/FsU2kKH6syzKQO3",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY9fuu5JhNqVd0ZwQRXcXwX",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/spo2.png",
+          "icon": "http://static.dplay.tech/imagenes/spo2.png",
           "name": "SPORT TV 2",
           "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQEoX5Xbn7gX+XHPJCsgkMEG",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaxMMP0NRAqtlSDLEPspr5y",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/spo3.png",
+          "icon": "http://static.dplay.tech/imagenes/spo3.png",
           "name": "SPORT TV 3",
           "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQG0UVv4cFRDQ1vz+odbzpa/",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYZzMWuIlGPQAdFePUxAvrS",
@@ -2317,7 +2317,7 @@
           "uri": "oxh8ROTPnm7iBCu6rJiWHoRzbaOnqNX6lVWK/oL8CSRkn4keLcsFHtybA1IcQMQyYoc+9QW6ZX4s/XPeIaGru2BQ91FPdZ8pMfmMh/3Yl6W8DwSCpYFnuATZKtvv1wZS"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/bhtvperu.png",
+          "icon": "http://static.dplay.tech/imagenes/bhtvperu.png",
           "name": "BH TV",
           "uri": "yKU7mKLG58CyewwIxfVakQTzcTHp2kddN0xta+fXB8ZG02OqvbjqYIQzT08Ce6UhCt+RLez5uwo0AiVPZk2n1g=="
         },
@@ -2392,7 +2392,7 @@
           "uri": "CDTDa1wj7pAITKbpAU/TgXhVTLgNUfqAwsrzpMsOptX2nQvP/4DSbNPdQypzo2cIHEOJrum6QCPiU4e9y1yjjQ=="
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/centraltvpe.jpg",
+          "icon": "http://static.dplay.tech/imagenes/centraltvpe.jpg",
           "name": "Central TV Chosica",
           "uri": "kGW/JXUaWanSloCoCVlD6B5Wu/xgEgl2/ILBw9rWxN8svixPW4bOp1EQ3pQZ3acrQvf6uvs4AqHjfmQNo4O5UIkoK6yqfGkkhVgpT3duGSUtA3oeMyk/CFwzJpdNMw3K"
         },
