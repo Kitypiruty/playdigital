@@ -1140,7 +1140,7 @@
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaRpjam0mg6shz78Z7SELzZ",
           "drm_scheme": "clearkey"
         },
-        {
+         {
           "icon": "http://static.dplay.tech/imagenes/smithsonianchannel.png",
           "name": "Smithsonian Channel",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
@@ -1330,6 +1330,13 @@
     {
       "name": "MUSICA",
       "lista": [
+        {
+          "icon": "http://static.dplay.tech/imagenes/concertch.png",
+          "name": "CONCERT CHANNEL",
+          "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12HJ1tA2EFZhXFdr7Aj3prsFfio+lFvZS6/4aEoM5ooyVrsV13ikulG7dH/Ixdj8uLA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYQTTXAlJJ0qkInwexWmrAA",
+          "drm_scheme": "clearkey"
+        },
         {
           "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
           "name": "QUIERO TV",
@@ -1846,7 +1853,7 @@
       {
         "icon": "https://x.playerlatino.live/twoandhalfmen.png",
         "name": "Two and half men",
-        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2EjbhWwFCUAi9Ln1VMJf1ozezz79TWu6+Lm1VVY3Wlqw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is33rN/TGBMFqporasjOgdb4KLXkNw411M6s9QOlUR5Svg=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/candy247.jpg",
@@ -1954,7 +1961,7 @@
     {
       "name": "PARAGUAY",
       "lista": [
-        {
+         {
           "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
           "name": "CANAL 8 VISION",
           "uri": "ra1XpnXa30OHsvT2iTa4KPHyoMOHWbRbxhuPEwO/SvLwzLqWvVSjzPvB5fRTGI3Cl6d9Bpy52W82RQ/anlkYpvRdDl7w5DojfTGl4jeilhA="
