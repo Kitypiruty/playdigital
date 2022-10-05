@@ -1331,6 +1331,13 @@
       "name": "MUSICA",
       "lista": [
         {
+          "icon": "http://static.dplay.tech/imagenes/concertch.png",
+          "name": "CONCERT CHANNEL",
+          "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12HJ1tA2EFZhXFdr7Aj3prsFfio+lFvZS6/4aEoM5ooyVrsV13ikulG7dH/Ixdj8uLA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYQTTXAlJJ0qkInwexWmrAA",
+          "drm_scheme": "clearkey"
+        },
+        {
           "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
           "name": "QUIERO TV",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsVfVdSQYfKDmfADCxmdUZOMjMBo4DtdrnwDrArjbN6hYlWi1cpamz9qUySEuDNffSyh4mUwd1Ul5Bqd0cZqy53",
