@@ -589,39 +589,6 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWs4m9b/Y6vXQc4lBb1V5DgouYKrcd9+oZzUy7J5QGZnDcrstoIVHGuLW+7K4UTirhSPM69yZzoiGj9tGplnvoC4",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYtaPFWqAiZ0Dg/KUUt+bYy",
           "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 1",
-          "uri": "1RkZCOryVmTaRVCtJs09hpzgqs77T/ErptVF0Dwp2iFFG4YMFCSqpJI4BxUe20+T",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 2",
-          "uri": "1RkZCOryVmTaRVCtJs09hkKZypDY7FCDDELBLs6ML1jnZ2Ztc0Nd5XKNSbvkYOXL",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYivZzpa1tOuJAir5RX0aJ2",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 3",
-          "uri": "1RkZCOryVmTaRVCtJs09hlbi57fhNNy9ntqBBljsSQvm3n+8hVTDzaOBs83ccsxP",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuEAANGZtg+6QkmB9YwusV"
-         },
-          {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 4",
-          "uri": "1RkZCOryVmTaRVCtJs09hgQfixt5vxPhaAF4GSRIgil6M8dDPTHC/v1tqPQrYVqi",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibba73x86v1s5TXo5fq6T32m"
-         },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 5",
-          "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0sBjN+krulksqCX4Glei+h"
         }
       ]
     },
