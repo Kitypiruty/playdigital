@@ -284,11 +284,11 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zWeTayl5/sFTwCDRoR6g4vfS5xVDOsuuRboWHeENK3ddE30bFwzch+R2hzECtLJwKreP1MP0TjyHUNNeD8puu2",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhILS/pRcFidOSoAw9x6HtGBuh/GWwbZslL8b32v+Yikkg=="
       },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
-        "name": "CANAL 9 DE MENDOZA",
-        "uri": "b6mg2xbwaB6Iq0TEYt3S5iON4Nsct79PZXqayrxj3RqkEBglBSf0gkd14JaQOka5ptV8F2lY5Tk9KaQGcByY6OPuHmQ9ODl3qpRT9VpUR3I="
-      },
+         {
+           "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
+           "name": "CANAL 9 DE MENDOZA",
+           "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
+         },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/71/El_Siete_MZ-1.png/revision/latest/scale-to-width-down/250?cb=20210526135529&path-prefix=es",
         "name": "Canal 7 Mendoza",
