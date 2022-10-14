@@ -7,7 +7,7 @@
           "name": "AMERICA TV",
           "uri": "5YdyVi+PL8QZpLM9X5SumgfPbIIDIAzkb00rZFtJSNv+k5xibH6DNhcuuR4fchoOc0XUa+nQI3sIF5Z3exYTQVkEV4fkEn+ydzKaz+AIBJJu7x+S8ortb2xOtOHz0a00",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibajRES4MIGDBlJ4vGveoSSi"
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYMgzmpar6nyqg3SXkMBy4Z"
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
@@ -769,13 +769,6 @@
       "name": "CINE",
       "lista": [
         {
-          "icon": "https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png",
-          "name": "DHE",
-          "uri": "TiDWXxCoGSmc5wtoV320QHhLqpM1NPi3WzCLf8c/F5wpyrPyhS0eannsHbeZSm4KMMYK40Nu5bk2NGle8IJWi3MloCm5rnW2GuJeZQ+afyee7Tn2+DvRg2mM9gc9JTDn",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbPK4XENbuMMKkVQHQFFtVF"
-        },
-        {
           "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
           "name": "TV CORTOS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
@@ -1159,8 +1152,8 @@
         {
           "icon": "https://static.flow.com.ar/images/6619/CH_LOGO/350/500/0/0/93318670071976.png",
           "name": "PASIONES TV",
-          "uri": "NAutHJes2CSFZ097uOhbO2d3j0dnbAp/wi5CW38qW+gJHvQQXZskcs/Ps/HzYMpTgCGgV1MXa1HPMPb0+wR4XRJ9NQ6tCRjKpCx9ADC3GRDdRel1DEtFXa5RKrELQIMJ4hlaVMSW4NBVSnVSfpXUAKdAuUm7Xavryzi0Noz0kQk=",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYFtx44MclkiBOLleka9gpW5rwuTgrLQ/nIHHdfP8pB0A==",
+          "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWu+HWZUU4ZQ/jDa2hPf8tx5FtJ8fqnetnzUNXVKcqrQ9PAYenApMBkVUxRnJzDM9rhVE+hG26Shj/KXQ2nuCziZ",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZCAFampI5l5Im8PDng7abzn6o3hydqPHBYKq5uQSV2gw==",
           "drm_scheme": "clearkey"
         },
         {
