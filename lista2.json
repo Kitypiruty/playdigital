@@ -1563,11 +1563,6 @@
         "name": "SERIES ANIMADAS 24/7",
         "lista": [
       {
-        "icon": "https://static.dplay.tech/imagenes/granhermano.jpg",
-        "name": "Gran Hermanos",
-        "uri": "FIo+OYSGLPZqiTcxm13yokPiOEsFK0j0ub1ZLCNGZzpPYaKEhoh6cV5C6YUVHSvE"
-      },
-      {
         "icon": "http://x.playerlatino.live/alf.png",
         "name": "Alf",
         "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeH0toxpV+COkgzgoFuTAnqg=="
@@ -1847,6 +1842,11 @@
       {
         "name": "ENTRETENIMIENTO 24/7",
         "lista": [
+     {
+        "icon": "https://static.dplay.tech/imagenes/granhermano.jpg",
+        "name": "Gran Hermanos",
+        "uri": "FIo+OYSGLPZqiTcxm13yokPiOEsFK0j0ub1ZLCNGZzpPYaKEhoh6cV5C6YUVHSvE"
+      },
       {
         "icon": "http://x.playerlatino.live/cine247.png",
         "name": "Accion",
