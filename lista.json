@@ -1563,6 +1563,11 @@
         "name": "SERIES ANIMADAS 24/7",
         "lista": [
       {
+        "icon": "https://static.dplay.tech/imagenes/granhermano.jpg",
+        "name": "Gran Hermanos",
+        "uri": "FIo+OYSGLPZqiTcxm13yokPiOEsFK0j0ub1ZLCNGZzpPYaKEhoh6cV5C6YUVHSvE"
+      },
+      {
         "icon": "http://x.playerlatino.live/alf.png",
         "name": "Alf",
         "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeH0toxpV+COkgzgoFuTAnqg=="
@@ -2035,7 +2040,7 @@
         {
           "icon": "http://static.dplay.tech/imagenes/globonews.png",
           "name": "GLOBO NEWS",
-          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQHvwxH+pq7NxPeUWi0WuJnP",
+          "uri": "ZntfhhAL0L7vGynlm5BAYq1RoPdUWFg4RGSw6KcOcP7NtUV1epxRzHi/ERL9h5qJ",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZTJq7sVFvyrVy11LHi2scR",
           "drm_scheme": "clearkey"
         },
@@ -2049,7 +2054,7 @@
         {
           "icon": "http://static.dplay.tech/imagenes/recordtv.png",
           "name": "RECORD TV",
-          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQF0n+k3oHXs4pwp/Az4BGW9",
+          "uri": "ol/Q7SjlDMUtM89x4q6oS67wCTwM6kTwrmEcDBJ1qK3K5u7X0LrcU4HIaLFPIlt+",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZXeikdZZVNJwb8vCKIS51r",
           "drm_scheme": "clearkey"
         },
@@ -2070,33 +2075,33 @@
         {
           "icon": "http://static.dplay.tech/imagenes/spo1.png",
           "name": "SPORT TV",
-          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQGmkay5/FsU2kKH6syzKQO3",
+          "uri": "OEi9gy5GfWxl3nVuMNHX+yZvU7N99l3SALFgfMCvluK1d7z7gAt8bEy1uw7AD/C6",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY9fuu5JhNqVd0ZwQRXcXwX",
           "drm_scheme": "clearkey"
         },
         {
           "icon": "http://static.dplay.tech/imagenes/spo2.png",
           "name": "SPORT TV 2",
-          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQEoX5Xbn7gX+XHPJCsgkMEG",
+          "uri": "8wapw1lhnns6ctTvaiOtine/XRyjJdPHw5tR3LP5X9nrWFN3WTImTYIHl4+Qf5Nf",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaxMMP0NRAqtlSDLEPspr5y",
           "drm_scheme": "clearkey"
         },
         {
           "icon": "http://static.dplay.tech/imagenes/spo3.png",
           "name": "SPORT TV 3",
-          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQG0UVv4cFRDQ1vz+odbzpa/",
+          "uri": "uZ8cJO6b6R18nrd2dnuqgI5UsJn3PJqCTv4N45APdDySR/6t8zIBSQMgm1UtApC/",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYZzMWuIlGPQAdFePUxAvrS",
           "drm_scheme": "clearkey"
         },
         {
           "icon": "https://wikidat.com/img/tv-globo-brasil-c9a64a05391369186b5e7b46460ac07a.jpg",
-          "name": "Globo RPC",
-          "uri": "t6lyHil6YU5Lscv26NWUSL9VZhR9AK6z3W0Ieis+k1EhMHpgl3SyEBn4sNA0C49UQSJhn7X4WIrUHNsRWVz78Q=="
+          "name": "Globo",
+          "uri": "FIo+OYSGLPZqiTcxm13yokPiOEsFK0j0ub1ZLCNGZzrG+jBMurgA4xldIY76IW0r"
         },
         {
           "icon": "https://3.bp.blogspot.com/-TiWSY2rIWqg/WvYAGpVBBzI/AAAAAAAAyn0/YcghPYoIE8M95rgj2q55x1QzqClYmn-cwCLcBGAs/s320/combate-play.jpg",
           "name": "Combate",
-          "uri": "t6lyHil6YU5Lscv26NWUSL9VZhR9AK6z3W0Ieis+k1EhMHpgl3SyEBn4sNA0C49UTP4oBmkH5yFceARePAKeSQ=="
+          "uri": "FIo+OYSGLPZqiTcxm13yokPiOEsFK0j0ub1ZLCNGZzofgc1BqF7La7a9QJlQMTuw"
         }
       ]
     },
