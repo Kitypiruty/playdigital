@@ -3961,5 +3961,2694 @@
           "uri": "CcVOGL/vthCTEyYOk6OA405UGf3/i9zT4C7xEUuZhIWj61wzRjYGgWxKZrH9aiPpaRAhaBOCDWKSYhkR/WzA5A=="
         }
       ]
+    },
+        {
+      "name": "SERIES",
+      "lista": [
+           {
+          "icon": "http://static.dplay.tech:8080/imagenes/lacasadeldragonse.jpg",
+          "name": "La casa del dragón (2022)",
+          "temporada": [
+            {
+              "name": "Los herederos del Dragón",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAB/GHRFTBEQIqYcgk7DkvtUyfuZ72NLCqyV+u3+N/8Ju6DMa8wI3mYseSMbOVvK0nanYA7wljPn37NgKsdv/PAPJAGPDR7dLvvxw5eDhmdIw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Episodio 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAB/GHRFTBEQIqYcgk7DkvtUyfuZ72NLCqyV+u3+N/8Ju6DMa8wI3mYseSMbOVvK0n68vCqmI9SbJPgAyppvFS7kpPlH9t3AoXZ9s9+VjMMZA==",
+              "drm_license_url": ""
+            }
+          ]
+          },
+          {
+          "icon": "http://static.dplay.tech:8080/imagenes/upoad.jpeg",
+          "name": "Subir (2020)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBmXXKY9eQkm//ki4cfHldNQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBj/0t1lph/8+U5bjfb7oOkY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBrUNOzULAovji9tw6UvNX+M=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBuy7Cs33y/fIk0UeTYt3NOA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBvoVvqnaAUGdoYPqCTqMfs0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBkT4alLg18kXNIWYMTO+KiQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBpPG2a2iTBjCTPHLVk+4JOY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBjwyoSWvWRpgaIUTyAZevT8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBoKNsvCbqVjSWG/QPuxciI8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuURRTMUmA6ZbBDR3Pa9KWBu0uL4qu05wk6nnG7gvJSDUtC9pzK8vK7LSX1GtsHV5V",
+              "drm_license_url": ""
+            },
+            {
+              "name": "<<<< TEMPORADA 2 >>>>",
+              "uri": "Ysb1X37L3xe19GA0tBbG8Q==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuDHUu5tXJOR6GSwRRdD4DM1BbA68XjuvFOojuvbIZZno=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuDHUu5tXJOR6GSwRRdD4DM9MQ6gz1yiCHS0hcP2Bb6Ks=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 13",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuDHUu5tXJOR6GSwRRdD4DM+KG1H0yKHckQRpo+wiJgqk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 14",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuDHUu5tXJOR6GSwRRdD4DMwMX17RKWnKtOiKf+L0nfQA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 15",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuDHUu5tXJOR6GSwRRdD4DM3SLj+L6ick9GGZtlEAB/+Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 16",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuDHUu5tXJOR6GSwRRdD4DM0YJVgijlfJ62ukiLRrGK9k=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 17",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBfDFRS7reBCDpnYsjJq/DuDHUu5tXJOR6GSwRRdD4DMwy5SMxbChn7u9Td5xlARX0=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/uncoupled2022.jpg",
+          "name": "Desparejado (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsCFXdEnfcD4fOXjyWs2WR3bxf1qsKcj/1UjMcNLP3itu",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsKjEz+lrxE4jXatT5dxo3zqp1Lqmx4c4jJgWGqWR8fOP",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsNlxtHJPvomGeJN1rN75hlwruiwwV09HFaSLiP4fqCv0",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsMV5vz6L7KG1Gvmk9WNbA0Yozh4ZakdsQ/p0qVJtBgl8",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsKeqYeKnfoGzDWkV5aORYt8/HsEQNWlAOml02GhuRAho",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsCVz91UlrERg/m5+L52FoTPlWLQVOPkBCffhSCf2HSKN",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsOOxv2A8qfkgOWk8R3vI2mcldMXXpEG++qR98e926pRt",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKTrvNTqPUquYg+Q0QOc0A9uxShOslvMCSoVJrm5cOsJm9I9bzhMTRXdmAR8pm/ztT5fRpfeFjZVO/kxSy1t9u",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/amoresquenganan.jpg",
+          "name": "Amores Que Engañan (2021)",
+          "temporada": [
+            {
+              "name": "Vientre En Alquiler",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW6jswxHDYUcE7hdKRXQgD9q7zsao0qgJOuJCy8TEwvoVA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Solo Una Oportunidad",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW6kBW12eHCX9fbmXzgH6zYl/YwVB+wY5+xzNlk38UD84A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Lo Virtual No Es Lo Real",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW5wfOeVtMziJdAHUJR5dRou6m7ySI+jbUABe9ULzVlDEA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mía Solo Mía",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW7EmhsgYgUNzicMtbs+BdbOtmnTn730FrbPwTo57sEOBg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sobreviviente",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW5JaxpF3ZnYHyIiKZECTHVNmNuJcqiZJQixS7KkYDIi9w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nuestro Pacto",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW4LnS9DM96MNlJa5S/2gBpIsRNhhChcPKnIMuBGt8+Iiw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Compañeros Hasta La Muerte",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW72IXJi0n+El9VpAKOvatSuS3MFkqFojJ8bPN/Yh+dYrA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ayuda Del Más Allá",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCeiEOObIGOQkHetS2R8E6VNt904ME3U47ykti3IHQFA+0t7l+k7AioAHHT32p6iW66NvtLExXn9gAbcf2qZAYbV97m5ttn3xqUU6xdlMxUBA==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/ciudadesocultase.jpg",
+          "name": "Ciudades Ocultas (2020)",
+          "temporada": [
+            {
+              "name": "Apocalipsis Maya",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k5eyrcEogq6aaQBOWsM7+LFOwn6OIL5H0maNrIwLMBPHg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Antiguos Ancestros",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k7CMJ002X8tUC1txCJ3Qoel5+MUUz2lZzlxht2dLNR7rQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Túneles De Muerte",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k45BJioq2zl53+4LQHCQscEajUnisb6pXWR71Hkw1vtsw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Túneles Subterráneos Militares",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k7DCdoQ67I6ui5idFCjDdvmMOCIuX56SYtXcpwiBUf6bA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Secretos De Las Antiguas Metrópolis",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k4+hASI3FgShA434ncgN3HxbzfRC49oovgU7RoIBUB3RQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Colonia Azteca Perdida",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k7qarhyWYChmxCJb/lLMvHohoxKA5kbI9chl86cfQgZkg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Templarios Y Los Padres Fundadores",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k5SQQh3pQK4D/ewT0GxWiDwu7j8/t+rabLRYoEkVFQ9Rg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Cueva De La Reina Pirata",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAcsxZU30jJfPxCRSBGBsHk8qiCE7CrnGk6gUtrCU1ROL240C0ICTz+2mK3/pgE5k6V04metg3oQqB5uaLQPxcgS4zxLqQN7ttQopgbirgXJQ==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/leyendadelosfaraonese.jpg",
+          "name": "Leyendas De Los Faraones (2020)",
+          "temporada": [
+            {
+              "name": "Primera Pirámide De Egipto",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDDbbJSvIgvGXOkTURw4ezMUovUl6VxqQitG+mTunyROVC+kaSc1QwJqN2kF/QFReNjHKRf4HvJGHBvUs5xNg9fmfsloH0xxeQ5vEMbPi5gsg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Maldición De Las Pirámides",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDDbbJSvIgvGXOkTURw4ezMUovUl6VxqQitG+mTunyROVC+kaSc1QwJqN2kF/QFRePpg8isDjA7UldLMHV9RwBVuv5tV+fNG2513SUnjHExiQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Rey Tirano",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDDbbJSvIgvGXOkTURw4ezMUovUl6VxqQitG+mTunyROVC+kaSc1QwJqN2kF/QFRePV1W25M/8j1fOG4UNalEDEraUuI8X6Yt8JxWQ7szEdFw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Misterio De La Gran Pirámide",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDDbbJSvIgvGXOkTURw4ezMUovUl6VxqQitG+mTunyROVC+kaSc1QwJqN2kF/QFReN40lW6pOKBy0fQvJHpDGAbTXQvOQXqf6Fg1+TVMa+/wg==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/todo_lo_otro.jpg",
+          "name": "Todo lo otro (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7qi2cJO0g2yCRFN8dQ1hnACnMRTDkcC5sPFZojtaIlnE",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7tjs86runuDLdS/2lTqiq+oia5aOdw6/GhWJ88fkc+p9",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7msPguqNLtOWy1HwJ8EVmCd2od8AttN/V9i0eeGJo6HL",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7vGhPeW7YnoOvEyBrf4+99TBlG66hauwFE6pRT31BWvh",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7kbGQ/kGh9XIMF0eMwxsdqW8ySo6w5ci6f7WSteh4Wmv",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7lS8776p6YREZrw45tf4+8EvNnRnb6u8DYkx99qQIYVL",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7tZn95R/+Xu9DQYKR2Ufe89T+ZwYaLOO3GSO3kwItqZa",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDBqxW2ppxje4+PGVc/GfszcZmlgE4nY7lOVfM1Qu1P7gs4ZwRvOybaw01jR4fJXOOlB3fylCohOxwiVX3R2Qsh",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/santa_evita.jpeg",
+          "name": "Santa Evita (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBJXumpgCYc6r0GocAXRXwdFDjwu0/cO6q54Q0u828GD30TxG3VyHbbkESwrgXCY9fgCPt5iPVVYvclatupv8H6",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBJXumpgCYc6r0GocAXRXwdFDjwu0/cO6q54Q0u828GD0iUeKZLAD1opscj5KGvkNnZWiU//M/Aoo8CI8Bxna8A",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBJXumpgCYc6r0GocAXRXwdFDjwu0/cO6q54Q0u828GD1NAttB1gMrG/dVYusSQAklW2Aa8t1XVnS04qVb+l+jq",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBJXumpgCYc6r0GocAXRXwdFDjwu0/cO6q54Q0u828GD5+SlRPU2/y8yPn20gyja+t2fL6meeV6ocb9nOkk7hHG",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBJXumpgCYc6r0GocAXRXwdFDjwu0/cO6q54Q0u828GD/enAq+Tpldp9LfvXco43kADPc/hR4qwa5HnFMLk1a1F",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBJXumpgCYc6r0GocAXRXwdFDjwu0/cO6q54Q0u828GDw5Z6x/yFZtHasPE5bILgl3TH0zBjm154Jd80q1Dsmbl",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBJXumpgCYc6r0GocAXRXwdFDjwu0/cO6q54Q0u828GD0VIyJpzUnmAieXCDzebauwL+ciq4CPmBTf8P3ZVCMkp",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/reddementiras2017.jpg",
+          "name": "Red De Mentiras (2017)",
+          "temporada": [
+            {
+              "name": "Zona De Caza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZiU0Yvlxk894mmNER0NO9I0MKMfs4uPNGYKaWhcVb6YDt",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Intrigas En California",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZiVXfaFx3hBdbPY8jQpRqIrNPlm6L2+yVG6sPT2NhMB0X",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ahora Vuelvo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZibF78ailcCH+T8qkL2QVi4Dqit2qubGDGaLrPThC7e1w",
+              "drm_license_url": ""
+            },
+            {
+              "name": "M De Muerte",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZiYYMvCrPbxEjIyRmMXKCd/DrGp3XkwbDDgP8wIQ4QA9w",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Con Amigos Como Este...",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZifPb4U5/3WQaUj9En7Rp81HLrlH93aOkLNyy8Lj7LQCH",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Juegos Peligrosos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZiccBxgxXMEgA1/lHKGJrCnFgnUtAezmXxZ3qZFvYhquu",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Cómplices",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZiahmLhW7eTVsH7uBIZCoscg1Pz6Dw/Mvx2FfJ6lMf8dE",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ctrl Alt Suprimir",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZiVbnITd6JvrNFdGGyVflU3hw31+fNj9hUelzRKmlHTvG",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Rincones Oscuros",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZiantdsREuiZHYK1xjdhrkZ87212tZJSk4xRK4ZMIgVdy",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Cita Mortal",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbUO8wykObyRC8MOlge79xzEA4qmqosfCUAx7xyaDZicWbGvDKkJ+3DJnhJGCkLNl+JBL6ZbppR35SD9DV5Skn",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/ojo_de_alcon.jpg",
+          "name": "Ojo de halcón (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAp1SIFm+eBPBCNmb0Wjr4sE2Gaell3dMgId5+115+dQD+M6mkNyTNO2qzGLah8XnnzRyEYE+ugMuPQd0HhIPVB",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAp1SIFm+eBPBCNmb0Wjr4sE2Gaell3dMgId5+115+dQBaHB+qqNTVXFyKVhE7BYH1H1evv7VwgJ2hs4CvyiiXd",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAp1SIFm+eBPBCNmb0Wjr4sE2Gaell3dMgId5+115+dQNs0DbUGU1+bug+OxAtSrqDc7DUAMUHYgiQtWZ58W7L7",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAp1SIFm+eBPBCNmb0Wjr4sE2Gaell3dMgId5+115+dQDBfwDNtXWC5DiAVe1mF8tpZTHsAJ8B5GKMq0WJtXyux",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAp1SIFm+eBPBCNmb0Wjr4sE2Gaell3dMgId5+115+dQEelLIRrENMVXKal/r1yz5bPZTsfSFIqzO57oSkGFszP",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAp1SIFm+eBPBCNmb0Wjr4sE2Gaell3dMgId5+115+dQEr8Pe4KtZeoefQuu4V2ZjY8AxEH5iRn4LbMNUB1lSrX",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/maria_marta.jpg",
+          "name": "María Marta: El crimen del country (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJPk9uWzcEehBZ7RjMClSkIs8gPQAYnrbhMPd/9li7bpc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJ+X4WKqnH8zETdoAn8+gmNSFnrqBqGrxRWGbs/LNxgRU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJEtFbDao1AjWLjzEKuSCnRYqZnrO8R2Nf+Xq2NCieTCY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJDHaMCUXmTbZziniTcNb4gL5VHglXhORP0wfCIGyH18Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJWlglKsx3gd1MPhYu+GIuah1trU9ZpBFLPLCOc7pAu1A=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJHZtUtTN1wKy9IcDbwnPUbG+wPjJ4upUi1PX9XZJUbR0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJqB4cN4vge/M8i2LMmTXaEJCJFW6EWqdHJy/+kR25390=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBpcnIw1IWq98Run4ujWrAJGPO0rT0T0KnfWlM2XgyJ5bE8aHyCZKtfWvk4KK395Sk=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/alguien-esta-mintiendo-45133-c.jpg",
+          "name": "Alguien está mintiendo (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2J28x8O6+l6v5PIBbABE5x4h5YJLR9BYZ3yYt6rQ8i6Cg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2L34Ac7V6R08TKoAPyBckFvpgJ+jFPp8OoUDPxedWK36Q==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2KqMP0kYw1Xje5QCrqITX7M0zbd3jxOFLVtKZAtlacWeQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2K27vQTCVnphFtgmoDiEWWJZBAEr7x5WBo7FPSr7cmqkQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2I+gfNu+1Dzn1NhxMcbwTnWFNE7CPN2Krw9JjbigfKJaQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2KqwoHuoKyQtMzvG1xEPNLadNU5tQM8pqpeSV1fLQKv3w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2JugpVzeC460mP2PVa7pwOJgQ5s3ipOnjhgE82S7/ksBg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCW+VfwWr+A1khauK0vpe6TveRkcjx9PK/GJ+lO77kC6dkLSIjZIopLJk+A6PakW2KLK5gS3Pn/2V/TXmJ7Wk1kl4APFEyWph1DXZVeK2boqw==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/1883.jpg",
+          "name": "1883 (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/DtSRqgaqGVn959DSQwfwvwjMUrFeWraR9BHzLEUyi138=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/D7S9T2A7y5COgiN5C+1IsPQMlszNHP+7WuE4h8IK4/gg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/Dr1j8jenbeXaisT8AsehYo9Wls5x2BgebEOmVW7D1m04=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/Do4g2KIxhp8EJU53+mwQNxpIjU7JDOaKmuxb2/G0GyEM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/Df6MnC9hmDLLHrICHo3Z2La1EYb9thGdDXvWRuQf/VA0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/DQ56MIeMMUaF+d8AEhhwj/G/xRTqjKdfYMuNk6aFShO8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/D2wP9WXDEKrpVh2f2l/M1zTYFFohBqAPRktKXdNykvBQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/D9aAXEOsSCBVAmwIDZKDoZKxHT17dJ7BwWHnzvkopny0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/DdymRd08evpKq9WZN3hGZGEKjrLg8sTRunky1tDY/3zc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdADiRVVCgiLrN+S7Hmu+n/D7LaaSdTjy2EElXuSct+/ykFXWGGVGU9XPoTrukFde9I=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/confesionesdeunasesinoserial.jpg",
+          "name": "Confesiones De Un Asesino Serial (2022)",
+          "temporada": [
+            {
+              "name": "Alter Ego",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDh8DHOtzoo9XF/AZImC5GPbPL/sg2ZJGzf+PEd7nA2ZDsdSbUJ+lU6c91cWwcRL+rFZKwn12Pp0z45g+5DCX915vHqPaUC4xhoj/oaRwpAaTk2BXMzqckWEXBPfMWe5jg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Desenmascarando El Factor X",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDh8DHOtzoo9XF/AZImC5GPbPL/sg2ZJGzf+PEd7nA2ZDsdSbUJ+lU6c91cWwcRL+rFZKwn12Pp0z45g+5DCX91HxQDwNMM9T+e6SSHPbyBuS52de+PMQfZQn0mqSz+OLY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Secretos Guardados",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDh8DHOtzoo9XF/AZImC5GPbPL/sg2ZJGzf+PEd7nA2ZDsdSbUJ+lU6c91cWwcRL+rFZKwn12Pp0z45g+5DCX912rrjf30BXPJ6endn3JhrjP9UnQI/GEIhZH+ZVC9Wx9w=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Caminando Al Pozo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDh8DHOtzoo9XF/AZImC5GPbPL/sg2ZJGzf+PEd7nA2ZDsdSbUJ+lU6c91cWwcRL+rFZKwn12Pp0z45g+5DCX91qREOXE9qp88PFv08VLiJ+cmstXju36qKiPB/STe/ImQ=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mixteserie.jpg",
+          "name": "Mixte (2021)",
+          "temporada": [
+            {
+              "name": "EP 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPwsZL5OhEP56Tn6MwtyIvrF4a+NyWxYrDNhQyHN5SbIZ4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPwTG+xLEVy412rJRX7qhcf3bb+88w6UhKDpkzg9Hy9sdg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPwWeDpRlvhLPpB7xUOXk7e9DLH3ClBsRlkVaojEliBjbI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPwsAb36nK222diXh1X3y4AJV+ZQooMnl0cUranxqWJPYo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPwY3GKDVsfe85TAFdTG41Gky4YuEg1Yiucce8dPxCOXnc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPwcfza4ZCCimQ4JXAjl8oomL8TcfL+giP7GZ8I4kcGiGc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPwo4jm7UypBX9ZLhTHLHWI1Hzb2j3qwXfGTU3qE/rqNDU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMWCdbOm+q5DUgCOn+PWPw/d1E/MpapLg/yyeyyM/WAaZA2RnA2Ma474/DsiBQW5I=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/drdeathserie.jpg",
+          "name": "Dr. Death (2021)",
+          "temporada": [
+            {
+              "name": "EP 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNYEeHTB/UJpxqGQpk5bMjCqv8ZeoLPXRAhm12Zdj8uKg",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNQYqWd2MRUS6tUb0553LtBLadRMZPRpX2nBFwUp+7vzT",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNdC5VBUWamqp2Pt04m0r8KmTQxcs4rvdqm3ysvllKpuV",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNb+nvrsb+1Ja76NQRU3RWxXLjsaFhq6VvhhgnUKFDNcG",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNZ21A+Z7b5ceafl6nfXwFoDs1BEVK2wLThVGn9zbwTJP",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNU2RHhySV7nB2F1zWcYUILYOqkewwWk4T5dLoCCd0HIP",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNVUhFaZqJHanucJGcIKlo9GmbwtVa3xTXqzxGRwHHSIb",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCp4U+pq3hjHJdjtMmic/Ns2pmSF5+8+QV83N4D5zsRNaFomnhKQD73JXRnJMjeDXJ5Q5H+FVW+6Y5Enydmh5WK",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/laluzdelanoche.jpg",
+          "name": "La luz de la noche",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cbkY2Ii2y58WG6Dh5/rb2W8yLtGVCTw8Jcw1jNaNaW2g=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cvN/6xjxrRW1wzfN31w3IhzHDDWvBecvDiNThanN7r9E=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/c2rQ7KhhAV3loM1zpqSE5fO4w3osFKah8mXoOCHh7V78=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/c7Crm7/CRdBcGKIsZ/pqbmTKbApfTOobY0WOjvGY0LAs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cQueFJd9pZjIvqYx37/Rb5SfQDv9UPWO5dzExydf8f+M=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/c3t3ixNRsy0pbEglZtp8qWzpIAiYT6cYAvHcDTcyeX58=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cQlrEdYIYQoo7lwHpt46gMO6pq8a/W0z6NwyQKKcqKAU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/c4UrcojGe6tO98a8yHqEfENkfVOpm2J440y7MczZvFNU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cFNmhwNI8TV6bNwdnMLJvHX8PRyrKrnQPjRirfPzmOijY+TgpnlHIJhZMZpIasOi/",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cw8m9bGMig5xwTDxOyzPXIAhiOflkxQk+zv6MVnCq5Z0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cbBp58lu8o+XQ/rKsfnbDVYN/xo+dbLyXTz3RtDzyVeI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cHZ7GN63FQTgDP3qrZVInmxr/oyGINgBpUPoTw5oaA5g=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 13",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cvTv6pcwdvx/XPdvMyhVN/oBzOWzGCWmGKh25P0vFoW4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 14",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cub9RaGx4R75ULK1lT971Gzzqeh1+12hat8y01+QxpFo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 15",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/coGZ0RF3pZ0o8n6y6OcqCECwkyQSyyWisGZ+NRfHLYxM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 16",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/c7zW83zKGMQTzZJa6t0Gx2VhCTMdHKwjjSQwSXZUV2os=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 17",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cTF6+OiBxdEQvlZbkzXPNEUWHk80GM2UYNwItmRq2ofE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 18",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cdL38VOUWpomSayejzkHPX18AjppSmQGK21FeKOwjSjk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 19",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cpbF1wBqbl06sxPGWIRaEf+BmISuT2j3ALjTxaUeyxmA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 20",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/c+TDN8p8iL72qmpECC41UlCagViuOs9tPcr56MpfAW+8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 21",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cgY9Uu41f6VkVg4neC076ikBpeOiQM1TOv9PAj49upgk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 22",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cFo2faYHWdcSphQdWtjby6u+D0F0zu+0acJAq+X/Kejk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 23",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cSGcnVw+9YRsEQBAESp5QY0wABHQcuKUL2KHeSO1cYDo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 24",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAOfjOW4RqWTPiWNNZ5bz/cee1zh7v4t9qFaC7XuzH6JsuodOO+vY9qrdROVtp+3OU=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/coyote.jpg",
+          "name": "Coyote",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDtkLbGJwbQ7wd6fLlwk6uWT7yinqkjZGmv05dPyoNY4A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDnc1u7t8eZDUGj46nzM+SIWFSxT0PdneoNrzSHCF9XOw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDtkLbGJwbQ7wd6fLlwk6uWSM8OBikrU28TAcCpfdX3wg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDtkLbGJwbQ7wd6fLlwk6uW62PgGqHOpXm84i34N9K5HQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDtkLbGJwbQ7wd6fLlwk6uWBlh17nIeAPa/oT6R+SycXA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDtkLbGJwbQ7wd6fLlwk6uW9g/ylLTKebfSkePfl8w79A==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/dexternewblood.jpg",
+          "name": "Dexter: New Blood (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2eerjh0V7NavmZO0Lb4mFeDUnMc0pV6UZrXxh2Ijote9M=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2eG/+IIRjUp8PyASMW/IkmgtgzryhFmCIJHUn0elnt/hM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2eU3xv+3GM26wiR+R+2Nsp4o9xlVfAqYvmfpXAJT5E7NE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2elwgAqtjD0jbA5I3GnnXswvTcB3Irh4aTi7LVhwiVSvI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2eZJKhEXHQIJ8kD+gXq8V0tQBpn3bJScSsX0O2eDW7OoE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2exXWaLvArNAtKaELeXHMLUrfD4i4EHX6D3ZUSjju4ZDU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2eab0Y8mcRPDUfyuWyh0TAub8sqP0iWuMoM8PBlJOHceM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2eguwOAb0ZFB7qdKnn0wquH2Q9wnZYRcAflxogzYkAsl0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2eeaCFjB/cck/24ijQHQPHOvMloSjuqdJ6mF0ApTIu310=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBKtFMUxXNVVmXOd/dloG2evTLf3RD22TsjsiKCW8abpyJ3K3cLuFX6e0Wica3/rkQ=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/maradonasuenobendito.jpg",
+          "name": "Maradona: Sueño bendito (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHoqTqQBz1iAosuuiiZjqdm7gx2qD1kyn+LBHDIdeej540=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHo/D6P4ABBigr/6SbzcL8vZadQr4ojwKYUb2pbkViGWjQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHomjC54lb0JcYm3vBryPDBX8i5/v5qwgd5uyCys3PufYk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHovpiJ1ULvbG5vzep6zB5T64zRXZRevHsRBzMVRA9vT/o=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHoN6WcUVfOrIwWZt6LrWCzUD3EP1cXPOhyuY3xcCzYZM4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHoQPNbun60UaZ82oiChJvJz15dVQx+n+6Pvg2HD04oZws=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHolRVTjqWi9vNVap6l057FChepW2IyZGk5gdFLerU67Lw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHojbir6FTU/SSdkNskIWJLubnq2knSoKxRcifCpq9sCm0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHow9cGcWLN2nuL2X0uAYopVErJ5lSKLPVl7e3YTmmDt1o=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBt2LwOmnfuNrw8JYxUjbHoAlJw0YmUDhBc+e8UabW11gHIQ4EGnRIaABJJnN1dqA4=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/narcovszombie.jpg",
+          "name": "Narcos vs Zombies (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+ljf1NzbsDXs56Q3tjhSIqKWKQVzPGRJEQyX9OwsFdzI0Y=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+ljxQh59q9votzKb3QCg94MwdVwezGScx1WG3VpWMr+hCE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+ljo+kUz7S3EDL/ZHJkTPTa1TCVZiVsZYhDzqU4eZ4Yf6Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+ljQupyxeHNRIawjMLvdnnmYed1lrfDK2AaCjc7NxfApyQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+ljg+s5sulL/WBMqe0XJw7WMEGw1frRRB+ZZBsF+5UW0/I=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+ljv6koAOx+S8yiWax//80JSjMkF41msRyBRZNmh1SqmTs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+ljH3dxDN4EO8cJ12TsFbcfwqw2TLkYnaJ+GT+7/v4Yqd8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDmpBHR7NfdenIMzkuPG+lj8k1Jj+xXBCZxGLJgROPchrKN3uJ+Vx2Qj8/fEMXx0rk=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/thegame2021.jpg",
+          "name": "The game (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBSSThV0kfIpPYbOrZf4xXwGJAySsZORcaKCKOkfY3LcA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBSSThV0kfIpPYbOrZf4xXwKqthaR25ZPRipEGcNQIwxQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBSSThV0kfIpPYbOrZf4xXwZth7ig+CpSrBhO2/6mIHDw==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/treintaynuevese.jpg",
+          "name": "Treinta y nueve (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnb0V3EWf1K2YaU0G5plXCKvESpgbUqtJK/+lLzCwDTpU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSniygclldrzDgtfSCUItt8rXNYm6cFkul6B9XqVNFpt8U=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnFGkMx+hR5GtIi9nHkVDX07g1f61gGKDW9UV64+lziQI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnqXn7geYnoBXTiTActqVrVyawbXWsz6twVGYD/5XldMo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSngPioAWeW7t4YULEHHIjRRTZHDp3/Gbgb0TC2mq3ckdU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnO7MtAkAEBaF2AV5WIPAlqtlYbyAYqS+K9yWfq7qQ444=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnqEjlsg/obdYeQEQ/5pwzi4JJ4BZq0Y3gHuqu8b2SfRo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnN4bhNtqI+fvD+9Q5ZkKoM7AQUdOqCrdRvssl4QYgAJY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnt697GiAvPhRS20OE3PN57HhUZ+P/l3MvFJ9zFpMjRrg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSn98ePNJo83sdPmxupVfqtIYjWdbCZuYTHAG2oNUdu4ss=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnZ96cKzLJOkgofTKfKwxUNNgs0hWSa1Xl5Pij+DBoOvk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBjapF2NSmbUyoCtDZNAaSnsEJYqwNMyztM3XWkFqiYkh2Zg3wkA4kre8qoCcnRi+o=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elreino.jpg",
+          "name": "El reino (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFfG4tuB9+JqEgxmPGvr0rJm7WN0nnRj0PEqOGE7aD6s78=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFffzSsyFF+0mqGrXrUSGcl0cBZd70a3ogEoircgpVxXaI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFfHsJc9gm93k6TO8ARONAbpTZsckq/5NR8eEacxgrOJ9g=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFfgpk5/d7hwFjQJMo0kir/F1fWl/GiaB0IxjnAhb2y77s=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFf+DxBm22qeXa44GmmDjVXL4B0gnYA83LW9CHVr4Bg6fw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFfszOzMWkIYo2dWpQi1PBCCsMCcIon71jDrEFfIHps4v0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFfSjryjbP9n7xZ7LbktSIS0RQ1nAqR6It1kUkURFA3GLw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBnkUjl7+S7NT/68Uc4WUFf46ALG4RBt0ugr6XfDOzcGCIs/adDLZrvB78+38gMTbI=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/halose.jpg",
+          "name": "Halo (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwt9t8S9DC3sqf7Sd1O8aEobA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtDd2WxWFNK4kAnp2TTyQ36w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtJUiobWeeH08aFXUpJeDfyQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtGIZQD2FoyIeyD6rgUhz10A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtDofLTSRVIkqYMzzl7hqFNA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtFyzXXQzX7fGfwcl5dIS+EA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtgQE+9sLOblsZaPNeWLNf3g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtbRnqiQ6+AJZl+Fedpy90jA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDk7Vm7iy4OLD2QyxjEBJwtaWuIqehuB1TH6knV8EqRLA==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/mananase.jpg",
+          "name": "Mañana (2022)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhJENOrPDsT066ZHai9AvsCt6hfQVPCbMaH9x8B2s5vd8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhwhl1LI4ELiDudtdplVRQlFzFSKvg/r+LJ8xMoK5UVNg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhzMYqehrdNqPYts7CaRBIllBH9zrKIPH8yXd53O9FGrg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhkcoQykdHlXokMW0jLeGkX//ARi27GV1q4uKRkNvtU0c=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhHzMKP/W0u9ovpJE6uJ6SleJnTU/O3mXXoYJTga+MBd4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhfaE30djI6rEr9S3hqEfE9uWymyaqIpNV9CfC5OVkTYs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhrNylQCEPLOCjU7kDW0i4bSg+atkzm2pOUbv+R91AGis=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhrNssF2SqN9cXPoRqKvhaLLLiooMhVgaai31MDJMgupk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhtCxbDVBl7zi7u8tBWozuviQBnaNVH8msY4oFVzYMFcQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhtPo68Cco8QggtnzmEgfwYExpSDqNc1iofBACQtFJSho=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhbl16OahS8C6HiVMzkOVWq+w1oxilnqM8Gf7gSHrU7ZQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhSxEEHxVEVlaZrM/ragujNT7Nr28aGuoZXTgZLVjZNpA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 13",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhdI2E0LhwpgPH6StDdVYfxTGP2kyEDk0bmauD+dfSF1s=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 14",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEh2bIhpEKbif3m/QUNeNwvIfWc2klOC4J9nZcc1PS6Soc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 15",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhc96lkUqli0jU9iGYflSwz89/q/WkStQ+L6kZdrPwzzY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 16",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDveyiub/rvRlhGzgLFsWEhjOZ5l6w2DVQZQ7DYJ2f4g+NStZ6p4cIQMtOCNFyusHQ=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/harrypottersaga.png",
+          "name": "Harry potter Saga",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBaNxqPOChj49V/a9RG098NrT6gBrazB2Q+ATIv38kU/2emSkO6cTdXx0QY/z4VHfE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdA2pmm3fUHTgGJXJIKQ0AwqQJqoeeJhoUJPbVb2TnGDdzYRDlxHXLYE5ILXfBEPVkI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCnPHBUXuXT0rscoM+TkhZZo/dvjZzYYLSvFDDFFBlAZV3edAzzNhnyi+8srLfgruA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBNmB7DuS+UFZulR012ywtBXVxwPEbAUzjN1Zayxf/AbWTRXVqJgZo/2ldKmDUhBJY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAyu3lLcB6tL3+7BwFGGixbEVabpM7dhkog9RAxAZXPvS1+B8iHWPuELOwZYWvw+SE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdA7xOSsdEtyBny0QO/R7ErkMkOp7v3HHkT6k3prT9Q7zvvBGrOUDWpBUjihjqcY4No=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDQFlwbn/aUuSWKM1EpUGIL3k2rp4w65aIHe9MEQkg2JXL5zpkQ2H90oOamlD0N6Ug=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/chernobyl.jpeg",
+          "name": "Chernobyl",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMTTAvpZT8g5kTN1e0VDtBkhc3UiaaXkMiRyZMo6siIg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMTTAvpZT8g5kTN1e0VDtBAak2iTiILqhEFgu+8r0lhg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMTTAvpZT8g5kTN1e0VDtBSodpPFJOQlaELPLEYrsP4g==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMTTAvpZT8g5kTN1e0VDtBDMjaEV1B5bNyVTNxU+P+YQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAMTTAvpZT8g5kTN1e0VDtBizYIloTrCm/5kLR3OLJ/mg==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/la_liga_de_la_justicia_1.jpg",
+          "name": "La liga de la justicia",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKlVNNFnQtjJwJ/Lo1dG3Ofav0jv7z4vEjZgLJJ+yW7Is=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxK3Ag2R56xhmyM3dzMrxUmXjKRaIxE5KPQKyCkYVYGlCM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKDChZaNQu40uFiJTLi4LpjHKcRYpTS0tmd171EoGMQJI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxK0+1ZmZ9RMPLlQNLrl7HogkOSnENI0VeDIpP7ZpxpSGU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKe0Vf/iiTyTNLrcnxsW8yz2BjkwknoNOtKuU3GgcFd9g=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKh5BVFAIru4VQ0vgRIAMNT9exPTlNGmcPRfrS+xVsbvw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKP0wS7xt+DfjSCPVlugTtey06KANypLbeTauKmNCiZYw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKzqEicWpZTDYW5D7y61qFoytqtTneQD95npkbuVBlHEs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxK09RoAHAIBItyZRRsL5mB+jKDUGsRRDh8FbwMeQ28T84=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKsu1fGdwCssQUU7CpIQ9f0P39mzDVQ3kdon3BceHx1wA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 11",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxK+ZzhI2t8D5bAlQExmYBKpMT+7CX9nalRNn8EKSRfHgQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 12",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKGZJgI0HVR+A7U5ohX8K9dxtmluolKnpiVQH8SRwfnTk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 13",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxK/uIYuGdcPvbWd13RRs5yX1HOq2Ef7f1/TfCVbUkTnGE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 14",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKKsIrmuTuo++vaU8jhWOK/GI0roVA3TefUO2K4Le0Up8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 15",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKI/FEnjlbmQj95sdzIRGS+r33HD7jxTM02MzCwRN3w6k=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 16",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxK45d5n8MDyJTXSpVf1tUCCWFuWxfVKFYaGOha0zZTiH8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 17",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKWbJiUS0zSJI5SgKS/aEJ7R/FptOFE0CJBsHRFSyp7Qo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 18",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKyUyzH6gqxVHkIYEGahHbLjUftjEhGndoUVbO2Bo/2qA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 19",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKjeCfC68nwOSPcRSGWDcvSa1+d3XxLo7vQ6Y3sDhXTBo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 20",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKCh7msM9TTioEbcCMasUx34bl4NhVSkd2y1dtJfPLyLc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 21",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKbbMzZaVaqxkPSITZFe4dMCtVvDVnMQpMERNdG9bN2ik=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 22",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKqEz5spdXZ2YLPaM2nql0210dadeH5NH4++rNfwhn9+Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 23",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKLSD2uByKhIiKXhhZE7LbP5rh759wGS1dU0s7OQ85T0U=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 24",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKsYZ9JGe7a+iFtN09pXfSsZQnQ6P4GeNY4AzMfYCPLpI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 25",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxKROXgHBXLJo2pYArTutvINPx8olUnkOgust+gc3fQcBk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 26",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdABPn5cEWY0eReP+2/0MjxK8L4fud9dfNKh5grQxvoKRs6L62PGD8qQRIY2PnZhcZA=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/chucky.jpg",
+          "name": "Chucky (2021)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgozr9qwwiw6KbsUCXwP2EpuA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgo7F2cXErk+tXZYTrlFDh1A4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgoz1GViZOVc97bzCmvmPDULk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgo9G477V117P6M+VKCwxZcYY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgo3Twe55NUtu+PU1eTBfKr2o=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgoz3rRNMaED/HqkL8od0jSLw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgowcUpFLzrV/Zx/UU3IG29qg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCTI4EpVhJtqMI4DtOBgeuEoTBZFOhVMQc9G+WPfXqgo3WbITuwTWfmqrmYTTAml44=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/reunionfamiliarserie2019.jpg",
+          "name": "Reunion familiar (2019)",
+          "temporada": [
+            {
+              "name": "EP. 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCt5sG7ZB0FRaFqOphtnfl22GVG71JsyHvi5xpTicyXycQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCttAd+hPI4ln5ZHrHlBDBBHQG88e267kgWLq7EoJnAZhg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 3",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCtB5CalLFX1YQ8+s1Z3/uoL4vznS6ogqRIaDSKbDVnMkc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 4",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCtJIqnp04zPBFHSro3JQHlfxgADoCGXoDM7oCIwnbw3bU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 5",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCtN2rUhOVHdR4xO+a+iI48JTMHstfOAtNp17Wa7dqVkhs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 6",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCteMQ3qXy2icqPm831Piw+E0ZcuGO0h81iBXbFrUYQozA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 7",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCt4Fa/LWb0YiBgfFC3L+GPJ4TvlW20Yx1Iw/g1L5SfpEc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 8",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCth4Ua2GgRW5ymUTdjOfXudkCBba23i2yb+3pPPs9gG5w=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 9",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCtS5epQ3BUMGlTsdvRn0tWjUCDPpIaImztuurM30AXd7I=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "EP. 10",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAJ9W0WQScjj+F9+Z90bQCtkcOMnJz7Ef5WkhA81euHGVkultg261bmOBqa2LIokZ0=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/campamentodeverano.jpg",
+          "name": "Campamento de verano (2018)",
+          "temporada": [
+            {
+              "name": "Un Barb nace",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7hAS/wYHpXge5jKv7iBoEDSWm5zOxZn7b1xWGE1nKT96",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Leche Tibia y Susurros Descuidados",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7sBeFR1or2T28csbqfSLT6i7kD/iSSLTOutm4HEi4YgZ",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gorro para Dormir",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7r8CSusQ3CCdijJcSfOcPVwelVYNJJxwO0uIK0jPE01F",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Eructos y Suspiros",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7gGcykdbvlacxvuuq5ALazdxZnLkOnWxl5snwlF+c3vs",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bu Jeans",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7oBwc27h6j6d7h70+UeMMLM9o4iT20HA08nlHzAKHOBS",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Hay una raqueta en mi arcón del ajuar",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7sdjmEfd2M+w4YBS7FdR3+GGtjkzyMiN4zXTNgdknexq",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Brecinas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7pzw17JbHHooHSIY7VzZh2UvZpUQEZZUmiBYhk0uZd8+",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Niñas Vendedoras",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7hDq0QFJcoZfLTBTdmcKnXV8Oey9M1+JvUtkHIKlTXgw",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Amigo de Mildred",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7lT6RqMnLFX+o1EecHAWROk21yRkcAkpCOySS4+OmVhq",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Oscar Solitario",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDruhN81WLxofqIHNfaAC25VAT3nmuEzpGHMJt9Dtqq7irLq/mKpPycTEh+/xeITDu6R4MechB7xevoLWe/Hfsl",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/playamounstro.jpg",
+          "name": "Playa Monstruo (2019)",
+          "temporada": [
+            {
+              "name": "Widget Pierde La Cabeza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+WAlmTp2X3N6kYsgjxDu6lM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Abusivos Acuáticos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+YQPJDu4GFcqpznzQ0pOPl4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nación Termita",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+YQdzHJ9NVbF7gvJL6KuMN4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Vibraciones Macabras",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+cJH/Y9VzrohNzYZ76iyCqU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mala Huelga",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+QEKe+dQ7apMXTtwk1p8dLk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Cono Del Espacio Exterior",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+TVaGSIf8hcNPz+naKW+m8E=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Al-Tiki-Ado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+ZOh1RwcpMwlIjxZngiLU5Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bueno Y Knutty",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+UCiKqZhhl9oKCrHDMU7aAY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Prácticamente Perrosidad",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+S0SZQl8UDGhLt9B/DmY5dM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Peores Amigos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCwcdGlcjsV27s05pUzo6aZRxdceN4691VWv9zYcmnD+Z73rIQU9dPrfIHhG6tdMOlGYcfVLEkpGOC65K+QcYCA",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/tiograndpa.jpg",
+          "name": "Tío Grandpa (2016)",
+          "temporada": [
+            {
+              "name": "La Visita Del Doctor",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bz91ga6YahJ9yjQ3cf/fHz8qZmen0GurMdYUkTQDL1xQA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bocado Equivocado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzCCnVeis1sI57R5u7cLzfCAtmoovxBaOdyfj7ACFGzNk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Privación De Ovejas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzO2iwTGPU2LdZRYfW2FADqoW9YO0VgKCQy76K1g/QOeA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gato Sucio",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzkHQq8psL8AfS46cf440NkND04MAeYGa+92S4LIPYad8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Odisea De Tío Grandpa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzzV8A50GpJEej93R9scTNCFg19vVhpcrnwQDfM9KrTG8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Fiesta Sorpresa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bz9Tej7d1p7+3XRjGGKMHqZChntuwkJH2nLGZrpszjIc0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Buenos Días De Noche, Con Tío Grandpa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzhmAC118rsLUoGQxyUpjpYKQTPwh4WskSc3/+eiMlj+w=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nueva Dirección",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bzuv7wJJMgrOn4FkOJZqdG5ik5+e9KtLE8kCABeDkZaTA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Manejo De La Ira",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8BzC1hriFKTEHS9iDUtVkTm5q1Sr0dA7kYx6MKf6Uj20rs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Pasado De Pizza Steve",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAwrrdG7ufIWKMbJbLyC8Bz2TqKLXOl+0z28awWwlrHCKkfG0Vvf8ve6DAH007QULI=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/hermanodejorel.png",
+          "name": "Hermano de Jorel (2020)",
+          "temporada": [
+            {
+              "name": "En Busca Del Edson Perdido",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSPHeZkd7thmiDD2zjbB/e6CCVMHSapWRw+QiZjrFhao1",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Danuza Va A La Batalla",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSIYIrRzqVaqeLs8BY3J280xYaKnCQZr/2NxrxZtidbHB",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Solo Felino",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSGfXiifwV9+TObfbvG/NW7FakeRzQjiqbRsrjpW1pi/z",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Mejor Videoclip De Todos Los Tiempos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSPdZrCgajNp097TfLES6+lWktHcLm+Gjnhr8egW+5zLg",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ladrón De Centro Comercial",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSOV3qmXq1uwMFaOnTWPnhRg4B71YLfHIMFN7/PvGKsna",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Primo De Jorel",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSJfycWsd6hTkd7aV+DTyPWXFDKPm4GEeZuiYJ9jk5BH4",
+              "drm_license_url": ""
+            },
+            {
+              "name": "No Le Digas No A Mi Sueño",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSDIm7MzJ4XvkchOQnLFYfnI7x+fZfesRqnqHJLO0WVA9",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Tónico Mendoza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSElTAUpW/DAPrPiJ8+mx3OMQmDrZ/wfut407lfseOwks",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Niño Herido",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSJUB+K+keHLUSIvBazWGEDLl1oW8jIq72QzolR8SkHAN",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Juegos Shostners",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAvwAWbK5wplKY5dghIBtMurGFix0COvwBhOB0KTOcvSO0jGq58vV5VIm3N54HDmzzvGOziAhX+XAj5sScmIgqW",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/eltreninfinitose2019.jpg",
+          "name": "El Tren Infinito (2019)",
+          "temporada": [
+            {
+              "name": "El Vagón De La Playa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7vgaWzoGijSNq+PTZfYejP+2zVG6gfCHqkGbnPePiAUl",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Los Corgi",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7il0Dg68ZyAEJW3fszZhw4DQX55L+bxGAAC0AEh+p2gw",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Cristal",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7oTkv3MtdbHi5yEubTQqh2Bn27PT/f1OK1QpKGnstq62",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De La Gata",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7kn5O7t42laEAAx+3j+Zge44HxQOiik+Eefc+iIqWQQe",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Verde",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7nwEWnAM4lhMFz+kyaU4fts6RatykYARBfuETgeMD0+K",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Cine",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7jFvAaJS8FOt3hZE4LVV8asIp9jxKkwYrm5aKdOdPhp7",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De Los Patos Bizcos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7ujWVGt5UT+7J7+MDrAbNfRuR22oquLU92Clg/AwEPLe",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Pasado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7oLBBvxN6v/wNA7/CyczhzAUi8t5XpRYESYe+SQ2D517",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón Del Pastel De Bodas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7i91JnndEStRWxc4ogp+bedWHQtRvvRpjIATVdReM5Dr",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Vagón De La Colina",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCH2c/FsAq3P9remCnZY28eVtNLXETe5+wSxXqDf3rW7vgaWzoGijSNq+PTZfYejP/AN2bnX9Oq6UXl/go2Tymi",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/cebollinymanzanaani.jpg",
+          "name": "Manzana y Cebollin (2020)",
+          "temporada": [
+            {
+              "name": "La Pasión De Falafel",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOBILKuhiuO4vjOYeWI/qtGdNLTMzDTDg0kOSvy1C5tIJ",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Agujero En El Techo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOIiXINeYWeAIwVJa9qeZaws9Tsv9nODcbelAAbTRdqLo",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Ley De Patty",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOJqSwdv4xzajhSvne9dyiThm8W3pt1HzUQcKldK394JU",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Comilón",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaONvfp7xv5qLr+CgYa7ZcE4CYDXa7l+RL6CqdQLMvZie+",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Mesa De Manzana Y Cebollín",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOGLNSen5OTO6s+pWHzpshnm29Zbi/lyw/WUzLRCNtDDH",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ferekh",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOKF45AgB3Wl5oTKCqF8S5UTK9uioi//si1SFJW8tTChE",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Palmadita",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOETC4v34GVCFZWwTeh64X/XvFhEVK3TOXEQdeqsjSkWz",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Gloria De Falafel",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOOytZnskJRPqo0iswaKGjSuwzHAWGMdBP7Ms73Dwq50w",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Espíritu Navideño",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOLWwbV8G98jOIHBf1FaC1L9Dr+vg4KXda1s2MFMd5k3o",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Zarrapastroso",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBZypOLefjF2OlVODAcFp1Uf7+QpFnyJjc3JH8CmJyaOFZcVzb8ogrqcCdfqwgB4ePiq5x8M81S/dVxPVlhf0qM",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/cebollinymanzana.png",
+          "name": "Cebollín y manzana (2019)",
+          "temporada": [
+            {
+              "name": "Nosotros",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZkeeIU7q7ac38s6NdVn7mNvm7rdrrL6dN4ITqfjAXDtyg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Zapatos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZkAT84zgm3EeZ1kiS/eyt6746m8D0jQtibnwPiVHTOPCQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Puercoespín en la autopista",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZlCOCVwKqYW1fUajr9a5P2Vkj7m5styl53RidkKIa+lmg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Rimas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZlQizGSJ03cX2TVAbG8Gcu4sT/idrv9zBtkkGlRlbL9DQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Agua",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZkEVKPmI6kds0A6GGi9sQydk+t+kPKRWBileYSGuL93Cg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Dormir",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZnBew7OpK4MgQtdNmwonLyfvgsHU+hTOh/nojJwmfoT2A==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Al corriente",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9Zl7PaYBEcfmw7RO3Hd3H1Jl7HoRMnmDXtkJyItxh385Lg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Pizza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9Zmwucs+UGsRMZfGRs0bzBSJBvX/fECp/DFTYuHAPPpgvg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Baño",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZntUXlefIaSbI7XmCdIz4EQ9RRnhDnHN3u0M59QqzYLOw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Lustra mi cabeza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZnpVTiH80VNK76Nju+skg7Yh9TKD/BOIHjj9fiq0GlEQA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Adiós",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaQMVpIyHS/O2dAbEVylzTPp2/U9mrQdi96Xo6vbk9Aqtmz6jFDeM6cv290bSi9ZlPzo6W1zR8d8Uo026TWf8zyb2WEQeGJleAS8Fp1a+d+Q==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/pilly_y_el_guardian.jpg",
+          "name": "Pili Y El Guardián (2022)",
+          "temporada": [
+            {
+              "name": "La Llegada",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIlwyNI2Tw5w5x4AKonbsW9Ul64TeGE/XhP1+yIrH1u4ZQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Despertar Desastroso",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIlax1KAgLMIJ2qYj2saygGGNy3YonOUoR2OshlFRu9hIQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Brillante Verdad Verde",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIlEnwdxlBWfR3iDwjcFctHncKfK5o4fucC9bf8mxWcNOg==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Regalo Inesperado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIlJTlaUHqDp1pbWGXMhhqD1Wc54Ro7vtlc77O5Vli6bow==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Viejos Amigos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIndilJTvtajcM9NwTxDalByb5TsPH01PFBnnWLFdaTB4w==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Nos Vemos En La Torre",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osImcC5TfrHCwgy+QUIj0DyD9io6Dy2OHwNjMCw175YojQw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Hombre Con Máscara, Que Vuela",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIkmMIIaFxJUVIPUtUSYYsL7XYV5dd0jZ47xUaoiFo09qA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Invitado Muy Especial",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osInPHHnyeactRCFuKLj7Z4zMJBBLbHa82Ws8bbH7nZxTFw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Esa Máscara Es Mía",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osInw6jFqDEyPJN9GCA9Ccj+JjQ9OUiL5kAT6413E4JaNFA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Verdosa Turbulencia",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIlvp4Eaa402Ta9nSdfoGc1HDzDq6ERGrxt+8n5uMNgHAQ==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Superhéroe De Ciudad Radiante",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIkVo0Ho4XzLtiVw2/D79LPJhOC2mcNZia9I2H15m7Nqpw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Plan Dsastre",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIlVHaQ1qdgD5r5D47jnrUJdfUoWAY78osMVyjRVMqd4nw==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Partida",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBbqx5R/huna4HCbIcexxmxFudYZPX87nEXN6Y8Vm+y0qPXV9dhN6+wSu71Dp7osIlEnX8BKxx5sWYRr/4MnI/XJFvBNvYtw6dy8oJ9GzNMpw==",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/peppapig.jpg",
+          "name": "Peppa Pig (2021)",
+          "temporada": [
+            {
+              "name": "Aros",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCAVUacJHgMwKpQi5eMdpD1GTImTf3Dq4gueQSbJwogzA==",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un dia en el parque",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAqQM2lchxMTfyevhADl0YrgAU9hOAU1/73yxIHfQXI02k98eFNdHuhA00TDNcdVjU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Bote Salvavidas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdB3bLLa/dJBzlksJieyPTsMqD5bn82X5Q6kbQmCR8hdpVmPzP/SwzB/zy6ddX6KXv4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Canasta De La Suerte",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAbdgu0P4J4goZlzhGesTZCfUtw6qFMshh8KzjKI0jmmFol3FAQNVhvwJmv4tVAyPL+UHLhrx6TkrbNp8/HZTgh",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gelatina",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGYrUAZuHLJwJwLBjn2WMXOAI+EZTEb6Z88/+lw8T08VQn0FMjwJHeTdfPXLk/oD8=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/elincreiblemundogumball.jpg",
+          "name": "El Increible Mundo De Gumball",
+          "temporada": [
+            {
+              "name": "Los Himitadores",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqJKR8eSZIQylJiKwX31LhXIvf8uDmToGUS2mMbmbTC34",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Farsante",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqGjWSGL+eXWTRDnZ0nX1CGFxJ3/KslxRU9matVeSqhaT",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Ciclo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqPaYoroJPJ4Rx7X7kgrJstLaCalsQkh4lEVJRSHvS4Lh",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Las Estrellas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqBxZQXuTj2RPWU3i/5+fd+rzLvQQ4i6B0+qNUso4r7wY",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Casamentero",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqLgf1qFbz7uyeL8g9RUhebbAeL1J6BrSXEbx3lY/zrQb",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Las Calificaciones",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqDTBhaPeIFy4wBZLhGYssi8c6q1NPepAscZqVd+UXLpQ",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Dieta",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqDHpFEfQ/u9JkZ1oMU3Dp+wLUp3KbrxwpKBZlFo7lfZn",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El ex",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDGw1g4M/4SQmaaKlWt33J+q9RFbjFh1dRTUIgi/iYMqNbOtnYgobnWW8xEa5ouBeThS16W2k95Bt6iIaag0Igk",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/escandalositos2021.jpg",
+          "name": "Escandalositos (2021)",
+          "temporada": [
+            {
+              "name": "Bebé Oso Genio",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjM6eUKdtdBZqcLr5VT02VlVlLzmPudJUbaMv06KS1hZ4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Única",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjK3WgPL1BtP1iqYOiddtPdBWP4f3WCUEM8NstKypIVy4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Detectives De La Ciudad De Los Bichos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjWLa9YJ+Ufey8kqSLpQZMhsM5lpCKd/oMCZbgMoPXDVA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Grandes Problemas Pequeños Bebés",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjrWoV9INCJjXGYmAzQ7wsg3bMgaSMb1auRmafEU4dP3c=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Tres Tristes Tigres",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjegrjGQrsDyW5vydmew5uvZ2EKiWuV/toWH2yV2QCQYQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Familia De Panda",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjsNQTF1WNkl/o1whXAPuaDOBJlrBsbAKRAMbyh0uBU8Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Osos En La Oscuridad",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjqiXys9Udz35YiCKJl67qsgEMFoKukyBskTSzp/J1qEA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Historia De Dos Polares",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjnX7lmmaIxt2ait4JhS2j2WuHMwWhfwlC5eQaaf7c4w0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Osos Ovejeros",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjA0n7JkSQ6N2TtFyU9/llk1/lr4dlUgJnn/LaZRvcul4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Mascota De Polar",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtj0F/NvO6XX0QlEXYfHFVkYJ+dDW+arnHAwmXYAUyZWHI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Peste De Dragones",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjou8OW9K35Rv64YnwORbl/2oRnAZHxGRQ/mkq2lBxYj0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sin Tierra, Solo Aire",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjY+HTf5dm80qku8WB1TmNw9Tvs7EBXXEnNZMq6lIv+aQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Hada De Los Dientes Tech",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjUnCrMF7EtNXFvIYuf1jOlgBWS2CQVBtGK774bqX2t04=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Excalibúrsido",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjvfAlTQL54beHIA5bTEAnoNVpu5ocadSXryCDKNY3JXs=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Casa De Carne",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtji1maoRfQ8vRUM+3unkU/xctQtsg57NG+5aesNiUqABY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Polly La Lora Pirata",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtj/t6ZR+UsXsyP9K87hWf97qfYeGZzGRzIKOzL76e2Vus=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "No hay lugar como la nieve",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjobXe+VErA8StAOk6zJtI92qR8cqtrp0jWe6u7qLHlAE=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/escandalosose2016.jpg",
+          "name": "Escandalosos (2016)",
+          "temporada": [
+            {
+              "name": "Polos Opuestos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjLbKekO4+WdU9nR6YrC/4fIcrV+uaEhizhx8W2KQ6WqM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Celular",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjfgtxTUWJvkR/iW3wOfo51McUn5CFyU9xZg3bwuedE/o=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Osos A La Moda",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjEqIg2i8VS5WQBd3rnVnWtojmjxwUa09JF59mwaTfNs4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Isla",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtj2B2CzS/rksXDklu8m3Ou3u9T6x0zMVWAx0jrq5HcSgM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Gripe De Oso",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjjtO1veWrxgW/AS/2IlYxjls6nPdO4pBJVv7BXtlgf5s=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Oseznos En El Avión",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjNFDbHsxjgLQWDUqxOhsd+TT2y6Hv5rnkKfxY6MctUg0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Pollo Y Waffles",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjTS/OBUQdkuv6kJM7L52Q+AW82NzVtJHfYhQzOtBHzoY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Noches Heladas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjiWbQkeCxiB2y0PM/6LPfNCxzLPofwAkuEZTiqdckDfA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Audición",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjEKHsfKbz/m/6JmM4ceLqbvHBR2PPvlnc5bcrsBVuOEU=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Canal De Todos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCaS6LS0NWS53I0ob5GZCtjjroCakyHRFUmSFqUqN0USHdLzF14tRewisGDhBxn33w=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/victoryvalentinose.jpg",
+          "name": "Victor Y Valentino (2021)",
+          "temporada": [
+            {
+              "name": "Sal Es Nuestro Cuate Parte 1",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBnuupfMNgMP+L7IZuZpkDZ9abIrhk6Teb81WLRck1zkA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sal Es Nuestro Cuate Parte 2",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBHgusMsMmd31SsV0iuol7EoUkHNDE7ojta+PHleA6n9s=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Neblina",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBEUhTHH6W9dpq8GYbX4q8H+vYRDPCOROzj3Lqhwpnkhk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "No Hay 'v' En Equipo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBfqWR9UdJUXML5s3QGOKI70Q2QKJzvBeplwIA0KlSJRY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Enfrentamiento En Los Jardines De Mayahuel",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBtEbnnaJ/WCNRrxD2WCR7eSno2ZtBQNB+3p+dZ4OcPDM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Hueso-Moto",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBSJNIYcF93buhFgHGsvZggZ7sEcM5KncTLYOiUmhhUGg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Guardaespaldas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBQLXsXbz98OALqbb7OGCJhK43qSN7dr38+Ie6ld+IH5U=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Miguelito El Mosquito",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEB+2iCPJM3bRyEaokHMB7mlY+nYxtrqxG7A9pVzkMajZ8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Plan-Demonio",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBLWRtNlwoVwetOHOo2HpvAoKPAYc+Ij2XoEwlWUNHRKo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Catrina",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEB4rSKZyjLoN/9G0X/6wfTsV0147zAA2O7RTzLOH5BTug=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Patolli",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBdSakCxOyA7B8uzfTVmJEBFM5b1MTdVMmK5J9vwBoz5InIN4BHtN08B48BK1y1zbg=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/clarence2015.jpg",
+          "name": "Clarence (2016)",
+          "temporada": [
+            {
+              "name": "Peluclarence",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviP8o9B4rYgeclqo0uvvExJcCj1+6hlYLfYho7pLJJCgAM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sigue A La Cerda",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPKEMIhZN3PLbISSMlcdU4jAYssbUI3+mtRE3Kw0aURHI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Clarence",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviP6RPAbtT48KVrI/2u3qI+anEFqqXCSnOuU50ZkpMwI2w=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Castigo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPPpFpVL5ZEr9VQzdg46gWBjM5Y6D4vIlnY9kHwPekmio=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Capitán Brin",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPn2KFDxLUO0xi4AVStmHY2aN5l2gwx7tJHZkNbB8yxQA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Chalmers Santiago",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPK6sFBt9/YuofezwmT9GLD0Zc9rIsh+lqqSvu/wjRerA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Chicos Agotados",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPh+1pX+yCmSEyJSuqag31qhUVB89Sh6PYfopwHWdRDIw=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Bu Aterrador",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPeFuWSL3dvf7OuyxzutoMsvInS4lVt/USfbIwZGNo5Y4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Parque Acuático",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPW5vR2DgU8y9kCw9pAMF/yq1m5kbg0wHyIzb9M2XN5wo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Regreso De Chad, El Salvaje",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviP3BbbrSrjVyYWCBLeALKG1lNrKyLPkggIfS6HvD57Ruo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Problema De La Pizza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPHNtQ3ITsGOSrr+2wqPNe6oju9ly7YMEdOo7TqSoSIwg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Separación",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPxPQ9sPUkiIqp0fYIvrqAMVeHvU26NpRzRINTOb17HC4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "En Sueños",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBiBhNzFwN6Mjgnjiz0pviPpRmJMHBihIeFzQ6uuC9CWp1xfj4LEO9wlo8hyv+riIQ=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/horadeaventura2011.jpg",
+          "name": "Hora De Aventura (2011)",
+          "temporada": [
+            {
+              "name": "El Rey Mudo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAk5EceYb+BpuocTq0Gbxd/beBl4gs/RL5T8unqhpsaPI+GsDurUTX6bPyd3MKfKlg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Guardianes Del Sol",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAk5EceYb+BpuocTq0Gbxd/x5DVUOsAzBaK3ZU+A1EpigyEZEsHdRbqeVDGi6ffqFQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Muerte En Flor",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAk5EceYb+BpuocTq0Gbxd/0nrhjxCH65povEqbvWj9d/inFAy+wl82D25kLZbtUJM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Tren Misterioso",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAk5EceYb+BpuocTq0Gbxd/EB+JJMu37Vl5qxSyqgcsITH4SEiittiw17cATS+46tA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Panza De La Bestia",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAk5EceYb+BpuocTq0Gbxd/JWEeSW6VvJLHHX5zY+3MoaDqG70yKGjjehBRHWjwUdk=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Cineastas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAk5EceYb+BpuocTq0Gbxd/8wpjmhbk9Vn95GhSpiDugESwHbtHaN6k2izNtl7Ppc4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Amor Peligroso",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdAk5EceYb+BpuocTq0Gbxd/inwJ35kXBH3TF+PVJu9y1408/t2IXlN+U5luPF8zK0c=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/showmasse.jpg",
+          "name": "Un Show Mas (2015)",
+          "temporada": [
+            {
+              "name": "El Hoyo/asuntos Pendientes",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewloOJ2spacNhP7Dyw60pJf/Mo1nCkVDWSw6Kl0ytVk2VA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Noche De Película De Miedo",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewlvicbwYL2v7eYeTjHy64O0hWHwjcH8QOJ6FVcX8/3bRg=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Fin Del Musculoso",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewlD1XYXRcwZexGfN46pvMl4KJOrepQBu5K/d0KKIjmjzY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Intercambo De Regalos Sorpresa",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewlQlywJWepV/JyFcYZzar/Z/0VpXsk8ESvdJXfaXOcLqQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "El Almuerzo De Los Encargados De Parques",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewl208FgFO1y/OcP2RvEuLkRftOy7vqMwEBWcxtsp2lFmE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La Pantalla Plana De Eileen",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewl2witcve+GGjV62JRNKQ8u4byUuNKePlfzzTUUiyNW48=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Feliz Navidad Mordecai",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewlzss7tD6n6dnylzD/gWazQc8s1uFVwrRi+bFzb3bvOq0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mordecai Y Rigby En Australia",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewl7kBpYAOKnXxhoFYUKo1R0k3t/GrQDNe0aZHnFJJO/Go=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Casado Y Quebrado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewlF3Bz/8FVY99mr0x8ecID3gDMNZBbTaonJWgIrVn5SWI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Concurso De Canción De Cumpleaños",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewl5WMJzPopuOF+N8kQEsMKmeiq5aCgvvikKcIdC5spjrY=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Veo Tortugas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewlp6KtKLTeLi77ZnZykN42NNEZOND4iKFAckWp8ZohprA=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Los Jugadores No Dicen Morir",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdDlW16DJN5NgX4qup9A5ewlrnP6OaHswWeCR7UYmiRgkx0p/xe0BP+VShjV+dt/AO8=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/dramatotalse.jpg",
+          "name": "Drama Total (2021)",
+          "temporada": [
+            {
+              "name": "Espejo Whack",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39cS9lehnB+Uyu8pS5A0fUSI0xkcoNtYdRASFnTeyhFFE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Última Mamá En Pie",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39/VM5eBegpxAgNHtPiq+3EgJxdS0dpjp3wBJwLf9WDxI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sueño Con Un Malvado",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B392+hCWCYJSu+EW+oQINAyNmu5fEZ9xXiucdrqiW7dqk4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mordida Rompedora",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39bvfWviwqCOUwcDbzxdVbZau7rxhb6r1NfyJKaJ4Ja/U=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Sugar, Lightning Y Sustos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39usBHdWltB9x3BV2Bdmge1Vmfrvvlp8fzTyjPl7ZFKaE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Automagedón",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39+2U8y3Ks8TnJO/vMOoUZdwplqEKKcOTVQavPFPG9x9c=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Saluda A Mis Nuevos Amiguitos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39nHECP6mrfjhYYSazc7eaUGuIV+F8dq4m5VEzb53vo90=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Un Agujero De Problemas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39WwYUHxinlWlBOlVfu6Lryb1JN7Q8qTmDF0yWiksbJC4=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Parque Mac Arthur",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39aLBkhgCZXRwvtLdozM8en8xZblwE8NRfCtrRN76uMW8=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Ardillas, Ardillas Y Más Ardillas",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39weTNwyZsKteLkRRQ/rsl5V6tBXGoEXSgOxnwUIeTGOE=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Borra Tu Cabeza",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39yGVbtGUPYJB8BMmeXFnwtV9ySTM9PfdrXNKZB/3LUT0=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Altamente Exótico",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39MNF1AK0/SwTYNcop9zIvS/IiB13+bVAZK0h8fc52N7c=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Mastica Con Prudencia",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdCBqxr7NeIaHyRv7DKh0B39TmYa5FQ4/CYYWMJ+Size5tL6SwTzHTgPu9lcK2LAFZ8=",
+              "drm_license_url": ""
+            }
+          ]
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/jovenestitanesenaccionse.jpg",
+          "name": "Jovenes Titanes En Accion (2020)",
+          "temporada": [
+            {
+              "name": "Próximo Ídolo Talento Estrella De La Liga De La Ju",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrTmcbbsxBKMstdf5TsyvzVFmsMGr3iSLPtgfvzgz6K+I=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Próximo Ídolo Talento Estrella De La Liga De La Ju",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrKDPTn8chxTn5j0bCx6g3AWJ7o8s+or+LYhq+mtqsd5Q=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "P.p.",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrJuQlLc2oPOpQLGi711DqMrzxTRNcKXuK3J7A0d7ZEMo=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Algo De Ayuda, Por Favor",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrz5GPNdxU81rcxEXETlqWRZjzclNXwe/gHmZKsanG9UM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Marf Wolfman Y George Perez",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxruNnKk0BIIbaVZ4c4rTpdBugigAwEWpBDysst5JCL3Gc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "La T Es Por Titanes",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrTrcppi3N+WEjUOUXOCGfJtez5JGxwwAH7qevK1j7xDI=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Genios Creativos",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrMPEAwMR7qGMIgVwjBx4m38P9zs5ReeL5uwuOEa2AsMM=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Cy Y Bestia",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrjGFcrt7TjkCKmI4bDIap+6eS4mmoPoFj52DgFZeEkvc=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Transoceánico Y Mágico Crucero",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrfrloCkiMe+twaGmGGBg3WS5Os7MJevES8WTddbQS/LQ=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Modales Y Mansiones",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrTmcbbsxBKMstdf5TsyvzVB+xzfQ66yAY1aq3SePa29M=",
+              "drm_license_url": ""
+            },
+            {
+              "name": "Anotación",
+              "uri": "fKZDeeMII4hzzOisytLJXBUZr9Yrhpjdg26CUULpgdBES4ZpwAPDvAxPbZ7tbLxrTmcbbsxBKMstdf5TsyvzVKQ+lgf6CyrxrDC0HhAueAQ=",
+              "drm_license_url": ""
+            }
+          ]
+        }
+      ]
     }
   ]
