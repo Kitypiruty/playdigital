@@ -310,11 +310,6 @@
           "uri": "Za/5wKdQkORsX6QkR632EwxP+fh9NCuRUeINAkCAL0dm68XHyyZPOX7t7pzJidPMSoCyScqDKITtu7ToHY/CMsB2YEWcx4R1c4S5tuilQzyABCgmJv0xEF3MNfVULzbr7eI+XNc0BY6TsDsQl+5OXHgd/5R4K6ybkUy/LVBwkGm2429K8Cxa6VBb4phRtKbyP0cR7KToAlyMMe0ke7pRJytPQnHXQ8Zsg0ggt1rf5Wcbom9GH4r7MW1F0jSe1vf2"
         },
         {
-          "icon": "http://3.bp.blogspot.com/-uGoccAT1M38/T0xKoHTs8sI/AAAAAAAAScM/Nes43bKyhcU/s1600/canal3lp.png",
-          "name": "CANAL 3 LA PAMPA",
-          "uri": "B1cDBBct8aEu1UIfqg24AE8Nd4uhTkJStX66K9ort9va4nDZV/gFzVbIEev4IX8M1Km+QBRuf0mEtLPJxp5TYnGRQYolLPcPZbk4btm5zD0="
-        },
-        {
           "icon": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Televisio%CC%81n-Pu%CC%81blica-Pampeana-en-vivo-Online.png?fit=1920%2C1080&ssl=1",
           "name": "TV PAMPEANA",
           "uri": "ktNPE88DYayiYjdHWR/UMCnWUWZdFaBwww/wS5W4BC30AncSMojHA9baW2ZLnJJDym+zgQDAVewxui+IJespTdrXNcQ+SBsuNwabXNe2miU="
@@ -322,17 +317,12 @@
         {
           "icon": "http://rtn.com.do/wp-content/uploads/2020/08/LOGO-RTN-ICONO-PIE-1-1-300x157.png",
           "name": "TV NEUQUEN",
-          "uri": "ktNPE88DYayiYjdHWR/UMCnWUWZdFaBwww/wS5W4BC30AncSMojHA9baW2ZLnJJDym+zgQDAVewxui+IJespTdrXNcQ+SBsuNwabXNe2miU="
+          "uri": "lONyaVQH2JF3xxzUJ1VONSSWX7m3BdgwVc2fIfWJx9fUSwUf6OW8U4a2vxZry+XYfU6ouD/W4yXqqFEzRHZ/+A=="
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png",
           "name": "CANAL 6 POSADAS",
           "uri": "vJd3aBqoPybD2voHVEQxnD+/Xma2aUsyPERVkoW2kRDeJ1fSRQxxyhG7YzV38W2QbGH6syeAJDvgiphk3OHaBA=="
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
-          "name": "CANAL 9 DE MENDOZA",
-          "uri": "b6mg2xbwaB6Iq0TEYt3S5iON4Nsct79PZXqayrxj3RqkEBglBSf0gkd14JaQOka5xwt85nZCd+U/SdDQG1U6VVAGkKG0Uw4QBPSrr1RK4tDsutj6HHl0yJ1ftQ5YA+lq"
         },
         {
           "icon": "https://static.flow.com.ar/images/1281/CH_LOGO/60/40/350/500/2992322907183.png",
@@ -354,11 +344,6 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "https://aermultinet.com/iptv/logos/radioformosa.jpg",
-          "name": "Radio Formosa Tv",
-          "uri": "SAnnkBmiEasVK1ydFO5arlW1qHRO4nFQ3RnC1GhQu4JsGtCJkeS7Egoj+L0xgm3fdgDfZQWNOAh91fsIXksPl9ZXSEa4VSl4Y4+AYHYq0H0="
-        },
-        {
           "icon": "https://aermultinet.com/iptv/logos/agenfor.png",
           "name": "CANAL 3 Formosa",
           "uri": "SAnnkBmiEasVK1ydFO5arqGj6KoroC9RtA5gVoUWgS7fuXPDBEROsf4dTGcD3aexY4uy9D4jB6OWBXOtX+9NsQ=="
@@ -369,11 +354,6 @@
           "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJOsHanV9zRoHY+UgFjk70k9jOVZHbgPXiX2MCsI1p7EtA=="
         },
         {
-          "icon": "https://aermultinet.com/iptv/logos/naineck.png",
-          "name": "NAINECK TV",
-          "uri": "YLdKP1SZFu+rkCHhlDVHwpb+SLOj/EclRMbT7H5qCNmf9772wyuz/0WrbV3Qe0UNXqXAMRO0rrGjo+j5mKrmiw=="
-        },
-        {
           "icon": "https://aermultinet.com/iptv/logos/BCC.png",
           "name": "BCC NET CHACO",
           "uri": "SPrM94xAnLFF1OVdICm+B6ezR+JVJJu0nTHcH0TzKZhq+MyWUDubHiqm4H6nzWMUCVMoUg++fLzNdOszpfbTBA=="
@@ -382,11 +362,6 @@
           "icon": "https://aermultinet.com/iptv/logos/radioiguazu.png",
           "name": "RADIO IGUAZU TV",
           "uri": "SPrM94xAnLFF1OVdICm+B4lvcK5QorR5/Gd67iSsmkKPU+tGyvJU9aKiu/8x1Dnp"
-        },
-        {
-          "icon": "https://aermultinet.com/iptv/logos/radioaer.png ",
-          "name": "RADIO AER STUDIOS TV",
-          "uri": "YLdKP1SZFu+rkCHhlDVHwr+DuhWnL9iZAcNvnUih+6ej8isLqAE0JvQHmviLnCj1rdH1mTdDliRRSwz5oUPLsg=="
         }
        ]
     },
