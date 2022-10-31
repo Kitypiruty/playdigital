@@ -2069,14 +2069,14 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "https://wikidat.com/img/tv-globo-brasil-c9a64a05391369186b5e7b46460ac07a.jpg",
-          "name": "Globo",
-          "uri": "FIo+OYSGLPZqiTcxm13yokPiOEsFK0j0ub1ZLCNGZzrG+jBMurgA4xldIY76IW0r"
-        },
+          "icon": "https://static.dplay.tech/imagenes/globobr.jpg",
+          "name": "GLOBO",
+          "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeS8209uHyf8+jWw1BDUQK4w=="
+        }, 
         {
           "icon": "https://3.bp.blogspot.com/-TiWSY2rIWqg/WvYAGpVBBzI/AAAAAAAAyn0/YcghPYoIE8M95rgj2q55x1QzqClYmn-cwCLcBGAs/s320/combate-play.jpg",
           "name": "Combate",
-          "uri": "FIo+OYSGLPZqiTcxm13yokPiOEsFK0j0ub1ZLCNGZzofgc1BqF7La7a9QJlQMTuw"
+          "uri": "FIo+OYSGLPZqiTcxm13yohSNffgr6pbce8jKViecPNuyyQjiRG8rcRy2az51idIiNk8d3yuRxfiFlT73LDieog=="
         }
       ]
     },
