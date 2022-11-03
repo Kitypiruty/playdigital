@@ -115,23 +115,11 @@
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb2J7nZpLXSUhs8xXb1A20pJG3e+8zLFkUzzBA7k+MZaw=="
         },
         {
-          "icon": "https://static.flow.com.ar/images/1029/CH_LOGO/60/40/0/0/18914232072197.png",
-          "name": "VIAJAR",
-          "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuf3izUU0PzQGr8yUXQNirpJF/0GFz9Jrg7Sqq9ioWNSFbNiDOdSVsqVg2XdPkRIrk=",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZz1hHGxRZIMLv100xrcfw3"
-        },
-        {
           "icon": "https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png",
           "name": "DTV",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvoivz0U+0ziI2oZ1HTkDG0czeA5rwtWx2F/NSZglgIZpPoKZQisjKyz6far79lf/MYmRRExRwUHoa8/DhrGwrd",
           "drm_scheme": "clearkey",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZZhBiEisT5YM87CtxH5PCdxvoZHtxmMhLNAs2zvIpS5g=="
-        },
-        {
-          "icon": "http",
-          "name": "TEST",
-          "uri": "ASOgYgTbt+xgq+EVBpD0mjmpuvRIN/BzrNFzBevwzbskYSQ4TmsIjvVFfzg2JmXS"
         }
       ]
     },
