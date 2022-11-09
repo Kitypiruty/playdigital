@@ -362,13 +362,6 @@
       "name": "DEPORTIVOS",
       "lista": [
         {
-          "icon": "",
-          "name": "EVENTO",
-          "uri": "NkY2l+hkFgRLlIa9+Q6UgMg57XkFobgRptlLahsbahIbzuFma/+AUmWLAjkoch/03bbViEuVBAgEadEEKSezm0iZ6oa6muCAgwSrGu8Lm6mSQuXOO5SVA0e9TUajCXF5R0jlKDPftITuk/9o1rId8jz1bd9LfnhG6g3He7/tJrraIfsvDoXuDmqok4dxEiH9JW26mhyx0Hlobw8DLqePOQ==",
-          "drm_scheme": "widevine",
-          "drm_license_url": "1RkZCOryVmTaRVCtJs09hgf2i43ER/SVjOFIFyqFp+o="
-        },
-        {
           "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
           "name": "ESPN PREMIUM",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvqd86QlP0Ji4kBHQonAIfUoLuddgsBaR0FI3Caf6s314v7JE1POwAEKAFsJL4mOCCPWdV69EIp9QHWhDrJsaRN0FzA/hhkvu/iYVgLJzC7bA==",
