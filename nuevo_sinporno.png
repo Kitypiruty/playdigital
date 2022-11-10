@@ -1560,6 +1560,11 @@
   {
     "name": "RADIOS",
     "samples": [
+     {
+          "icon": "https://static.dplay.tech/imagenes/cubalibrefm.jpeg",
+          "name": "CUBA LIBRE FM",
+          "uri": "WGAH+Swb0y3MlOo2kNBORwAHZS18qyUjc5ek6y0Nt7bvMO0YVbbUK6/98aZxlECb"
+      },
       {
         "icon": "http://static.dplay.tech/imagenes/radiomix97_7.jpg",
         "name": "Radio MIx 97.7 - Siempre juntos",
