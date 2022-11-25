@@ -493,7 +493,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/dtv3.png?",
+        "icon": "http://static.dplay.tech/imagenes/dtv3.png",
         "name": "DIRECTV SPORTS PLUS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
@@ -1365,32 +1365,6 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yecSn1a352cZ/uWGh6wi3T4h1eI24mKHDIy1gh7l8/z9u6oz6O/4h7azPTT0ussCo=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamw5og2UhASThExfHc53PA3Dck/ncTGr/19j8ZnRXAOR+"
-      }
-    ]
-  },
-  {
-    "name": "ADULTOS XXX 18+",
-    "samples": [
-      {
-        "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
-        "name": "PLAY BOY",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wBz8NK1X5vYrLFV67JSbh2LolF6AumA7Yi2nnl+gRvBYWFKQKw3cLLjbauuAEiBtQ=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam6Ky1kchFqMH9BBXkRX2LB0OUtUtKaNvruwzGeK2iKGN"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/862/CH_LOGO/350/500/0/0/966764300744.png",
-        "name": "VENUS",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zT5ggpU/ChgZYLkNY/v4fbDvmYxkSyEvhyErKlO7tTil0e3HMoZR29q60JO37PjII=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam2q0InP67m0nPWqVlbSqbrCnr6EY3WvND9/hMIJfSjXI"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/863/CH_LOGO/60/40/350/500/1511476707628.png",
-        "name": "SEX EXTREME",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zsi6Nihb+FqedyFBUaxM2KGqRyEIdFUABC/4WPPCs5zMJyc8x538GATnFftIytcseo2B7OEid2gil34P+ARDWn",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamwUQBlApfuM6iWd4q4y+1Qiz73pH4ZcAcAodEK9onIYB"
       }
     ]
   },
