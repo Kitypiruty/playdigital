@@ -480,21 +480,21 @@
       },
       {
           "icon": "http://static.dplay.tech/imagenes/dtv1.png?",
-          "name": "Direc TV sports 1",
+          "name": "DSports 1",
           "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya+GVqh88ZzNzdGKizWW9jNC",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYgzsNmTA8AJNCiN4wp5ZzA",
           "drm_scheme": "clearkey"
        },
        {
           "icon": "http://static.dplay.tech/imagenes/dtv2.png?",
-          "name": "Direc TV sports 2",
+          "name": "DSports 2",
           "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya/RTipyVUQm+UZ42uovTImq",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuga+rrV3NBzmmfcDDfTbN",
           "drm_scheme": "clearkey"
        },
        {
           "icon": "http://static.dplay.tech/imagenes/dtv3.png",
-          "name": "DIRECTV SPORT PLUS",
+          "name": "DSport PLUS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYKSkh9kTmPzWUG++g6HI07",
           "drm_scheme": "clearkey"
