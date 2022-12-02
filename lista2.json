@@ -1568,6 +1568,76 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3ITbmSpOL/x4dyFUCnzoPEUpds0/47+GWLVOotAEvwtw=="
       },
       {
+        "icon": "http://static.dplay.tech/imagenes/Caso_Cerrado.png",
+        "name": "Caso cerrado",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1eyd550kQW0MgJI+rxTJ8E6kA4QPECD92W4Y0qAMfHdA=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/csimiami.png",
+        "name": "CSI: Miami",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0p6Z9Bx9H5lZ0xHUW2HkFskW7GRyakZLrYKi8ddtnOpw=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/duckula247.jpg",
+        "name": "El conde patula",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2V0kyznCp8Eh4Jfml/hfwXB1LWxIBCCbhokOQ0bhZkpg=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/futurama247.jpg",
+        "name": "Futurama",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0IvDflwaBQCs9ZSgF7QGgBEHgj6kapElz9GrX2p9qjlw=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/ironman247.png",
+        "name": "Iron man",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2u1Lf+3STTKxJVamAiJc+LIRGadsq4eLGRlXBa/Fkkjw=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/jorgelcurioso247.png",
+        "name": "Jorge el curioso",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3xxZ96TxXApMhmjjvu6YzI0TYwaD1R3FUWoOO4tkJoDg=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/larosadeguadalupe247.jpg",
+        "name": "La rosa de guadalupe",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is26XKJg3vsajSsk/2n2dI9w5CFmeeDJpHpUyCZoeRH0lg=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/letemesalaoscuridad247.jpg",
+        "name": "Le temes a la oscuridad",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0DVW9JXZtvfikDE1YiMJCcPBsyttxK1CtdzB9lhEAL9g=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/losanosmaravillosos247.jpg",
+        "name": "Los años maravillosos",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2sooNQ/YzGTl1MjwrBreVSLre3swRmw66Aa5+3bUTUnw=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/spiderman247.png",
+        "name": "Spiderman",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1L3iGtoZIJO0inG1XrEVcaidEI/GCr+lbmtFoSE6dBhw=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/garfield247.png",
+        "name": "Garfield",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is23BMzGHpARH5BB2M3Ld8uBwiUkue1wHOzvhPTs1c+9Lw=="
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/Malcominthemiddle.jpg",
+        "name": "Malcolm",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is033uFwl8qJfwa8F69cKmpCq9HP/FF16L8A9OHit4sN7Q=="
+      },
+      {
+        "icon": "https://api.argentinatv.live/logos/PadreDeFamilia.jpg",
+        "name": "Padre de Familia",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3jF0lnw9Ini5h9r+LXU9sHzNYqpcVAI4FivML2++fLeA=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/candy247.jpg",
+        "name": "Candy candy 24/7",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0+uA5Cuum6xEgEYgRaM/frZQYywXLmPxFgeV/82N0Oqg=="
+      },
+      {
         "icon": "http://static.dplay.tech/imagenes/elgalloclaudio247.jpg",
         "name": "El gallo claudio",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1nlA3r/KFWEad52QdtO5XOaAbwMvU8hYwmV6sBwRe+1A=="
