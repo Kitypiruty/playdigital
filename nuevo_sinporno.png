@@ -1730,6 +1730,13 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam26XvHOZ7J69pTcsITBASwBwyJ4FsSLBCfQQq0NXoDsyDnECYSvXyfGO3yRSJk+p3A=="
       },
       {
+        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
+        "name": "DIRECTV SPORT URUGUAY",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvYh/EGFelZ+CW1MVbSJyNmDms4FHJ0fALQmI4aB5+Vg==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi68taO1dxVTX1ckkrnZe/RD"
+      },
+      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Canal_5_Uruguay.png/250px-Canal_5_Uruguay.png",
         "name": "Television Nacional Uruguay",
         "drm_scheme": "clearkey",
