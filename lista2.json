@@ -1270,8 +1270,7 @@
         },
         {
           "icon": "https://static.flow.com.ar/images/707/CH_LOGO/350/500/0/0/14664562073858.png",
-          "name": "
-           ",
+          "name": "MTV",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvzRXZ6WFGS0E8914craQ/AJjgUG/A7H8AIatM8kdRpK9ttr5IupjfHxpLiOpxkM1I=",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZqBQ4XbAfYafm/am4eRgsl",
           "drm_scheme": "clearkey"
@@ -1444,13 +1443,6 @@
           "name": "TELEMUNDO INTERNACIONAL",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtw1ivOO0DBKtiBGhDJ+FSiyCobwZs2UyxHW/7OWPjAxOgJQSbxLZx+ReuDnPilxoGwFRzwUl1MGlhsZ6ijmlWb",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbhdzH5pkh1aOusx6PzSidYhan2F1qvES0n/jIHejESBg==",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
-          "name": "TELEMUNDO MX",
-          "uri": "GC2/ddPzLVut0fvk2/wB4gt99hk+f8gURoRavd21p+RV+8PSXqrjKWxjtoO2hBf1NJ/lYzli3sExfmuRfBBmuA==",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZ+AgVuUGVr75UhJno4uGdsbWPJI+nvQcUJyq+xXr9Y4Q==",
           "drm_scheme": "clearkey"
         }
       ]
