@@ -19,16 +19,16 @@
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
           "name": "CANAL 9",
-          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXd3g4cE0JoA2nUovi69qBP2wwCzHhZ6+6VP/RJgPR2XQ==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYnvgeTTP+MYG0up7gPKPnb"
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXd3g4cE0JoA2nUovi69qBP2wwCzHhZ6+6VP/RJgPR2XQ==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZypfDqkPc+T0lWEGe78KflzU7iI8NpqsYWkzX3iFExrQ=="
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
           "name": "TELEFE",
-          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXlzYsuJ1QkJkrZfM3ePN7sApL78uzQXhMiSaWgdDiW0Q==",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZ+R/Gh7YY7te+LoW+1Fkjc"
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXlzYsuJ1QkJkrZfM3ePN7sApL78uzQXhMiSaWgdDiW0Q==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbUGZDtZMVfdo0P88chIqNJ"
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
@@ -42,7 +42,7 @@
           "name": "TN NOTICIAS",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWujlrUxuLkFvXA+0Tu2ni0i6sbj+rixwjWZnp4xHGh1OPHjdcm1ZiYTOq71RtX2bRclvB2ai9N9JqoMJQbWSW46",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYoQ0gKTvHOLcnICzJjOAJP"
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibamf4Y65LZHEf+IaRH23QdI"
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
