@@ -1736,11 +1736,6 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkD6NxNynWZg9MRgceCGbVl"
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/mrbean.jpg",
-        "name": "Mr. Bean",
-        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWnouuxuMXjxPEDUFg8zpOrx"
-      },
-      {
         "icon": "https://static.dplay.tech/imagenes/mrbean_animado.jpg",
         "name": "Mr. Bean Animado",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkKKFUE8TQox7gyjz4YVQAY"
@@ -1884,6 +1879,31 @@
         "icon": "https://static.dplay.tech/imagenes/zenki.jpg",
         "name": "Zenki",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkSPwE/LyPnSjSoo9egyry5"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/hormiga.jpg",
+        "name": "La Hormiga Atomica",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWlODOPRDBamIxnpXw6c9QMm"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/mascara.jpg",
+        "name": "La mascara",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkilRnCGg5VKeG1YZ+FfvED"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/vacaypollito.jpg",
+        "name": "La vaca y el pollito",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWmC7BiAqNOpFayUlPMz0hz6"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/thundercat.jpg",
+        "name": "Thundercat",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWnUQo5cntKaIvXhv26RaAjQ"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/yogui.jpeg",
+        "name": "Yogui",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWmCKOoYFuGP1e6iEGIgTQY+"
       }
     ]
   },
@@ -1894,6 +1914,11 @@
         "icon": "http://static.dplay.tech/imagenes/granhermano.jpg",
         "name": "Gran Hermanos",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWmtz5GwgAjsiITQCi+ZUcbr"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/friends.jpg",
+        "name": "Friends",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWl3PwgKOLev+yAuNyPmjb1H"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/lacasadepapel.jpg",
@@ -1931,6 +1956,11 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWlov26ISwRDumSOql3v8sz2"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/mrbean.jpg",
+        "name": "Mr. Bean",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWnouuxuMXjxPEDUFg8zpOrx"
+      },
+      {
         "icon": "http://static.dplay.tech/imagenes/xmne.jpg",
         "name": "X-Men",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWnDdXSLvhyBt4UzEiLC8uoS"
@@ -1941,68 +1971,73 @@
     "name": "CINE 24/7",
     "lista": [
       {
+        "icon": "https://i2.wp.com/www.mexmads.com/wp-content/uploads/2019/10/Las-peli%CC%81culas-favoritas-de-Tarantino.jpg?fit=600%2C384",
+        "name": "Tarantino",
+        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkSfFF03NY2FWEAUUaod1Ag"
+      },
+      {
         "icon": "http://static.dplay.tech/imagenes/elconjuro.jpg",
-        "name": "Peliculas El Conjuro",
+        "name": "El Conjuro",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWmbXcoexCZUoTx26P1JHUjL"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/marvel.jpg",
-        "name": "Peliculas Marvel",
+        "name": "Marvel",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWmWa8yygJfX5e6YZefb/XR/"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/rapidoyfurioso.jpg",
-        "name": "Peliculas Rapidos y Furiosos",
+        "name": "Rapidos y Furiosos",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWlnwaYfQW7LMyxT5oU6hdGa"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/justiceleague.jpg",
-        "name": "Peliculas Universo DC",
+        "name": "Universo DC",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWmd0Kv5nlqjbN1L15zIMQrY"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/batman.jpg",
-        "name": "Peliculas Batman",
+        "name": "Batman",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWllAShAnhPSlqTZnWcNQxVF"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/inframundo.jpg",
-        "name": "Peliculas Inframundo",
+        "name": "Inframundo",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkQp25FYmSELzMCKaZ/Sly6"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/peliculas_crepusculo.jpg",
-        "name": "Peliculas Crepusculo",
+        "name": "Crepusculo",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkmjNxfK/3tdawT1oHiwTwM"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/xmne.jpg",
-        "name": "Peliculas X-Men",
+        "name": "X-Men",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWl/HAaYvUckfQDVdT6wNg81"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/harrypoter.jpg",
-        "name": "Peliculas Harry Potter",
+        "name": "Harry Potter",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWlnr7vYLMSo3nf7UdrfnSho"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/batsejohnwick.jpg",
-        "name": "Peliculas John Wick",
+        "name": "John Wick",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWkxbVIH1/7pEPfzm5/Xpidg"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/residentevil.jpeg",
-        "name": "Peliculas Resident Evil",
+        "name": "Resident Evil",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWk5Wfo08uDYpQzTjmyjh39q"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/scarymovie.jpg",
-        "name": "Peliculas Scary Movie",
+        "name": "Scary Movie",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWn3Y45hZ4AhR9bQ10Dq7cyC"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/matrix.jpg",
-        "name": "Peliculas Matrix",
+        "name": "Matrix",
         "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWlQJoKP44aBNxMrw9BkUEHg"
       }
     ]
