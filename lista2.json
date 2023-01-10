@@ -1680,21 +1680,6 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2xnK86htleA5inF1K0CWAI"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/pasiondegavilanes.jpg",
-        "name": "Pasion de Gavilanes",
-        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3h448kXeHAjG4S085yGogg"
-      },
-      {
-        "icon": "http://www.cine.com/media/series/2452.jpg",
-        "name": "Game of Thrones",
-        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2OptvBwyKvoMWqPvbJbBli"
-      },
-      {
-        "icon": "http://www.formulatv.com/images/series/posters/300/386/dest_3.jpg",
-        "name": "The Walking Dead",
-        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0CEEC5VTKDt84e6fpS+8/z"
-      },
-      {
         "icon": "http://api.argentinatv.live/logos/heyarnold.png",
         "name": "Hey Arnold!",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0op8h857sWQeJ/B4Yug9QY"
@@ -1903,6 +1888,21 @@
         "icon": "http://static.dplay.tech/imagenes/granhermano.jpg",
         "name": "Gran Hermanos",
         "uri": "5YdyVi+PL8QZpLM9X5Sumph7HRQt2biFK6DSejaQfcevdYlEZ0xiImIeb+V/hOKd"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/pasiondegavilanes.jpg",
+        "name": "Pasion de Gavilanes",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3h448kXeHAjG4S085yGogg"
+      },
+      {
+        "icon": "http://www.cine.com/media/series/2452.jpg",
+        "name": "Game of Thrones",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2OptvBwyKvoMWqPvbJbBli"
+      },
+      {
+        "icon": "http://www.formulatv.com/images/series/posters/300/386/dest_3.jpg",
+        "name": "The Walking Dead",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0CEEC5VTKDt84e6fpS+8/z"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/friends.jpg",
