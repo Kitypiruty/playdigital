@@ -233,6 +233,13 @@
         "drm_scheme": "clearkey"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/telefesalta.png",
+        "name": "TELEFE SALTA",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuaUM8S63RNFUWsbWbsneWobU+mFq2v6O11ymFzXC24xrQxWJBwMHkTMSuShn3SAQLZNpvPEqwlpZkZ10JeuWse",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZj79HHlMdvgHvHqGPVp1t5V7DqMDaaUn6dRhYH2KiWZw==",
+        "drm_scheme": "clearkey"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/canal9mendoza.png",
         "name": "CANAL 9 DE MENDOZA",
         "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
