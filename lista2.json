@@ -1469,6 +1469,11 @@
     "name": "RADIOS",
     "lista": [
       {
+        "icon": "https://static.dplay.tech/imagenes/3masradio.png",
+        "name": "3 MÁS RADIO 92.7",
+        "uri": "SPrM94xAnLFF1OVdICm+B/fjgpfNyc1tzeusakooo9khrht+clIUkzSrJCXXeIDSUKvJg58xXhClB0ndUvkvIg=="
+      },
+      {
         "icon": "http://api.argentinatv.live/logos/retrohit.jpeg",
         "name": "RADIO RETROHIT IGUAZU 102.7",
         "uri": "N6kw4F5p5IzmEeq+lpi/UWZaNZvyx1mIz60Xh70LFfSFvMTRANrb6h7id1NYxqMZ"
