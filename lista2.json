@@ -548,6 +548,11 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk"
       },
       {
+        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
+        "name": "BEIN SPORTS EXTRA",
+        "uri": "wsX2rHfy0U7EH6776YVNSLHIDw6FVnn+oj69RolvE5LEt1+NBGvzZNjhiNTDbq8mL0G4s19nO3nAANk/xYIpKw=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/garagetv.png",
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
