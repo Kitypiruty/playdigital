@@ -1326,6 +1326,20 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYz/ltITQyfJVNJqFK29+D7"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/mtvlive.png",
+        "name": "MTV LIVE",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12HTN+P+ZeXQJsMzjNnAPry9EG0BwOa0w6NY7quzUhMHnNl9ps40Dj/ytj1uBJOfwCQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbxfWOnbnZuEAd5jX0zvMlh"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/mtvclub.png",
+        "name": "MTV CLUB",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12HTN+P+ZeXQJsMzjNnAPry/EWnqmi8WFJZ2cDTwCpeJDOxO011dYmxFkn1E0fN+b/A==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbBEOhxE56tkOvlMA+deAb5"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/mtv00s.png",
         "name": "MTV 00s",
         "drm_scheme": "clearkey",
