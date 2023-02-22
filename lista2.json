@@ -1101,6 +1101,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYiUL97MDa6CtkaqBjLeawSritNL0nFWdTdf2K/uyBpzg=="
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/claro.png",
+        "name": "CANAL CLARO",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12HJ1tA2EFZhXFdr7Aj3prsENO0txBug3Hz5xJT1HS7XkeF9ca/chw1H2y6TUU4NPew==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZs4APRNm2DdC9aKEKl1Iiv"
+      },
+      {
         "icon": "http://static.dplay.tech/imagenes/dtvnews.png",
         "name": "Directv News",
         "drm_scheme": "clearkey",
