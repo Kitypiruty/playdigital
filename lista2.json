@@ -1347,6 +1347,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZGuwZtHDZtRilp+vNOBRWg"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/mtv80s.png",
+        "name": "MTV 80s",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12GGTAjQd1iDkM0cDpNcfWJwqAmXeVZ7ryIXJXfBrKvTHk5NcMl8WLa6CBV3zM/J86Q==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibalX6DvhRiazGWIwKcI/AFB"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/vorterix.png",
         "name": "VORTERIX",
         "drm_scheme": "clearkey",
