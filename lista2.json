@@ -769,6 +769,13 @@
     "name": "CINE",
     "lista": [
       {
+        "icon": "https://static.dplay.tech/imagenes/dhe.png",
+        "name": "DHE",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12L8NtgL9Vj8G2LrKdFc/i9Pk0HjwUIOSHWLiFRBps44L6b68rIKP5B7f5yQ55mCoSw==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbPK4XENbuMMKkVQHQFFtVF"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/clarocinema.png",
         "name": "CLARO CINEMA",
         "drm_scheme": "clearkey",
