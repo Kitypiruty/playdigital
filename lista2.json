@@ -846,6 +846,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZPPTGjq6EwDO2lu00Zk8pv"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/gpremier.png",
+        "name": "GOLDEN PREMIER",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12GD8yUtZPO4mcSlWhqAVSEKmYNKXqj9teVoYrrGTjsPR29/g504JF3sFc+Tbh4QvKA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY3X6Ko2N3O4+N91cdVRPaU"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/volver.png",
         "name": "VOLVER",
         "drm_scheme": "clearkey",
