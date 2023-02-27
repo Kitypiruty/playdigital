@@ -1521,13 +1521,6 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqamyyzom0+k9fkwq3zdOE0uDWATHsEFjOblqwUkEUHRn89"
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/unicable.png",
-        "name": "Unicable",
-        "drm_scheme": "clearkey",
-        "uri": "SC4LhrujCNvzbvzA+BgiYXgjZ2fXpbC3ez91OUlTGcvPbZT3STTCzTdDSYuxCg8VhGqdjyHiymi+9qV88M34QQ==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam1P+NgMiNfO1QUnjDrNgE++PxIzUXeeVVLWNeKpMtQXL"
-      },
-      {
         "icon": "https://static.dplay.tech/imagenes/telemundoint.png",
         "name": "TELEMUNDO INTERNACIONAL",
         "drm_scheme": "clearkey",
