@@ -1185,6 +1185,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbiAT1x9KJJA/kIwzX/zVUm"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/rcn.png",
+        "name": "RCN TLNOVELA",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12ArXnPHlTTb4R+R2wVUKOCS3VnvPobHVOsXlU/xw6/7IWbu02+ycigu1Mf2S7v5Zew==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb/K57W9Lr1hRFjEmBVSQXK"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/chluz.png",
         "name": "CANAL LUZ",
         "drm_scheme": "clearkey",
