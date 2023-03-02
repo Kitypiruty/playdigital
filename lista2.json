@@ -1537,6 +1537,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZku9ZY0S4MKaNHq1AScVll"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/startve.png",
+        "name": "Star TVE",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12NqYuovcFHP183fZdJI32FmRoyXZSNtAT0BkpmLdYHG++yWPhuSdoN5Psn7OfaBRcQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZEc8fcp/AyGPcbZzxAG+SY"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/tv5monde.png",
         "name": "TV5MONDE AMERIQUE LATINE",
         "drm_scheme": "clearkey",
