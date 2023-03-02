@@ -789,9 +789,11 @@
         "drm_license_uri": "HCZtbqzut9luoVOjrMqam1P+NgMiNfO1QUnjDrNgE++rDSjmonEgsTPdskZ1n/W8"
       },
       {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/80/80/0/0/41895840072352.png",
+        "icon": "https://static.dplay.tech/imagenes/dhe.png",
         "name": "DHE",
-        "uri": "7fLreniMn5fwzmDDC4Vh/yHTE6Jb488BSY3Eo4MYz7xA5GyowNUfvdvjtqE33vUDUe7falyFeDlYx3THTxkRvQ=="
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12L8NtgL9Vj8G2LrKdFc/i9Pk0HjwUIOSHWLiFRBps44L6b68rIKP5B7f5yQ55mCoSw==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbPK4XENbuMMKkVQHQFFtVF"
       },
       {
         "icon": "https://i.ibb.co/VNPbHtC/vix.png",
