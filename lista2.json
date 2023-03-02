@@ -647,6 +647,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaxKYBn8g8q9NBg5Djvrujb"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/teenick.jpg",
+        "name": "TEEN NICK",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12KDF9KWr6vft3fNqy5WCo17mJM3O675HYQZWGIArBd8vRqihwIfRLgUFitrQy2sDlg==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbFI/mj0sT6g3QuyQgPf7s9"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/babytv.png",
         "name": "BABY TV",
         "drm_scheme": "clearkey",
