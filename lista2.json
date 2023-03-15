@@ -1122,6 +1122,11 @@
     "name": "NOVELAS y VARIEDADES",
     "lista": [
       {
+        "icon": "https://static.dplay.tech/imagenes/kanaldrama.jpg",
+        "name": "KANAL D DRAMA",
+        "uri": "u3BIY72N7YjCiC9toCeQNX15aqHCVMwrorYgqrYqClzaYKiZuR5v6w/VQSdZgwfZC2hRMxMrQnjK2RaRLHaX0XNsCsf+f1L8kWVKYppfPKg+3dC287NbSfI5AABi6K0VTS0Z57T/TGQzat5q9qYZHA=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/bravotv.png",
         "name": "Bravo TV",
         "drm_scheme": "clearkey",
