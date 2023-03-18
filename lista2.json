@@ -776,6 +776,13 @@
     "name": "CINE",
     "lista": [
       {
+        "icon": "https://static.dplay.tech/imagenes/mp.png",
+        "name": "MULTIPREMIER",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bN5xWRmkFzwhQAQ8Ad5Tsq0cFWplHY8VsQ3IZPb/7a0Xy3NuXRnT059VgsZ5F6LWLA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY1EDzGIkejGi1riZVd88YF"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/dhe.png",
         "name": "DHE",
         "drm_scheme": "clearkey",
