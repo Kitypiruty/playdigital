@@ -1197,13 +1197,6 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbiAT1x9KJJA/kIwzX/zVUm"
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/rcn.png",
-        "name": "RCN TLNOVELA",
-        "drm_scheme": "clearkey",
-        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12ArXnPHlTTb4R+R2wVUKOCS3VnvPobHVOsXlU/xw6/7IWbu02+ycigu1Mf2S7v5Zew==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb/K57W9Lr1hRFjEmBVSQXK"
-      },
-      {
         "icon": "https://static.dplay.tech/imagenes/chluz.png",
         "name": "CANAL LUZ",
         "drm_scheme": "clearkey",
@@ -2526,6 +2519,39 @@
         "icon": "http://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg",
         "name": "Genios TV",
         "uri": "v/+QVpTPW9vK4Po7lBbnNY6xmWxSWwhBUeH3Ov/UgqQoREksTYBVICbvqk0M0b9U6bB3eAr4zXM9Rdz8ZP8zqA=="
+      }
+    ]
+  },
+  {
+    "name": "COLOMBIA",
+    "lista": [
+      {
+        "icon": "https://static.dplay.tech/imagenes/caracol.png",
+        "name": "CARACOL",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv90NGD56UD98NsMLRgkDL72VtdSPDZzrfXUdiCW7vFCYw==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaT+y6kvbf7hHRvNevn4Zy9"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/rcnovelas.png",
+        "name": "RCN NOVELAS",
+        "drm_scheme": "clearkey",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12ArXnPHlTTb4R+R2wVUKOCS3VnvPobHVOsXlU/xw6/7IWbu02+ycigu1Mf2S7v5Zew==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb/K57W9Lr1hRFjEmBVSQXK"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/citytv.png",
+        "name": "City TV",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv+sOQeEdm9R0rRKut1RYi7HLy+BFy6yINkkjUZ8dfT7yw==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbVlbLmkWxVNVJAkUvWzzIr"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/cplus.png",
+        "name": "CINEMA PLUS",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv8HztqB5wR1GwZ5Rhzo1u8IRfPzKuyaf9u4UW2vrsyrJA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibakHEhV9EIaedCs/8+GVbde"
       }
     ]
   }
