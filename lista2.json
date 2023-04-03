@@ -2556,6 +2556,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb/K57W9Lr1hRFjEmBVSQXK"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/rcn.png",
+        "name": "RCN",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bNJ3A4xtw5x05novNJiF8jWjOm5JieLugGWGotSfVmsTUOKyNaFfWBtfTJ/3MJ610g==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZd7bL+9z5JRRGrxUquNRtu"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/citytv.png",
         "name": "City TV",
         "drm_scheme": "clearkey",
