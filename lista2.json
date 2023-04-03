@@ -2563,18 +2563,18 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZd7bL+9z5JRRGrxUquNRtu"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/canaluno.png",
+        "name": "CANAL UNO",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv+LgMVarRl1RUqpe0w9Ck+cE9OdKI1UyTAycwGCZLGfww==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZEO6jaSTrxEOMvu2721Jsv"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/citytv.png",
         "name": "City TV",
         "drm_scheme": "clearkey",
         "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv+sOQeEdm9R0rRKut1RYi7HLy+BFy6yINkkjUZ8dfT7yw==",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbVlbLmkWxVNVJAkUvWzzIr"
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/cplus.png",
-        "name": "CINEMA PLUS",
-        "drm_scheme": "clearkey",
-        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv8HztqB5wR1GwZ5Rhzo1u8IRfPzKuyaf9u4UW2vrsyrJA==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibakHEhV9EIaedCs/8+GVbde"
       }
     ]
   }
