@@ -2528,6 +2528,13 @@
     "name": "COLOMBIA",
     "lista": [
       {
+        "icon": "https://static.dplay.tech/imagenes/ntn24.jpg",
+        "name": "NTN 24",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bGHrXm93hxuf2o7WJAYq+jd5YqJFe9e4GdKi4MMonuSzVNv5wOgRAVm0UaGziMRpbQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbwdnXpef5zo8rTfGZ5Wozn"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/caracol.png",
         "name": "CARACOL",
         "drm_scheme": "clearkey",
