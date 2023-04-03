@@ -2542,6 +2542,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaT+y6kvbf7hHRvNevn4Zy9"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/caracolint.png",
+        "name": "CARACOL INTERNACIONAL",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv91Fy+INkKGA9Q9iXGitmSKxrxc6FSeULVKHaR5yQkjnQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbE46gGnjyxnkG13fTDAazVi92qTjlgPEtCN1zP/hnNqQ=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/rcnovelas.png",
         "name": "RCN NOVELAS",
         "drm_scheme": "clearkey",
