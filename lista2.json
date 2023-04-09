@@ -1151,13 +1151,6 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaRpjam0mg6shz78Z7SELzZ"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/smithsonianchannel.png",
-        "name": "Smithsonian Channel",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumucJJF/EhW9DBYQhy8JYoWlY4VzlQk26slcFG+G0tI7y",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYiUL97MDa6CtkaqBjLeawSritNL0nFWdTdf2K/uyBpzg=="
-      },
-      {
         "icon": "https://static.dplay.tech/imagenes/claro.png",
         "name": "CANAL CLARO",
         "drm_scheme": "clearkey",
