@@ -127,207 +127,202 @@
     "name": "INTERIOR DE ARGENTINA",
     "lista": [
       {
-        "icon": "https://static.tvar.io/imagenes/canal9mendoza.png",
-        "name": "CANAL 9 DE MENDOZA",
-        "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/sietemendoza.jpg",
-        "name": "Canal 7 Mendoza",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/canal12misiones.png",
+        "icon": "https://static.dplay.tech/imagenes/canal12misiones.png",
         "name": "CANAL DOCE MISIONES",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3GJtjO0vbdA3Klkt8EhXlQYHHewSyLCx0LfOoo1kJ2q8R/KleK4oFzv8BJUj1jSVZxc6JgPH8qLMvSlmeMrXl8WzlYxhoezOyBM2WYGiEE3z",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsW/IaMTNUU9EYWaPuE/U9LOP3+4PrzifYWbvV0xE+dGH98jaAuEdMi+t7GWyGr0tBF/XQNqRaV5L3i3TxbEr48",
         "drm_scheme": "clearkey",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYiba/FBhCqDyzDap0+lGSNH1l"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefecba.png",
+        "icon": "https://static.dplay.tech/imagenes/telefecba.png",
         "name": "TELEFE CORDOBA",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3AQipffqa8kZctY83svOhh7NimU3MSwMyOqtxP4q8g4dM1H/+odCAiOuR+THiwWaLVcsFPuLHdLbXZsVdjMnJkg=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtOL7+Qik5vxFwcBNwHS7CUMyVc8eg7r+OwOAAvsB0RFTwNnrpBx3+bznMRZ8LYqx9MQ4eKYul+KVEtf23PKc6c",
         "drm_scheme": "clearkey",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbYEp2q7kRHDxG1HcrhVD8WNVQ5jAfv6A6h/uzxDysyLA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal12cba.jpg",
+        "icon": "https://static.dplay.tech/imagenes/canal12cba.jpg",
         "name": "CANAL 12 CORDOBA",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3AQipffqa8kZctY83svOhh6xqZD8Az11XxKS6QPjrqBLpMZkWwaWqwNU8ws9EWzFlD7u3N+2OfI5kEF0YKoLTfo=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsiCtAlcEC5Ote+4RAFoZcBVNvsphyMswP93/nHWCqRMqrB0mgJTQL37gzcsiHP/Yv75rNlYndy+oJOrncM+XFj",
         "drm_scheme": "clearkey",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZaLQK8ogG9ZmDsuFWSWzq44RmCZK2uCw3LJekz/KAg+A=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal10cba.jpg",
+        "icon": "https://static.dplay.tech/imagenes/canal10cba.jpg",
         "name": "CANAL 10 CORDOBA",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3BzzkkcmXpWR9JuLdFGDWdP59ohDwjiKWrOIIj8hE37uLcK1WufEc+DJFgOy8qyqVDqEooDL8AGxCgBOO5JLldWuD2v54REOD2uT9VtsqmCI",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuCYNvW68YcebRSKzTHGNMmvRvv0KPtGpcriEVGiy4hhSC5VtKRK+hEi7zHIo1AS1o17vngGO4Ug0OuUGV1w0n6",
         "drm_scheme": "clearkey",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb659Lr0DVb16oqQPJ1Vy44h3j6KnA4cfgWaA0ogvqK+g=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
+        "icon": "https://static.dplay.tech/imagenes/canal13riocuarto.jpg",
         "name": "CANAL 13 RIO CUARTO",
         "uri": "b9u4klyilWWIJt4HQkXwC9LOnYJbyjKsftYlNnA1WFe/VNIJM0lmax332AbanP/i8Cd7VHj94N6uEXh/OcwhXkSOwPLZYJUjkzlshxhGlrY="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefesfe.png",
+        "icon": "https://static.dplay.tech/imagenes/telefesfe.png",
         "name": "TELEFE SANTA FE",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3AQipffqa8kZctY83svOhh43GDWK1Qe5CO2erPfqnDM/GkSkoA+wuTRld9Ja/imjHZSimsn1hsfGnHxcWlxSxE8=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWv48pk0uwPCPy0hNNhk5nB0mX2pPpOy6kRvuAAqg/oItRToWWnWRx6rx/RhFBNn05PIbOk/uLDj77thweIs53ok",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYfb3g5iEE00/7MLHaKvWu/cE3hWy4Zhi5F19+6FPSJ/A==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal9litoral.png",
+        "icon": "https://static.dplay.tech/imagenes/canal9litoral.png",
         "name": "Canal 9 Litoral",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3AQipffqa8kZctY83svOhh4k4uoaHe5mZlCH/S8qPOAq7hMevdz4t6ojnQB1qRannXOjuZXLVpTjaMVoeE4qfq1dnU66DltjxIsajYnuoODj",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvY3CWCNlG5oW+dj9rKKdjKq0D+4bF/yJskNs7tBP2XBnMpTwd1vW7T0smta7+1SMncokkCMoeMPoFuSRcK/+TW",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbqrkvyXUTSxMLVNbMk7vUoxaZIOqHCQrbSykF6fbcIfw==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/teleferosario.png",
+        "icon": "https://static.dplay.tech/imagenes/teleferosario.png",
         "name": "TELEFE ROSARIO",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3BzzkkcmXpWR9JuLdFGDWdOdF0Jv2uOLY37w2SpBIsYUH3tS9goW058zWPPHMXoPvWmzEM59IR3tPX8SDIoitZ3ajR2CjbATb4m5PDb+8jhn",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtbx0L8XGOGcXLv/KgbcedeUn248V9UliOnNYtxUUsVklWcqChGH4EWYNKJqNfK7DvWpgarLmAHHIIOvMOBHakk",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZlIuAsbdfyEweBYkkePgqzlDpnuqzmg7v+h+jhiK21zQ==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal3rosario.png",
+        "icon": "https://static.dplay.tech/imagenes/canal3rosario.png",
         "name": "CANAL 3 ROSARIO",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3CQpMoQ1+0YhCvTWiiX1EkZh4xClRW873y99ezsFAmD7wyItreNjeOCXIhccFaXkOjZzjRMJW8xceAvWfUmTrK4q/4fTdbhbZ9b/8R/wL/d1",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsf5NsoILW3L0LVhM9plDUCiEg1Ha5HVQcc3Iz231ubuqWj3rVXYRxIo4Hehi9RyUq8oClm8REa6xPrXJln2zZp",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYuozsSs6We8c05yaHbE1O/XsSs05raa/K9lrk0MQYFCw==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefeneuquen.png",
+        "icon": "https://static.dplay.tech/imagenes/telefeneuquen.png",
         "name": "TELEFE NEUQUEN",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3Ml8dJJI3h+7vTlEnlbCDm20Kn9JG6K37fnrml03hgeE1scgZsnv4CP7icqZDZzdH47tHyeUeCTjHO6lGMimPuyGwm2HDCNlciBlItOW7+RF",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWu1wul7PEZeSh0QJUMNWJVybtl1PWoLn9z6c8dh0WhnanISB4AYKrk1i2NgMmCLplAPInU3sLQQ/6auvhJk2CQy",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZcLoCwjLMSGfFiUGC7CXUcSPCCXVsGL0koLv53Vf/15Q==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/13maxdigital.png",
+        "icon": "https://static.dplay.tech/imagenes/13maxdigital.png",
         "name": "13 Max Televisión",
         "uri": "fs1cPA/EjXAFrgOYLRBAP9yeBRzV1buytMPwnKAvwpKkQSDmpj+rUrbXM82JrjmarFzOW/e8orRQjFeG2/ULpQxugV95eZvI38S65pwZpTg="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal9nordeste.png",
+        "icon": "https://static.dplay.tech/imagenes/canal9nordeste.png",
         "name": "Canal 9 Nordeste",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3GJtjO0vbdA3Klkt8EhXlQbTj32uMmCB2lc6b9yrOqdIrYQ5+BwOrMTRMJdL3d4M1iCkbid1g2EW1B/uOEBYK2pPG63QBgHqY5S5L0yJKRKU",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsiqHie4w0gIoTk3Un2JZwlHA1i4Y1H4HlgtbhSk4c5qhZNu2JpdIxV3gfFMAD2RTXaUJMW+M0HIOtLoK//hr/M",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaEgeDZ71Efc9hN0CVZ4bntmwyQ+15JozuXfq+PTbbYJA==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefebahia.png",
+        "icon": "https://static.dplay.tech/imagenes/telefebahia.png",
         "name": "TELEFE BAHIA BLANCA",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3CQpMoQ1+0YhCvTWiiX1EkbE3qjmsBEt1uQAwOTARMSuIa4wF2W0qKAcHwA4art9zL9pFvhFvEPNHd/87G5P8me6sZmSVvunS9WD8qdac1yj",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWums+d2YL7l0eFOvSBvSZ9Igmw5kdsSPVTYvgnymTuBX3f1amKGat2cOj9RwpVhIg9n+HUqF83BZiwxxjc6fKs0DjOTWAzYnzBH3YXuzrfy9g==",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbOLq8aJqWyfClLLFt9y1FC7olwsMCt5XX3BSC/QhedZg==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal7bahia.png",
+        "icon": "https://static.dplay.tech/imagenes/canal7bahia.png",
         "name": "Canal Siete Bahía Blanca",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3CQpMoQ1+0YhCvTWiiX1EkZk+r39BE1j/Q+VKLZKFFH1f4XkcnL+rlvz8qs1gMGqI0fYlOZN9KobrZ+5GYKOyYKlyn0L4PePjx3KA72kBzKK",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsCmssJC2f/3yfH5yNsj8GLbG6PjvB1CrBCld8g5yZ9d2KN9FmtYvTKYzT5gzTQvhbd2wvO+7qEMRBWWuzMnz9mptbYDHoHJgcWHLMf/HEZuA==",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYyBTuVEN38NU3Wj20hsId2i7iJxpgYjmowSt6oexyyXg==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/americatucuman.png",
+        "icon": "https://static.dplay.tech/imagenes/americatucuman.png",
         "name": "AMERICA TUCUMAN",
         "uri": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABoTja76gicYy+yfhqQVgfLNq1CUYe/hHUxamWLA8HMhRA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefetucuman.png",
+        "icon": "https://static.dplay.tech/imagenes/telefetucuman.png",
         "name": "TELEFE TUCUMAN",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3FVPPkkrguJYZ3K9Xih66U/FVQMOyEXMfviuDbeY/BSuwssUEPubduuvAWUatC/APIqlO3+porTo24bmK29vNn9sl6yHU9qBMb71/2JKP6Qt",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWskTDdn6MX3oCfkMg3NL/tdTocEo0PNlr9Xh8yv3qZwletRdr5FjPDuvRVQFeXyuqjT3uSeOjFRpjYKkrmOq7N1",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYizXKvLSBch/gZrX/zOedNRF+JOW6zezk0U48nZ3YTFg==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal10tucuman.png",
+        "icon": "https://static.dplay.tech/imagenes/canal10tucuman.png",
         "name": "CANAL 10 TUCUMAN",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3CY8FCRgbzLcX/IFpm9jr7TlSQQegZkEaS8BZwMcu7KD5VKMYO8dqDYsKCMwLPSF0us3KYsaYlsiHBdWBjmoJj4=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtr0ONEVAcya6+Pp5fsmarY19Io8z5mIjN165kDy0mBC+2XJRSBPHY+2mvre88NwNsBj/71JmKKaA1IWsu64xuz",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZD3M6kCpyvn1Se/KfM/iceghkFf0nA0RQdSHlzzj+hSg==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefesalta.png",
+        "icon": "https://static.dplay.tech/imagenes/telefesalta.png",
         "name": "TELEFE SALTA",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3Ml8dJJI3h+7vTlEnlbCDm3jqTL8TRNzL5qzLYFM4xFGmXVLeXAhWJY8wbz2aqN1/F2DRrhUTysUXjCRQiHJsTc=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuaUM8S63RNFUWsbWbsneWobU+mFq2v6O11ymFzXC24xrQxWJBwMHkTMSuShn3SAQLZNpvPEqwlpZkZ10JeuWse",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZj79HHlMdvgHvHqGPVp1t5V7DqMDaaUn6dRhYH2KiWZw==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/sietemendoza.jpg",
+        "icon": "https://static.dplay.tech/imagenes/canal9mendoza.png",
+        "name": "CANAL 9 DE MENDOZA",
+        "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/sietemendoza.jpg",
         "name": "Canal 7 Mendoza",
         "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal4jujuy.png",
+        "icon": "https://static.dplay.tech/imagenes/canal4jujuy.png",
         "name": "CANAL 4 JUJUY",
         "uri": "8UPHHCKqI6lEimip3FPVpw2BurzmknGBpVm0FVmF3HJlQfY6Ih9xBGl3ZLQLB9adRJuigdbUaq3gHuxyIN5IoNu8AIKRrTLD2LdejZTexw4="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/bragadotv.jpg",
+        "icon": "https://static.dplay.tech/imagenes/bragadotv.jpg",
         "name": "BRAGADO TV",
         "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9cEc6C59vh1dCPAUxLEu+XZbKHZDLFNcX3728wj9TSu0w=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal5.jpg",
+        "icon": "https://static.dplay.tech/imagenes/canal5.jpg",
         "name": "Canal 5 EPS TV Regional Bragado",
         "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvBnddJn3ChFNg26xl29MC2QqwTbsQW/0e0+nVw9t2Jv2n/Ij17NuN5PYYa2otVe+w="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal13larioja.jpg",
+        "icon": "https://static.dplay.tech/imagenes/canal13larioja.jpg",
         "name": "Canal 13 la Rioja",
         "uri": "UNQg5R6SlSLHrj34FEU+kRZHhvAnOrkJcacLJjESkKLmTO1DLaGNlPkvdcwEIODO"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal9larioja.jpg",
+        "icon": "https://static.dplay.tech/imagenes/canal9larioja.jpg",
         "name": "Canal 9 la Rioja",
         "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9c5anP3KaslkMPXka1qz7xfTolETbCnXk1g7NEUaR2KXA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/chilecito.jpg",
+        "icon": "https://static.dplay.tech/imagenes/chilecito.jpg",
         "name": "Chilecito",
         "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJP5yfJvQkMvGTg6WE7HLQvMHKQ1Ef0xgWinDfiC7pyXGw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/ch7catamarca.jpeg",
+        "icon": "https://static.dplay.tech/imagenes/ch7catamarca.jpeg",
         "name": "Canal 7 Catamarca",
         "uri": "ktNPE88DYayiYjdHWR/UMOhqHxOB4S6YTnszkYfoogIR+53/LFYJhOOygDyRd3h1cMdLQmqww/OYEceIkD32yI/Vm7norJiL5D0vPwFil56hJtZS3n7AWIEzllHCpvZJ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/ch10mendoza.jpg",
+        "icon": "https://static.dplay.tech/imagenes/ch10mendoza.jpg",
         "name": "Canal 10 Mendoza",
         "uri": "jmoMmIboKpLVBL27+mFxnK5M6hDOHt+n7uQTWhSgrC5k4uf4higgtt7/Xl4gcZCGeMa3vwkW2XsDAA/NtakY403OLTfSvgN94ayIqq4BbRo="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/fenixtv.jpeg",
+        "icon": "https://static.dplay.tech/imagenes/fenixtv.jpeg",
         "name": "Multiplataforma fénix",
         "uri": "EYpNpenfUqLGCjFM3M/KeOHnMXaPDGz5Ut0Sk9grzLdZwdZPEZIUhsVBAK83qWacCiB0BqV9bn3KIYAcct/Z5vF9ngGEeZ2rvbovte/DpWI="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tierramia.png",
+        "icon": "https://static.dplay.tech/imagenes/tierramia.png",
         "name": "TIERRA MIA",
         "uri": "BoqmxP2dz/94dlVkvUMWLh5e16xtGgloL1ABEp8nPURgdIgHW4KAekhfHLoxyeCm11HeFHiKBpSV8MKgOdiQ8ewTvNAvCaoCGGZJg4CziDo="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal13sanluis.png",
+        "icon": "https://static.dplay.tech/imagenes/canal13sanluis.png",
         "name": "CANAL 13 SAN LUIS",
         "uri": "ktNPE88DYayiYjdHWR/UMN6mTB7yaayfite2EivBkRzmU3Nvw0sJ3UCDoF6Sl1yG9yCEOcG3/G1ZDGcsh/n5nPpiKI+3Gkk8J6aZyb+cvR4="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal7jujuy.png",
+        "icon": "https://static.dplay.tech/imagenes/canal7jujuy.png",
         "name": "CANAL 7 JUJUY",
         "uri": "ktNPE88DYayiYjdHWR/UMJMNWOw5A9CisS+vCzXzOuqS39sew5N4LxnwjzoMkC77eMC4HIUPEcO1iFzq1Xbuaz77VgBTEnSxf4uUbmAeToY="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/multivisioncanal9.png",
+        "icon": "https://static.dplay.tech/imagenes/multivisioncanal9.png",
         "name": "Multivision canal 9 de salta",
         "uri": "KsiuEyVQ460Eq9rEW5fR3UKEtXvcK3AW7iu6wp9AGRrNR6eJmg+S6vOBAapm+wuqdqiVpq+6WxZIavxnnnp51Q=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal7salta.png",
+        "icon": "https://static.dplay.tech/imagenes/canal7salta.png",
         "name": "CANAL 7 SALTA",
         "uri": "KsiuEyVQ460Eq9rEW5fR3Vp2LzzreaFiNdV6fpTmMSrAP+CJ8wX/388tIO22S1uXdfKs24byJO+q3lSvYQNJVw=="
       },
@@ -337,56 +332,56 @@
         "uri": "Za/5wKdQkORsX6QkR632EwxP+fh9NCuRUeINAkCAL0dm68XHyyZPOX7t7pzJidPMSoCyScqDKITtu7ToHY/CMsB2YEWcx4R1c4S5tuilQzyABCgmJv0xEF3MNfVULzbr7eI+XNc0BY6TsDsQl+5OXHgd/5R4K6ybkUy/LVBwkGm2429K8Cxa6VBb4phRtKbyP0cR7KToAlyMMe0ke7pRJytPQnHXQ8Zsg0ggt1rf5Wcbom9GH4r7MW1F0jSe1vf2"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvpampeana.png",
+        "icon": "https://static.dplay.tech/imagenes/tvpampeana.png",
         "name": "TV PAMPEANA",
         "uri": "ktNPE88DYayiYjdHWR/UMCnWUWZdFaBwww/wS5W4BC30AncSMojHA9baW2ZLnJJDym+zgQDAVewxui+IJespTdrXNcQ+SBsuNwabXNe2miU="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/rtn.png",
+        "icon": "https://static.dplay.tech/imagenes/rtn.png",
         "name": "TV NEUQUEN",
         "uri": "lONyaVQH2JF3xxzUJ1VONSSWX7m3BdgwVc2fIfWJx9fUSwUf6OW8U4a2vxZry+XYfU6ouD/W4yXqqFEzRHZ/+A=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal6posadas.png",
+        "icon": "https://static.dplay.tech/imagenes/canal6posadas.png",
         "name": "CANAL 6 POSADAS",
         "uri": "vJd3aBqoPybD2voHVEQxnD+/Xma2aUsyPERVkoW2kRDeJ1fSRQxxyhG7YzV38W2QbGH6syeAJDvgiphk3OHaBA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/showsport.png",
+        "icon": "https://static.dplay.tech/imagenes/showsport.png",
         "name": "Showsport",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3G7G5q7AKUR7pREXcgfpZsq4813Q7WDELDXRGbqTo9S5rLAAq31G55xCdKYT+R8LvQUrrvWGvc9OWAcdSkaU9+g=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtJNUYHCuwde9ZkEIry73AKnQaiEIYP3oPLtxamJ/BfgSMhglvxiVKh/G0iN8wWstFRy7w4z+fLvJhzK0xmAvqs",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZ5hfiQMkw83gZN9xvIj3VQQ4SJ9HwroYfKSNAabrMnKA==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canalcoopjesusmaria.png",
+        "icon": "https://static.dplay.tech/imagenes/canalcoopjesusmaria.png",
         "name": "CANAL COOP JESUS MARIA",
         "uri": "KsiuEyVQ460Eq9rEW5fR3ezCCKFDeGGin6AMqa8vOlr/kc3shbt0WhSI0q1Eex1F+Hh1CvacrbgPx4RccfA9kzf7XrzZGLvq6bkg7RH4xmM="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canaldelaciudad.png",
+        "icon": "https://static.dplay.tech/imagenes/canaldelaciudad.png",
         "name": "CANAL DE LA CIUDAD",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3AQipffqa8kZctY83svOhh6Bay/qK9m2e6C+2K02yW3aUvmODf7IevcYDHwuwzoeBHND+t+tnTJXm7ydMYeHBER0cOxlLGXah2w5UikLj+kW",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuwPsnGNtXCdUK3z9r4/nJ33uGQBO8xKYvydxQc+92iMl0xcGEtKR9K+9L532aqudAeXkcR/Q/XRlzQZxtEjjXyGau/g5X0fK2nBtVF+755AQ==",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZjaxepFR0qmid+iGbG37ZwwBWNkpwc8rOtF0oBCcsx2w==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal3formosa.png",
+        "icon": "https://static.dplay.tech/imagenes/canal3formosa.png",
         "name": "CANAL 3 Formosa",
         "uri": "SAnnkBmiEasVK1ydFO5arqGj6KoroC9RtA5gVoUWgS7fuXPDBEROsf4dTGcD3aexY4uy9D4jB6OWBXOtX+9NsQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lapachoch11.jpg",
+        "icon": "https://static.dplay.tech/imagenes/lapachoch11.jpg",
         "name": "LAPACHO CANAL 11",
         "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJOsHanV9zRoHY+UgFjk70k9jOVZHbgPXiX2MCsI1p7EtA=="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/cvinoticias.png",
+        "icon": "http://static.dplay.tech/imagenes/cvinoticias.png",
         "name": "CVI IGUAZU",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is17mwfWkzpkMDbYCRrq5uj8"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/radioiguazu.png",
+        "icon": "https://static.dplay.tech/imagenes/radioiguazu.png",
         "name": "RADIO IGUAZU TV",
         "uri": "YLdKP1SZFu+rkCHhlDVHwuyzMb1TbZUnOD+9IqxOT3GpLYdWzcgnzdZGK9/O3jJjA+aTHE9ZRtZcimAkaac4LA=="
       }
