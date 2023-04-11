@@ -553,7 +553,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/daznf1.png",
         "name": "DAZN F1",
-        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Tl9Fpxv56IfF6nPqt1g8/"
+        "drm_scheme": "clearkey",
+        "uri": "Mo22ULi2rXtkabMZy1PDw0sOP2092uNXc9jQ3vyAgn/TCq7qM+UrPh6OexMGallisBiJ4rkJv0ykG0Hf1GVi8UteN50QF8mZm0yMgQ2MVIo=",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk"
       },
       {
         "icon": "https://static.tvar.io/imagenes/clasp.png",
