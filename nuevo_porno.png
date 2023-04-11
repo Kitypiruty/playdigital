@@ -387,9 +387,11 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
+        "icon": "http://static.tvar.io/imagenes/daznf1.png",
         "name": "DAZN F1",
-        "uri": "40x7g7hkccM3aNRJjOk+2g9lXQtEvgaLMHV3Ep/8E5x9aNx6p8Wc+NuYVX1m3GUH"
+        "drm_scheme": "clearkey",
+        "uri": "Mo22ULi2rXtkabMZy1PDw0sOP2092uNXc9jQ3vyAgn/TCq7qM+UrPh6OexMGallisBiJ4rkJv0ykG0Hf1GVi8UteN50QF8mZm0yMgQ2MVIo=",
+        "drm_license_url": "S8a3fIQaxSe3oDIb5UXRec8UUZgo4qMqcCqbhilwbwcm/L6P7H+B7W6djkLRc4gT"
       },
       {
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
