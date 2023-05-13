@@ -1229,13 +1229,6 @@
         "uri": "cq4f/qVow19eC0EeD4e5F/EfOcQ9YVQozH3a9SyeemA="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/smithsonianchannel.png",
-        "name": "Smithsonian Channel",
-        "uri": "cq4f/qVow19eC0EeD4e5F89D7x6fwfYmC+WTX2wym6Y=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "S8a3fIQaxSe3oDIb5UXReVfQiKIlb14uhvrVjzRRNa8wrJSXJD5aY+XKD81IYbvobWATlftx4BHMW68+IuidrA=="
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/chestrellas.png",
         "name": "CANAL DE LAS ESTRELLAS",
         "drm_scheme": "clearkey",
@@ -2153,46 +2146,6 @@
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Rk91Mtywmoh0uQJrNRU6-scaMhbEgm_W91uC4tH2GsMlidPfqKCG-nXbspqsNrEUPSw&usqp=CAU",
         "name": "COBRA KAI TEMPORADA 5 - CAP 10",
         "uri": "GWOVvOU5U2N3R+xEnrKtgK8SdsGNcIGAUbprz5BWuUYZxdAPVw+PD3i8eS4vE2WltJ1HgCuK4FwEFK4s5qNTqg=="
-      },
-      {
-        "icon": "https://mir-s3-cdn-cf.behance.net/projects/404/1c472d33556683.Y3JvcCwxMTkyLDkzMywxNzcsMA.png",
-        "name": "Don Gato y su pandilla",
-        "uri": "0u7RtaCoyz0sIDXu0NxHua+1V6ug9HfKNKEVnlgJdksbdmeD0paWWzSqxnqUDYc4STBq4mjjWcfCckOXY2+qRw=="
-      },
-      {
-        "icon": "https://image.shutterstock.com/image-vector/kung-fu-logo-isolated-on-260nw-114273052.jpg",
-        "name": "Kung Fu",
-        "uri": "2G4DmogZusLBmJv8BxnfDU4FZ6vSqrGmclCb9uss8SB3445Eb1A0+ZNELFy/XVAKjm3AbBKGUAwUl/ybiwF0gg=="
-      },
-      {
-        "icon": "https://i.imgur.com/eq9q8KW.png",
-        "name": "Locomotion",
-        "uri": "P4rUDa6Dhzj2Kx75WJOoNnuPjwfkwNPLTK/UWpO4J5FNY1uLlrNddZZwEtQ7Fgb9"
-      },
-      {
-        "icon": "https://i.pinimg.com/474x/cf/86/a4/cf86a43cdf023a48e4ce1a2efb10f6b6.jpg",
-        "name": "HEMAN",
-        "uri": "lvkHsW5Xi9iaP+PsZnvqaAsFaWslBVeveBGVAwbUh203lMxRpFzZGQ1/KFOxxdmHua0N0E4/px3Sv3iXOrooBg=="
-      },
-      {
-        "icon": "https://www.qualityartworks.com.ar/wp-content/uploads/pi/pi0920/0920pi_negro_estampa-247x296.jpg",
-        "name": "Brigada Cola",
-        "uri": "2G4DmogZusLBmJv8BxnfDUQ8fFWBEDLhX6QsSWu57sN8RMw+GlJ12meKT0F2cVLw6lc+OUcJiUMKLPLFXcX1qg=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/casadosconhijos.jpg",
-        "name": "Casados con Hijos",
-        "uri": "2G4DmogZusLBmJv8BxnfDUZqasX3ZNr2AGAVyvG3j9Nd6RSXiUkwey+lTwJZKM2kh6VZJ/e4ecSzs6vMvJUumA=="
-      },
-      {
-        "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-70x70.png",
-        "name": "Pelismania",
-        "uri": "eaw87ntVDVFR7f+hnJqHlC1YSOKYAoX07CSXr7Ek8pk="
-      },
-      {
-        "icon": "https://www.bastitoys.cl/wp-content/uploads/2020/08/robotech-2.jpg",
-        "name": "Robotech",
-        "uri": "2G4DmogZusLBmJv8BxnfDaz7/zVcEXrhWcsZtclsEp0222iJ7Arsrz5X+qlGQQrRct0nfpeJ9aZO2UM4dGcDHg=="
       },
       {
         "icon": "http://x.playerlatino.live/alf.png",
