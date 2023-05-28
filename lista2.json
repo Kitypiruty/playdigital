@@ -287,6 +287,11 @@
         "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJP5yfJvQkMvGTg6WE7HLQvMHKQ1Ef0xgWinDfiC7pyXGw=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/fenixtv.jpeg",
+        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
+        "uri": "EYpNpenfUqLGCjFM3M/KeOHnMXaPDGz5Ut0Sk9grzLdZwdZPEZIUhsVBAK83qWacCiB0BqV9bn3KIYAcct/Z5vF9ngGEeZ2rvbovte/DpWI="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/ch7catamarca.jpeg",
         "name": "Canal 7 Catamarca",
         "uri": "ktNPE88DYayiYjdHWR/UMOhqHxOB4S6YTnszkYfoogIR+53/LFYJhOOygDyRd3h1cMdLQmqww/OYEceIkD32yI/Vm7norJiL5D0vPwFil56hJtZS3n7AWIEzllHCpvZJ"
@@ -317,9 +322,24 @@
         "uri": "ktNPE88DYayiYjdHWR/UMJMNWOw5A9CisS+vCzXzOuqS39sew5N4LxnwjzoMkC77eMC4HIUPEcO1iFzq1Xbuaz77VgBTEnSxf4uUbmAeToY="
       },
       {
+        "icon": "https://scontent.faep14-3.fna.fbcdn.net/v/t39.30808-6/302327187_202132435495019_4503920185595533447_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1pLsHXG26wcAX9CkoCE&_nc_ht=scontent.faep14-3.fna&oh=00_AfABveDoYjfJj5co3dEEGOnf8tAF024pU3xDLsCL22aPmQ&oe=63EE8388",
+        "name": "STREAMMAX JUJUY",
+        "uri": "d49cArSMSt7F6eve8+KsKjF4bqrAgkeRZQPe1T8TMSSLhy6FjQhzhlKqa2S5aOMtsFtjt1ZtjaCav3qbSjHoAA=="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
         "uri": "eaw87ntVDVFR7f+hnJqHlB5MdfKq6c7IURnspjuv46El6SV3aYb82k1impqg1RQ5"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/canal4sanjuan.png",
+        "name": "Canal 4 San Juan",
+        "uri": "jlLfCOCD9zMTZ6nk4e//r+vMdESs5+z7/NM1TsCA/kdTUngUKvQCN7toJyic7cEzklUrbYnSMg6LegDSpIJteA=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/34sanjuan.png",
+        "name": "Canal 34 San juan",
+        "uri": "DJuvxS0eqr6q6X+M6sC9p58FUFTFFn4YsebzGF5g6lfEdUOeW0PjPeVSvN2sSFDwOonUi2CHL9zSIT804NA+1Q=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/multivisioncanal9.png",
@@ -340,6 +360,11 @@
         "icon": "https://static.tvar.io/imagenes/tvpampeana.png",
         "name": "TV PAMPEANA",
         "uri": "ktNPE88DYayiYjdHWR/UMCnWUWZdFaBwww/wS5W4BC30AncSMojHA9baW2ZLnJJDym+zgQDAVewxui+IJespTdrXNcQ+SBsuNwabXNe2miU="
+      },
+      {
+        "icon": "https://lanuevacoataneca.com/canal9.png",
+        "name": "Canal 9 Santa Cruz",
+        "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnplKIXhpmNk6w1neOrDoeAmH+ypnnvldat4gGWa68cbGDro60mVESLaEEMRj0tGc1/kgI69KWMz6wXbB5SuZ6c2"
       },
       {
         "icon": "https://static.tvar.io/imagenes/rtn.png",
