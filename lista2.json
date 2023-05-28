@@ -247,14 +247,19 @@
         "drm_scheme": "clearkey"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/sietemendoza.jpg",
+        "name": "Canal 7 Mendoza",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OHOxeCVkH3JUftguBpdeXJslN4AhG5+p+y7v8oqf5DaI"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/canal9mendoza.png",
         "name": "Canal 9 Mendoza",
         "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/sietemendoza.jpg",
-        "name": "Canal 7 Mendoza",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OHOxeCVkH3JUftguBpdeXJslN4AhG5+p+y7v8oqf5DaI"
+        "icon": "https://static.tvar.io/imagenes/ch10mendoza.jpg",
+        "name": "Canal 10 Mendoza",
+        "uri": "jmoMmIboKpLVBL27+mFxnK5M6hDOHt+n7uQTWhSgrC5k4uf4higgtt7/Xl4gcZCGeMa3vwkW2XsDAA/NtakY403OLTfSvgN94ayIqq4BbRo="
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal4jujuy.png",
@@ -295,11 +300,6 @@
         "icon": "https://static.tvar.io/imagenes/ch7catamarca.jpeg",
         "name": "Canal 7 Catamarca",
         "uri": "ktNPE88DYayiYjdHWR/UMOhqHxOB4S6YTnszkYfoogIR+53/LFYJhOOygDyRd3h1cMdLQmqww/OYEceIkD32yI/Vm7norJiL5D0vPwFil56hJtZS3n7AWIEzllHCpvZJ"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/ch10mendoza.jpg",
-        "name": "Canal 10 Mendoza",
-        "uri": "jmoMmIboKpLVBL27+mFxnK5M6hDOHt+n7uQTWhSgrC5k4uf4higgtt7/Xl4gcZCGeMa3vwkW2XsDAA/NtakY403OLTfSvgN94ayIqq4BbRo="
       },
       {
         "icon": "https://static.tvar.io/imagenes/fenixtv.jpeg",
