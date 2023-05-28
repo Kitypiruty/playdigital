@@ -262,11 +262,6 @@
         "uri": "jmoMmIboKpLVBL27+mFxnK5M6hDOHt+n7uQTWhSgrC5k4uf4higgtt7/Xl4gcZCGeMa3vwkW2XsDAA/NtakY403OLTfSvgN94ayIqq4BbRo="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal4jujuy.png",
-        "name": "CANAL 4 JUJUY",
-        "uri": "8UPHHCKqI6lEimip3FPVpw2BurzmknGBpVm0FVmF3HJlQfY6Ih9xBGl3ZLQLB9adRJuigdbUaq3gHuxyIN5IoNu8AIKRrTLD2LdejZTexw4="
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/bragadotv.jpg",
         "name": "BRAGADO TV",
         "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9cEc6C59vh1dCPAUxLEu+XZbKHZDLFNcX3728wj9TSu0w=="
@@ -315,6 +310,11 @@
         "icon": "https://static.tvar.io/imagenes/canal13sanluis.png",
         "name": "CANAL 13 SAN LUIS",
         "uri": "ktNPE88DYayiYjdHWR/UMN6mTB7yaayfite2EivBkRzmU3Nvw0sJ3UCDoF6Sl1yG9yCEOcG3/G1ZDGcsh/n5nPpiKI+3Gkk8J6aZyb+cvR4="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/canal4jujuy.png",
+        "name": "CANAL 4 JUJUY",
+        "uri": "8UPHHCKqI6lEimip3FPVpw2BurzmknGBpVm0FVmF3HJlQfY6Ih9xBGl3ZLQLB9adRJuigdbUaq3gHuxyIN5IoNu8AIKRrTLD2LdejZTexw4="
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal7jujuy.png",
