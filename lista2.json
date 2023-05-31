@@ -2195,11 +2195,6 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
-        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
-        "name": "GLOBO",
-        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3jDiOHNQhl3oBFLXdD2F2N"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
         "name": "SBT",
         "drm_scheme": "clearkey",
@@ -2212,13 +2207,6 @@
         "drm_scheme": "clearkey",
         "uri": "xIYXBrlnsxiG+DrojboqsTg6s7qPW29aKNTz9Wabz6KLZhHJpB114UCjoUosi6So",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY08WunQHz9SoNVsfQvg0Du"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/recordtv.png",
-        "name": "RECORD TV",
-        "drm_scheme": "clearkey",
-        "uri": "xIYXBrlnsxiG+Drojboqsa4Fa9SMVY3dx7eG8BVzjeuPbDwhhYad9XFaRDRTd+wL",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZXeikdZZVNJwb8vCKIS51r"
       },
       {
         "icon": "http://static.tvar.io/imagenes/redetv.png",
@@ -2289,11 +2277,6 @@
         "drm_scheme": "clearkey",
         "uri": "xIYXBrlnsxiG+DrojboqsY+wlL8McpfMAWSKPnW4wZ0REiBa4oZYbL3JvkJ0ouqD",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYZzMWuIlGPQAdFePUxAvrS"
-      },
-      {
-        "icon": "http://3.bp.blogspot.com/-TiWSY2rIWqg/WvYAGpVBBzI/AAAAAAAAyn0/YcghPYoIE8M95rgj2q55x1QzqClYmn-cwCLcBGAs/s320/combate-play.jpg",
-        "name": "Combate",
-        "uri": "dRfV8Wx8R8V6hwHwWuui3GKeMWlXCKSkZiwPL0VZ4z02LEwQq57UqblAJT1LYqgz"
       }
     ]
   },
