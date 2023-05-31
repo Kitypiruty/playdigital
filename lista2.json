@@ -2195,6 +2195,13 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
+        "name": "GLOBO",
+        "drm_scheme": "clearkey",
+        "uri": "LGzvKuoOEJGuCSsSQt1sSBSarhfNjTmz8zng0K4864hESxw2dD467iEJYHEkaU2+SNlsBYVpcAnIcf1Ds+UBrA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYC95AIyODVWMdXky1RhmQc"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
         "name": "SBT",
         "drm_scheme": "clearkey",
