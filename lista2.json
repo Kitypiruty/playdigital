@@ -2209,6 +2209,11 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibacLM6KsdlwJcvgywoZvSEk"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/recordtv.png",
+        "name": "RECORD TV",
+        "uri": "WTyXGb3mfrVVhXtRW/xa18Mh9xDBWUnGhDNyiiJs8yeQkwhjXk8flnm3VLq882A5e8H8FL3AeyMuBu0IiToPRA=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/band.png",
         "name": "BAND",
         "drm_scheme": "clearkey",
