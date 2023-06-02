@@ -2195,6 +2195,11 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/telecine.png",
+        "name": "TELECINE",
+        "uri": "LZ9Kg02jpo8JM2zbkO7btVxaEYuyRpthyn91gLggTcNU1DjdnnvChUebSBCnSAsu"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/globobr.jpg",
         "name": "GLOBO",
         "drm_scheme": "clearkey",
