@@ -2568,6 +2568,16 @@
     "name": "COLOMBIA",
     "lista": [
       {
+        "icon": "https://static.tvar.io/imagenes/calitv.png",
+        "name": "CALI TV",
+        "uri": "sS30HvLMQ1+xUgOM/pVd+9Qi5LizQTUQSC2nyGaZZYv2tV7HlOuvNphOfMMITYc362NCcDfQW7nV2LWxs3zLnA=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/canalinst.png",
+        "name": "Canal Institucional",
+        "uri": "hTgSbAI89/cR6qMaKhqBq7wKuOTdtLUqCpmT8xaICK6DBCMMj7oecvdOyS0oWwzCoMw1HIEgYF/RD/ppN0UWiaQhey5AnPKp6dL6FzX6inZ6eA/ChXegEeygisMMyGxz"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/ntn24.jpg",
         "name": "NTN 24",
         "drm_scheme": "clearkey",
