@@ -322,6 +322,11 @@
         "uri": "d49cArSMSt7F6eve8+KsKjF4bqrAgkeRZQPe1T8TMSSLhy6FjQhzhlKqa2S5aOMtsFtjt1ZtjaCav3qbSjHoAA=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/canal2jujuy.png",
+        "name": "CANAL 2 JUJUY",
+        "uri": "CSdibchqKCx4yearOi7iFk2Ye6+b6kDsJrgkzkmucv7HdbNINhkTxNS9iHaYx5RYE/azBQpsVLU4NhoNnkthZso+wICMAd1nyDCRbMFEh1Y="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
         "uri": "eaw87ntVDVFR7f+hnJqHlB5MdfKq6c7IURnspjuv46El6SV3aYb82k1impqg1RQ5"
@@ -424,6 +429,11 @@
         "icon": "https://static.tvar.io/imagenes/8mardelplata.png",
         "name": "Canal 8 Mar del Plata",
         "uri": "ktNPE88DYayiYjdHWR/UMIcA+wP7E2xNbaaHkd1l8CnfnhyuUlXJRRT+UQDYI308tMQez6If+iVtuiwAw0LINA=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/bayrestv.png",
+        "name": "BAYRES TV",
+        "uri": "hTgSbAI89/cR6qMaKhqBq1JIJ+KtEMFbtP1RT4oZewcLG/HmUjOTMsr6Q2UT7uHys5rdYMtXN+nkbcDNt/9nFA=="
       }
     ]
   },
