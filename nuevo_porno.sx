@@ -1785,6 +1785,11 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYUpxAo6rAkfobhgQbkgU2Q"
       },
       {
+        "icon": "https://www.moopio.com/system/entries/images/001/815/398/original/tigo-sports.png",
+        "name": "Tigo Paraguay",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKWqfKSJwLfUpGanr8CX6qxJQ=="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/paraguaytv.png",
         "name": "PARAGUAY TV",
         "drm_scheme": "clearkey",
