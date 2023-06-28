@@ -1257,6 +1257,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZCAFampI5l5Im8PDng7abzn6o3hydqPHBYKq5uQSV2gw=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/tlnovela.png",
+        "name": "TL NOVELA",
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bJiHMd+tJ36PSfZ6i8v0/JjbJkbvkUjmvuJsILuSDlkq4waX/RInu6BUL6d2tg20nQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbiAT1x9KJJA/kIwzX/zVUm"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/chluz.png",
         "name": "CANAL LUZ",
         "drm_scheme": "clearkey",
