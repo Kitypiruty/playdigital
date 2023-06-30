@@ -920,18 +920,24 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYPc2rj9TryHB7TyqkOJdTq"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/gplus.png",
-        "name": "GOLDEN PLUS",
-        "drm_scheme": "clearkey",
-        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12GD8yUtZPO4mcSlWhqAVSEJh40X+GG2xT6R4gCdv8Zk0j46e8l7TEcL5VVUfNteckQ==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZPPTGjq6EwDO2lu00Zk8pv"
+        "icon": "https://static.tvar.io/imagenes/golden.png",
+        "name": "GOLDEN",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3vL+b+JOD4UEbo8CsEI2aF"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/gpremier.png",
+        "icon": "https://static.tvar.io/imagenes/goldenedge.png",
+        "name": "GOLDEN EDGE",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2Xin5t6sEAHhT2ZNc4UK2m"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/goldenplus.png",
+        "name": "GOLDEN PLUS",
+        "uri": "D2jLokBxFj/Mr0k2a6m34Jm3Be1eQLi9RUV5WEAdF0I3i/xbiLLHxbwNLhXGYY5r19AdR9oovNDEPFpg2r8x8WaOLmtmnl2h3szGlB80h1Q="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/goldenpremier.png",
         "name": "GOLDEN PREMIER",
-        "drm_scheme": "clearkey",
-        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12GD8yUtZPO4mcSlWhqAVSEKmYNKXqj9teVoYrrGTjsPR29/g504JF3sFc+Tbh4QvKA==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY3X6Ko2N3O4+N91cdVRPaU"
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1lnuMC34iaicqQBveukC5V"
       },
       {
         "icon": "https://static.tvar.io/imagenes/volver.png",
