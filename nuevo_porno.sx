@@ -2259,6 +2259,13 @@
     "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
     "samples": [
       {
+        "icon": "https://directostv.teleame.com/wp-content/uploads/2018/01/Azteca-Uno-en-VIVO-Online-y-en-directo-directos-tv-mexico.png",
+        "name": "AZTECA UNO",
+        "uri": "AexSxQQcUVZPZwADaw6fsle3VmV9fX/8/vonFAL/xR7BvOm35DOSNJTg9/J5ZLQYjFuuR03m494x6vRJvIFWjA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYWgucGq/uJUgL8H6fCIsVFFcfgUAftbjGPVrvvY+TZ+A=="
+      },
+      {
         "icon": "https://i.ibb.co/q9HxQLD/gran-1-1.png",
         "name": "Gran Hermano Chile",
         "uri": "FYkKH4AdJqoCi+jhNj53m4JXIKBaOHjveLIYtvh5rjLJlNUIuIyRBKhjYbVFVMvJfF\/ld28x6GTBqIXkVBTFdw=="
